@@ -1,0 +1,432 @@
+[
+ {
+  "iso3": "KEN",
+  "country": "Kenya",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-08-24",
+  "debate": "Capitation crisis: Treasury funded only part of the per-learner capitation for 2026/27; Term 3 (Aug 2026) release left schools ~26% short and KESSHA puts the shortfall at Sh22.5bn, which the Education CS disputes.",
+  "comparator": "the KSh23.8 billion shortfall in free day secondary school capitation in the 2026/27 budget (Sh78.41bn required for 3.47m students vs Sh54.61bn approved)",
+  "local_value": "23.79 billion",
+  "currency": "KES",
+  "usd_m": 183.1,
+  "fx_rate": "129.92 KES/USD",
+  "fx_source": "Central Bank of Kenya homepage, Daily KES Exchange Rates, US DOLLAR 129.92, posted 19-10-2026 (retrieved 2026-10-20)",
+  "sources": [
+   "https://www.standardmedia.co.ke/education/article/2001547786/budget-crisis-leaves-six-million-learners-without-state-funding",
+   "https://www.kdrtv.co.ke/news/government-releases-sh18-5-billion-capitation-as-schools-reopen-for-third-term/",
+   "https://nation.africa/kenya/blogs-opinion/editorials/seek-solution-to-school-funds-crisis-in-final-term-5558510"
+  ],
+  "published": [
+   "2026-05-14",
+   "2026-08-24",
+   "2026-08-14"
+  ],
+  "why": "The official gap comes from the Ministry of Education's FY2026/27 submission to the National Assembly Education Committee (Standard, 14 May 2026); the same gap is the live Aug–Sep 2026 story: Term 3 capitation of Sh18.51bn equals Sh16,456.60 per learner against the Sh22,244 entitlement (KDRTV, 24 Aug 2026) and KESSHA's Sh22.5bn shortfall claim (Nation editorial). A 2026-09 Nation piece (Term 3 '28pc short') exists but the site refused download, so it is not relied on. Not preferred since 2026-10-23: the losses fund this part of the gap 4.7 times over; closing the entire basic-education gap reads better.",
+  "N_S1": 4.5,
+  "N_S2": 4.4,
+  "sentence_S1": "Recovering these annual losses of KSh107 billion would, for instance, have been enough to fund the KSh23.8 billion shortfall in free day secondary school capitation in the 2026/27 budget 4.5 times over.",
+  "evidence_files": [
+   "KEN/standardmedia_budget_crisis_six_million_learners_2026-05-14.html",
+   "KEN/kdrtv_government_releases_sh18.5bn_term3_capitation_2026-08-24.md",
+   "KEN/nation_editorial_school_funds_crisis_final_term_2026-08-14.html",
+   "KEN/the-star_ogamba_sh48bn_capitation_gap_2026-01-29.html",
+   "KEN/cbk_homepage_daily_kes_exchange_rates_2026-10-20.html"
+  ]
+ },
+ {
+  "iso3": "KEN",
+  "country": "Kenya",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-08-24",
+  "debate": "Same capitation crisis, whole basic-education envelope: the Ministry told MPs the 2026/27 basic education budget is Sh71.77bn short, leaving over six million learners without full capitation.",
+  "comparator": "the KSh71.8 billion shortfall in the 2026/27 basic education budget, which leaves more than six million learners without government capitation",
+  "local_value": "71.77 billion",
+  "currency": "KES",
+  "usd_m": 552.4,
+  "fx_rate": "129.92 KES/USD",
+  "fx_source": "Central Bank of Kenya homepage, Daily KES Exchange Rates, US DOLLAR 129.92, posted 19-10-2026",
+  "sources": [
+   "https://www.standardmedia.co.ke/education/article/2001547786/budget-crisis-leaves-six-million-learners-without-state-funding",
+   "https://www.kdrtv.co.ke/news/government-releases-sh18-5-billion-capitation-as-schools-reopen-for-third-term/"
+  ],
+  "published": [
+   "2026-05-14",
+   "2026-08-24"
+  ],
+  "why": "Preferred since 2026-10-23: the whole gap the Ministry reported, which the losses close entirely, instead of one part of it (free day secondary capitation, KSh23.8bn) 4.7 times over. Official figure: PS Julius Bitok to the National Assembly Departmental Committee on Education, 13 May 2026 (Standard, 14 May 2026): 'Kenya's basic education budget for 2026/27 carries a Sh71.77 billion shortfall severe enough to leave more than six million learners without government capitation'; components in the article: free primary (Sh15.67bn required vs Sh7bn), junior secondary (Sh54.68bn vs Sh30.91bn), free day secondary (Sh78.41bn vs Sh54.61bn), school feeding (Sh6.7bn vs Sh3bn), KEMIS (Sh5bn vs 0). The shortfall is being felt in the Term 3 disbursements (KDRTV, 24 Aug 2026). The older school-meals comparator (~KSh40bn, US$308m, N≈2.7) remains valid as a third option but was not re-sourced.",
+  "N_S1": 1.5,
+  "N_S2": 1.4,
+  "sentence_S1": "Recovering these annual losses of KSh107 billion would, for instance, have been enough to fund the KSh71.8 billion shortfall in the 2026/27 basic education budget 1.5 times over.",
+  "evidence_files": [
+   "KEN/standardmedia_budget_crisis_six_million_learners_2026-05-14.html",
+   "KEN/kdrtv_government_releases_sh18.5bn_term3_capitation_2026-08-24.md",
+   "KEN/cbk_homepage_daily_kes_exchange_rates_2026-10-20.html"
+  ],
+  "sentence_form": "entire",
+  "entire_verb": "close"
+ },
+ {
+  "iso3": "ETH",
+  "country": "Ethiopia",
+  "preferred": true,
+  "currentness": "usable",
+  "latest_date": "2026-07-18",
+  "debate": "Fuel-subsidy phase-out under the IMF programme: pump prices raised up to 20% in April 2026 after the subsidy bill reached ~ETB 272bn, the 2026/27 budget (+21%, blamed on Middle-East-crisis oil prices) keeps a residual ETB 20bn fuel subsidy and must find ETB 116bn to recapitalise the petroleum enterprise.",
+  "comparator": "the ETB 20 billion fuel subsidy in the 2026/27 federal budget",
+  "local_value": "20 billion",
+  "currency": "ETB",
+  "usd_m": 123.6,
+  "fx_rate": "161.81 ETB/USD",
+  "fx_source": "open.er-api.com (ExchangeRate-API) USD rates of 2026-10-20 00:02 UTC: ETB 161.808; cross-check fawazahmed0 currency-api 2026-10-19: 163.81 (NBE page is script-rendered, no rate retrievable)",
+  "sources": [
+   "https://www.thereporterethiopia.com/51198/",
+   "https://capitalethiopia.com/2026/04/02/govt-raises-fuel-prices-by-16-6-as-subsidy-burden-reaches-272-billion-birr/",
+   "https://www.imf.org/-/media/files/publications/cr/2026/english/1ethea2026001-source-pdf.pdf"
+  ],
+  "published": [
+   "2026-06-13",
+   "2026-04-02",
+   "2026-01"
+  ],
+  "why": "The Reporter's line-by-line breakdown of the 2.34tn Birr 2026/27 budget gives the fuel subsidy at 20bn Birr (down from the 100bn Birr FY25/26 cap in IMF CR 26/20, which also commits to cost-recovery pricing and a 0.5%-of-GDP subsidy saving from FY26/27); Capital (Apr 2026) and Businessfront/Bloomberg (Jun 2026) show the subsidy is the live fiscal pressure. No Sep–Oct 2026 source could be checked because the shared web-search budget ran out; The Reporter refused download (HTTP 520), so its figures are stored as a note.",
+  "N_S1": 3.5,
+  "N_S2": 5.1,
+  "sentence_S1": "Recovering these annual losses of ETB 70 billion would, for instance, have been enough to fund the ETB 20 billion fuel subsidy in the 2026/27 federal budget 3.5 times over.",
+  "evidence_files": [
+   "ETH/thereporterethiopia_51198_breaking_down_ethiopias_ballooning_budget_2026-06-13.md",
+   "ETH/thereporterethiopia_51932_petroleum_enterprise_286bn_recapitalization_2026-07-18.md",
+   "ETH/capitalethiopia_fuel_prices_up_16.6pc_subsidy_272bn_2026-04-02.html",
+   "ETH/businessfront_ethiopia_budget_2026-27_spending_2026-06-11.html",
+   "ETH/imf_cr26-20_ethiopia_4th_review_ecf_2026-01.pdf",
+   "ETH/open_er_api_usd_rates_2026-10-20.json",
+   "ETH/fawazahmed0_currency_api_usd_2026-10-19.json"
+  ]
+ },
+ {
+  "iso3": "ETH",
+  "country": "Ethiopia",
+  "preferred": false,
+  "currentness": "usable",
+  "latest_date": "2026-03-12",
+  "debate": "Tigray Interim Administration wrote to the federal Ministry of Finance that ETB 5.57bn of its federal grant had not been transferred, leaving it unable to pay 137,000 civil servants (teachers, health workers, administrators).",
+  "comparator": "the ETB 5.6 billion in withheld federal transfers that Tigray says it needs to pay the salaries of 137,000 civil servants",
+  "local_value": "5.57 billion",
+  "currency": "ETB",
+  "usd_m": 34.4,
+  "fx_rate": "161.81 ETB/USD",
+  "fx_source": "open.er-api.com 2026-10-20: ETB 161.808 (cross-check fawazahmed0 2026-10-19: 163.81)",
+  "sources": [
+   "https://wegahtafacts.substack.com/p/tigrays-interim-administration-says"
+  ],
+  "published": [
+   "2026-03-12"
+  ],
+  "why": "A vivid wage item inside the live federal–Tigray dispute, but the only retrieved source is a regional fact-checking Substack quoting the administration's letter (figure 5,570,604,789.14 Birr); liveness in Oct 2026 could not be re-checked (search budget exhausted). Use only if the source quality is acceptable.",
+  "N_S1": 12.5,
+  "N_S2": 18.4,
+  "sentence_S1": "Recovering these annual losses of ETB 70 billion would, for instance, have been enough to cover the ETB 5.6 billion in federal transfers Tigray says it needs to pay 137,000 unpaid civil servants 12.5 times over.",
+  "evidence_files": [
+   "ETH/wegahtafacts_tigray_137000_civil_servants_unpaid_2026-03-12.html",
+   "ETH/open_er_api_usd_rates_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "ETH",
+  "country": "Ethiopia",
+  "preferred": false,
+  "currentness": "weak",
+  "latest_date": "2025-08-18",
+  "debate": "Fallback = existing comparator: the September 2025 public-sector salary increase (minimum pay 4,760→6,000 Birr), which the Federal Civil Service Commission costed at over ETB 160bn a year (the earlier letter text used ETB 196bn).",
+  "comparator": "the ETB 160 billion-plus annual cost of the 2025 public-sector salary increase",
+  "local_value": "160 billion",
+  "currency": "ETB",
+  "usd_m": 988.8,
+  "fx_rate": "161.81 ETB/USD",
+  "fx_source": "open.er-api.com 2026-10-20: ETB 161.808",
+  "sources": [
+   "https://www.ena.et/web/eng/w/eng_7157077",
+   "https://birrmetrics.com/ethiopia-lifts-minimum-public-sector-salary-to-6000-birr/"
+  ],
+  "published": [
+   "2025-08-18",
+   "2025-08-18"
+  ],
+  "why": "Kept only as a fallback: it is 2025 and roughly twice the S1 loss, so the 'times over' phrasing fails; the ENA figure (over 160bn Birr) is the official one retrieved, the 196bn in the older text was not found.",
+  "N_S1": 0.4,
+  "N_S2": 0.6,
+  "sentence_S1": "Recovering these annual losses of ETB 70 billion would, for instance, have covered 43% of the ETB 160 billion-plus annual cost of the 2025 public-sector salary increase.",
+  "evidence_files": [
+   "ETH/ena_civil_service_salary_increment_160bn_birr_2025-08-18.html",
+   "ETH/birrmetrics_minimum_public_salary_6000_birr_2025-08-18.html",
+   "ETH/open_er_api_usd_rates_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "UGA",
+  "country": "Uganda",
+  "preferred": true,
+  "currentness": "usable",
+  "latest_date": "2026-06-12",
+  "debate": "Teacher pay: after the 2025 UNATU strikes and the omission of the promised raise from the 2026/27 Budget Framework Paper, the June 2026 budget allocated UGX 568.65bn for primary and arts teachers' salary enhancement, the first phase of a ~UGX 2.5tn plan unions say remains unfunded.",
+  "comparator": "the UGX 569 billion salary enhancement for primary and arts teachers in the 2026/27 budget",
+  "local_value": "568.65 billion",
+  "currency": "UGX",
+  "usd_m": 141.1,
+  "fx_rate": "4,029.72 UGX/USD",
+  "fx_source": "open.er-api.com (ExchangeRate-API) 2026-10-20: UGX 4,029.72; cross-checks: fawazahmed0 currency-api 2026-10-19: 4,139.17 and Bank of Tanzania cross-rate 20-Oct-26 ≈4,185 (Bank of Uganda page is script-rendered); the ±4% spread moves the US$ value by at most US$5m",
+  "sources": [
+   "https://www.independent.co.ug/arts-teachers-receive-salary-enhancement-in-2026-2027-budget/",
+   "https://nilepost.co.ug/news/348144/government-increases-education-sector-funding-allocates-shs568bn-for-teacher-salary-increment",
+   "https://sunrise.ug/news/education/202602/uganda-teachers-union-arts-teacher-pay-raises"
+  ],
+  "published": [
+   "2026-06-12",
+   "2026-06-11",
+   "2026-02-09"
+  ],
+  "why": "Official budget-speech figure (Finance Minister: 'an additional 568.65 billion Shillings has been allocated', >155,000 teachers), tied to a running dispute (UNATU strike Sep–Oct 2025, Feb 2026 complaint that the raise was not effected, 2.5tn programme outstanding). Implementation during Sep–Oct 2026 could not be verified (search budget exhausted).",
+  "N_S1": 1.2,
+  "N_S2": 1.7,
+  "sentence_S1": "Recovering these annual losses of UGX 700 billion would, for instance, have been enough to fund the UGX 569 billion salary enhancement for primary and arts teachers in the 2026/27 budget 1.2 times over.",
+  "evidence_files": [
+   "UGA/independent_arts_teachers_salary_enhancement_2026-27_budget_2026-06-12.html",
+   "UGA/nilepost_shs568bn_teacher_salary_increment_2026-06-11.html",
+   "UGA/newvision_parliament_passes_sh84.3tn_budget_2026-04-24.html",
+   "UGA/sunrise_unatu_arts_teacher_pay_pending_2026-02-09.html",
+   "UGA/open_er_api_usd_rates_2026-10-20.json",
+   "UGA/fawazahmed0_currency_api_usd_2026-10-19.json"
+  ],
+  "sentence_form": "entire",
+  "entire_verb": "fund"
+ },
+ {
+  "iso3": "UGA",
+  "country": "Uganda",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-10-06",
+  "debate": "Health-financing gap after US aid cuts: MPs cite a UGX 150bn shortfall for essential medicines behind stock-outs (Sep 2026), and on 6 Oct 2026 Parliament pressed the Health Ministry over unpaid community health workers, for which the ministry has requested supplementary funding.",
+  "comparator": "the UGX 150 billion funding gap for essential medicines that MPs want closed",
+  "local_value": "150 billion",
+  "currency": "UGX",
+  "usd_m": 37.2,
+  "fx_rate": "4,029.72 UGX/USD",
+  "fx_source": "open.er-api.com 2026-10-20: UGX 4,029.72 (cross-checks 4,139–4,185)",
+  "sources": [
+   "https://allafrica.com/stories/202609040089.html",
+   "https://www.africa-newsroom.com/press/uganda-tayebwa-calls-for-expansion-of-community-health-workers-programme?lang=en"
+  ],
+  "published": [
+   "2026-09-03",
+   "2026-10-06"
+  ],
+  "why": "Most current Ugandan item found, but the UGX 150bn is an MP's (Patrick Wakida, Nile Post) estimate rather than a ministry figure; the 6 Oct 2026 plenary (Parliament/APO release) shows the health-funding debate is live.",
+  "N_S1": 4.7,
+  "N_S2": 6.5,
+  "sentence_S1": "Recovering these annual losses of UGX 700 billion would, for instance, have been enough to close the UGX 150 billion funding gap for essential medicines 4.7 times over.",
+  "evidence_files": [
+   "UGA/allafrica_nilepost_wakida_shs150bn_medicines_gap_2026-09-03.html",
+   "UGA/africa-newsroom_parliament_chw_allowance_arrears_2026-10-06.html",
+   "UGA/open_er_api_usd_rates_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "TZA",
+  "country": "Tanzania",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-06",
+  "debate": "Universal Health Insurance (Bima ya Afya kwa Wote), launched 15 Oct 2026: Parliament's Budget Committee warned in June that the scheme needs TZS 691.3bn a year but earmarked revenues yield only TZS 201.9bn, a TZS 489.5bn annual gap; stakeholders at the Oct 2026 Tanzania Health Summit again flagged the funding gap.",
+  "comparator": "the TZS 489.5 billion annual financing gap of the Universal Health Insurance scheme",
+  "local_value": "489.5 billion",
+  "currency": "TZS",
+  "usd_m": 185.6,
+  "fx_rate": "2,637.69 TZS/USD",
+  "fx_source": "Bank of Tanzania homepage, 20-Oct-26: USD buying 2,624.5644 / selling 2,650.81 (mid 2,637.69)",
+  "sources": [
+   "https://www.thecitizen.co.tz/tanzania/news/national/lawmakers-warn-as-universal-health-insurance-plan-faces-sh489-5-billion-funding-gap-5496880",
+   "https://www.mwananchi.co.tz/mw/habari/makala/afya/bima-ya-afya-kwa-wote-kuzinduliwa-oktoba-15-5621024",
+   "https://www.thecitizen.co.tz/tanzania/news/national/tanzania-targets-universal-health-insurance-coverage-by-2028-29-fiscal-year-5570834"
+  ],
+  "published": [
+   "2026-06-15",
+   "2026-10-06",
+   "2026-08-25"
+  ],
+  "why": "The gap is the Budget Committee's own costing presented to Parliament on the 2026/27 budget (chair Mashimba Ndaki: 'Existing revenue sources are not sufficient'), and the scheme's launch on 15 Oct 2026 keeps it in the news this month.",
+  "N_S1": 2.3,
+  "N_S2": 2.6,
+  "sentence_S1": "Recovering these annual losses of TZS 1.14 trillion would, for instance, have been enough to fund the TZS 489.5 billion annual financing gap of the Universal Health Insurance scheme 2.3 times over.",
+  "evidence_files": [
+   "TZA/thecitizen_uhi_sh489.5bn_funding_gap_2026-06-15.html",
+   "TZA/thecitizen_lawmakers_flag_financial_risks_2026-06-16.html",
+   "TZA/mwananchi_bima_ya_afya_kwa_wote_launch_oct15_2026-10-06.html",
+   "TZA/thecitizen_uhi_full_coverage_target_2028-29_2026-08-25.html",
+   "TZA/theeastafrican_uhi_litmus_test_equity_fund_2026-01-31.html",
+   "TZA/bot_homepage_exchange_rates_2026-10-20.html"
+  ]
+ },
+ {
+  "iso3": "TZA",
+  "country": "Tanzania",
+  "preferred": false,
+  "currentness": "usable",
+  "latest_date": "2026-06-11",
+  "debate": "Existing comparator re-sourced: the 2026/27 budget speech (11 Jun 2026) allocates TZS 1.01 trillion to pensions and transfers (social benefits) within TZS 62.33tn of spending.",
+  "comparator": "the TZS 1.01 trillion allocated to pensions and social transfers in the 2026/27 budget",
+  "local_value": "1.01 trillion",
+  "currency": "TZS",
+  "usd_m": 382.9,
+  "fx_rate": "2,637.69 TZS/USD",
+  "fx_source": "Bank of Tanzania homepage, 20-Oct-26 mid rate 2,637.69",
+  "sources": [
+   "https://www.bdo-ea.com/getattachment/2003519a-ef4f-49eb-958a-d223ec0bcc13/Tanzania-Budget-Highlights-2026.pdf?lang=en-GB&ext=.pdf"
+  ],
+  "published": [
+   "2026-06"
+  ],
+  "why": "Kept as fallback: BDO's summary of the budget speech lists '1.01 trillion shillings for pensions and transfers'; it is a routine allocation rather than a contested need and nearly as large as the loss, so N is only just above 1.",
+  "N_S1": 1.1,
+  "N_S2": 1.3,
+  "sentence_S1": "Recovering these annual losses of TZS 1.14 trillion would, for instance, have been enough to fund the TZS 1.01 trillion allocated to pensions and social transfers in the 2026/27 budget 1.1 times over.",
+  "evidence_files": [
+   "TZA/bdo_tanzania_national_budget_highlights_2026-27_2026-06.pdf",
+   "TZA/bot_homepage_exchange_rates_2026-10-20.html"
+  ]
+ },
+ {
+  "iso3": "SOM",
+  "country": "Somalia",
+  "preferred": true,
+  "currentness": "usable",
+  "latest_date": "2026-09-25",
+  "debate": "Financing the first one-person-one-vote election since 1969: the 2026 budget sets aside US$24m of domestic revenue for elections, the president (whose term expired 15 May 2026) promised the vote at the UN on 24 Sep 2026, no date is set and no donor has committed to fund it through the budget.",
+  "comparator": "the US$24 million the federal government budgeted from its own revenues for the 2026 national elections",
+  "local_value": "24 million (federal budget denominated in US$; ≈SOS 13.7 billion at 571.44 SOS/USD)",
+  "currency": "USD",
+  "usd_m": 24.0,
+  "fx_rate": "1 (budget in US$); reference 571.44 SOS/USD",
+  "fx_source": "No conversion needed: Somalia's federal budget, revenues and salaries are in US dollars; reference SOS rate from open.er-api.com 2026-10-20 (571.44), cross-check fawazahmed0 2026-10-19 (572.38)",
+  "sources": [
+   "https://www.imf.org/-/media/files/publications/cr/2025/english/1somea2025002-source-pdf.pdf",
+   "https://radiodalsan.com/2025/12/23/somalias-parliament-approves-2026-national-budget-totaling-1-39-billion/",
+   "https://www.riotimesonline.com/somalia-un-speech-election-promise-2026/"
+  ],
+  "published": [
+   "2025-12-08",
+   "2025-12-23",
+   "2026-09-25"
+  ],
+  "why": "IMF CR 25/335 (4th ECF review, Board 8 Dec 2025): 'the 2026 budget accommodates priority spending needs stemming from security (US$12 million), elections (US$24 million), and for the first time, social spending using domestic resources (US$10 million)', leaving a residual fiscal financing gap; the MoF FY2026 framework paper budgets US$20.8m for the electoral commission. The figure is from the Dec 2025 budget, but the election and its funding are the dominant live political issue (Sep 2026 UN speech).",
+  "N_S1": 2.1,
+  "N_S2": 1.8,
+  "sentence_S1": "Recovering these annual losses of US$50 million would, for instance, have been enough to fund the US$24 million the federal government budgeted from its own revenues for the 2026 national elections 2.1 times over.",
+  "evidence_files": [
+   "SOM/imf_cr25-335_somalia_4th_review_ecf_2025-12-08.pdf",
+   "SOM/mof_somalia_fy2026_budget_policy_framework_paper_2025-10.pdf",
+   "SOM/radiodalsan_parliament_approves_2026_budget_1.39bn_2025-12-23.html",
+   "SOM/riotimesonline_somalia_un_speech_election_promise_2026-09-25.html",
+   "SOM/open_er_api_usd_rates_2026-10-20.json",
+   "SOM/fawazahmed0_currency_api_usd_2026-10-19.json"
+  ],
+  "sentence_form": "entire",
+  "entire_verb": "cover"
+ },
+ {
+  "iso3": "SOM",
+  "country": "Somalia",
+  "preferred": false,
+  "currentness": "usable",
+  "latest_date": "2025-12-23",
+  "debate": "Foreign-aid cuts (US$400–600m less inflows in 2025) forced the 2026 budget to fund social spending from domestic revenue for the first time: US$10m, while an IMF augmentation of US$39.9m covers the residual financing gap.",
+  "comparator": "the US$10 million of social spending the 2026 budget finances from domestic revenue for the first time",
+  "local_value": "10 million (federal budget denominated in US$)",
+  "currency": "USD",
+  "usd_m": 10.0,
+  "fx_rate": "1 (budget in US$)",
+  "fx_source": "No conversion needed; reference SOS 571.44 per US$ (open.er-api.com 2026-10-20)",
+  "sources": [
+   "https://www.imf.org/-/media/files/publications/cr/2025/english/1somea2025002-source-pdf.pdf",
+   "https://radiodalsan.com/2025/12/23/somalias-parliament-approves-2026-national-budget-totaling-1-39-billion/"
+  ],
+  "published": [
+   "2025-12-08",
+   "2025-12-23"
+  ],
+  "why": "Same IMF staff report; the social-spending floor is a programme conditionality and illustrates how small domestically funded social budgets are (the US$1.39bn budget is ~60% donor-funded). The US$2.2m drought-response line (Radio Dalsan) is an option if a smaller item is wanted (N≈23).",
+  "N_S1": 5.0,
+  "N_S2": 4.2,
+  "sentence_S1": "Recovering these annual losses of US$50 million would, for instance, have been enough to fund the US$10 million of social spending the 2026 budget finances from domestic revenue for the first time 5 times over.",
+  "evidence_files": [
+   "SOM/imf_cr25-335_somalia_4th_review_ecf_2025-12-08.pdf",
+   "SOM/radiodalsan_parliament_approves_2026_budget_1.39bn_2025-12-23.html"
+  ]
+ },
+ {
+  "iso3": "MDG",
+  "country": "Madagascar",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-09",
+  "debate": "Education-sector funding under the transitional government: after a strike by education ministries' administrative staff, decree 2026-2310 of 8 Oct 2026 granted a 150,000-ariary monthly allowance; the same coverage lists the 2026 budget's additional resources for education, 75bn ariary for National Education (incl. recruiting 9,000 staff), 34.5bn for higher education and 30bn for TVET, whose delivery depends on budget execution.",
+  "comparator": "the MGA 75 billion of investment the 2026 budget gives the Ministry of National Education",
+  "local_value": "75 billion",
+  "currency": "MGA",
+  "usd_m": 16.4,
+  "fx_rate": "4,577.85 MGA/USD",
+  "fx_source": "open.er-api.com (ExchangeRate-API) 2026-10-20: MGA 4,577.85; cross-check fawazahmed0 currency-api 2026-10-19: 4,512.48 (Banky Foiben'i Madagasikara page is script-rendered)",
+  "sources": [
+   "https://www.madagascar-tribune.com/Education-le-gouvernement-officialise-l-indemnite-de-150-000-ariary-pour-le.html",
+   "https://www.madagascar-tribune.com/Education-nationale-les-agents-maintiennent-la-pression-pour-trois-mois-de.html"
+  ],
+  "published": [
+   "2026-10-09",
+   "2026-10-07"
+  ],
+  "why": "Madagascar Tribune (9 Oct 2026): 'le budget 2026 prévoit des ressources supplémentaires ... 75 milliards d'ariary pour l'Éducation nationale ... Le recrutement de 9 000 agents'. Well-sized (N 2.5–3.5) and dated this month; caveat: the article calls these 'annonces budgétaires' without citing the finance-law article, so treat the 75bn as the government's announced 2026 education supplement rather than an audited line. Audit of 12 Nov 2026: the MGA 75bn is the national-education ministry's investment allocation in the 2026 budget; the 9,000 new posts are separate staff posts (Midi Madagasikara, 19 and 26 Nov 2025).",
+  "N_S1": 2.5,
+  "N_S2": 3.5,
+  "sentence_S1": "Recovering these annual losses of MGA 188 billion would, for instance, have been enough to fund the additional MGA 75 billion the 2026 budget sets aside for the Ministry of National Education 2.5 times over.",
+  "evidence_files": [
+   "MDG/madagascar-tribune_decret_2026-2310_indemnite_150000_ariary_2026-10-09.html",
+   "MDG/madagascar-tribune_agents_education_pression_trois_mois_rappel_2026-10-07.html",
+   "MDG/open_er_api_usd_rates_2026-10-20.json",
+   "MDG/fawazahmed0_currency_api_usd_2026-10-19.json"
+  ]
+ },
+ {
+  "iso3": "MDG",
+  "country": "Madagascar",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-10-09",
+  "debate": "Wage demand of the education ministries' administrative and technical staff: a 150,000-ariary monthly allowance, granted by decree 2026-2310 (8 Oct 2026) retroactively to 1 Jul 2026 after a strike over the July–Sept back pay; the measure 'devrait représenter environ 11 milliards d'ariary pour les finances publiques'.",
+  "comparator": "the roughly MGA 11 billion cost of the new 150,000-ariary monthly allowance for the education ministries' administrative and technical staff",
+  "local_value": "11 billion (approximate)",
+  "currency": "MGA",
+  "usd_m": 2.4,
+  "fx_rate": "4,577.85 MGA/USD",
+  "fx_source": "open.er-api.com 2026-10-20: MGA 4,577.85 (cross-check 4,512.48)",
+  "sources": [
+   "https://www.madagascar-tribune.com/Education-nationale-les-agents-maintiennent-la-pression-pour-trois-mois-de.html",
+   "https://www.madagascar-tribune.com/Education-le-gouvernement-officialise-l-indemnite-de-150-000-ariary-pour-le.html"
+  ],
+  "published": [
+   "2026-10-07",
+   "2026-10-09"
+  ],
+  "why": "The most precisely dated live item (strike, decree of 8 Oct 2026) and the archetypal 'cost of a wage demand', but small: N is 17 for S1 and 24 for S2, and the 11bn is an approximate press figure whose period (annual vs. first-year) is not stated. The LFR 2026 fuel subsidy (MGA 419bn, Jun 2026) was rejected as 2–3 times larger than the loss.",
+  "N_S1": 17.1,
+  "N_S2": 23.7,
+  "sentence_S1": "Recovering these annual losses of MGA 188 billion would, for instance, have been enough to fund the roughly MGA 11 billion cost of the new 150,000-ariary monthly allowance for the education ministries' administrative and technical staff 17 times over.",
+  "evidence_files": [
+   "MDG/madagascar-tribune_agents_education_pression_trois_mois_rappel_2026-10-07.html",
+   "MDG/madagascar-tribune_decret_2026-2310_indemnite_150000_ariary_2026-10-09.html",
+   "MDG/madagascar-tribune_fce_23_milliards_ariary_2026-05-21.html",
+   "MDG/newsmada_lfr2026_419_milliards_subvention_carburants_2026-06-16.html",
+   "MDG/open_er_api_usd_rates_2026-10-20.json"
+  ]
+ }
+]

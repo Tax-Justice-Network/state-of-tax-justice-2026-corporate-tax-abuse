@@ -1,0 +1,59 @@
+{
+  "id": "credit-agricole-sa",
+  "name": "Crédit Agricole S.A.",
+  "registeredOfficeCountry": "FR",
+  "registeredOfficeCity": "",
+  "sector": "",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2025",
+      "sourceUrl": "https://www.credit-agricole.com/en/pdfPreview/209967",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T19:43:26.582Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2024",
+      "sourceUrl": "https://www.credit-agricole.com/en/pdfPreview/206105",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T19:45:39.115Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2023",
+      "sourceUrl": "https://www.credit-agricole.com/en/pdfPreview/202577",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T19:47:55.957Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2022",
+      "sourceUrl": "https://www.credit-agricole.com/en/pdfPreview/197620",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T19:50:02.008Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2021",
+      "sourceUrl": "https://www.credit-agricole.com/en/pdfPreview/192553",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T19:51:59.275Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2020",
+      "sourceUrl": "https://www.credit-agricole.com/en/pdfPreview/187401",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T19:54:20.371Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2019",
+      "sourceUrl": "https://www.credit-agricole.com/en/pdfPreview/180684",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T19:56:20.310Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}

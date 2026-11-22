@@ -1,0 +1,5 @@
+jurisdiction,code,line_type,revenue,pbt,tax_paid,tax_accrued,acc_earnings,employees
+IE,IE,named,45393127.0,-407762505.0,1777005.0,1922000.0,334756275.0,22.0
+LU,LU,named,0.0,-120752.0,83002.0,0.0,4643177.0,0.0
+NL,NL,named,760.0,53030591.0,0.0,0.0,142332614.0,0.0
+All other tax jurisdictions (aggregated),,other_aggregated,1967714177.0,29133819.0,5595000.0,6568500.0,67809654.0,13359.0

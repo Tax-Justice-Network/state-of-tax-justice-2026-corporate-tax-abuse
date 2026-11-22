@@ -1,0 +1,796 @@
+iso3,category,rent_fraction,source_group,n_cells
+ABW,oil_gas,0.24573038999177643,region+income:Latin America & Caribbean|High income,29
+ABW,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+ABW,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+AFE,oil_gas,0.47259929734252815,global,656
+AFE,coal,0.22400725023143248,global,287
+AFE,minerals,0.3115000059573998,global,62
+AFG,oil_gas,0.2073909589548845,country,5
+AFG,coal,0.31102999886022886,country,4
+AFG,minerals,0.3186417847699433,income:Low income,10
+AFW,oil_gas,0.47259929734252815,global,656
+AFW,coal,0.22400725023143248,global,287
+AFW,minerals,0.3115000059573998,global,62
+AGO,oil_gas,0.629739568577158,country,6
+AGO,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+AGO,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+ALB,oil_gas,0.45248218622469977,country,6
+ALB,coal,0.18742084902600586,country,6
+ALB,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+AND,oil_gas,0.34068992918645324,region+income:Europe & Central Asia|High income,152
+AND,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+AND,minerals,0.4233543754871399,region:Europe & Central Asia,7
+ARB,oil_gas,0.47259929734252815,global,656
+ARB,coal,0.22400725023143248,global,287
+ARB,minerals,0.3115000059573998,global,62
+ARE,oil_gas,0.7109399195518535,country,6
+ARE,coal,0.31102999886022886,region:Middle East & North Africa,16
+ARE,minerals,0.13206750866377093,income:High income,4
+ARG,oil_gas,0.33692750721628967,country,6
+ARG,coal,0.29432554465720023,country,5
+ARG,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+ARM,oil_gas,0.4620243210669806,region+income:Europe & Central Asia|Upper middle income,53
+ARM,coal,0.144850504938991,region+income:Europe & Central Asia|Upper middle income,30
+ARM,minerals,0.33905222535018664,country,2
+ASM,oil_gas,0.5667729015576707,region+income:East Asia & Pacific|High income,37
+ASM,coal,0.20916367710295825,region+income:East Asia & Pacific|High income,24
+ASM,minerals,0.41483004381615973,region:East Asia & Pacific,7
+ATG,oil_gas,0.24573038999177643,region+income:Latin America & Caribbean|High income,29
+ATG,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+ATG,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+AUS,oil_gas,0.8549706364745924,country,6
+AUS,coal,0.22451012000205922,country,6
+AUS,minerals,0.41483004381615973,region:East Asia & Pacific,7
+AUT,oil_gas,0.29794440966087965,country,6
+AUT,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+AUT,minerals,0.4233543754871399,region:Europe & Central Asia,7
+AZE,oil_gas,0.5004233160978708,country,6
+AZE,coal,0.144850504938991,region+income:Europe & Central Asia|Upper middle income,30
+AZE,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+BDI,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+BDI,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+BDI,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+BEL,oil_gas,0.25987866750186006,country,6
+BEL,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+BEL,minerals,0.4233543754871399,region:Europe & Central Asia,7
+BEN,oil_gas,0.5719724411888525,region+income:Sub-Saharan Africa|Lower middle income,56
+BEN,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+BEN,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+BFA,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+BFA,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+BFA,minerals,0.21600883592354378,country,3
+BGD,oil_gas,0.5474405713183661,country,6
+BGD,coal,0.47181949624672725,country,6
+BGD,minerals,0.2773883722129562,income:Lower middle income,24
+BGR,oil_gas,0.10504695174638609,country,6
+BGR,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+BGR,minerals,0.4233543754871399,region:Europe & Central Asia,7
+BHR,oil_gas,0.8039756689490666,country,6
+BHR,coal,0.31102999886022886,region:Middle East & North Africa,16
+BHR,minerals,0.13206750866377093,income:High income,4
+BHS,oil_gas,0.24573038999177643,region+income:Latin America & Caribbean|High income,29
+BHS,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+BHS,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+BIH,oil_gas,0.4620243210669806,region+income:Europe & Central Asia|Upper middle income,53
+BIH,coal,0.08810369346653235,country,6
+BIH,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+BLR,oil_gas,0.4878021703347538,country,6
+BLR,coal,0.144850504938991,region+income:Europe & Central Asia|Upper middle income,30
+BLR,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+BLZ,oil_gas,0.3540985543417367,country,5
+BLZ,coal,0.27130502222376696,region+income:Latin America & Caribbean|Upper middle income,29
+BLZ,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+BMU,oil_gas,0.1312171142432178,region+income:North America|High income,12
+BMU,coal,0.4158710185899413,region+income:North America|High income,12
+BMU,minerals,0.13206750866377093,income:High income,4
+BOL,oil_gas,0.38415753351407844,country,6
+BOL,coal,0.2599245204069055,region:Latin America & Caribbean,35
+BOL,minerals,0.10924594453107593,region+income:Latin America & Caribbean|Lower middle income,1
+BRA,oil_gas,0.35767670787370465,country,6
+BRA,coal,0.2584902200772351,country,6
+BRA,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+BRB,oil_gas,0.4172300233680501,country,5
+BRB,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+BRB,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+BRN,oil_gas,0.6590521297922937,country,6
+BRN,coal,0.20916367710295825,region+income:East Asia & Pacific|High income,24
+BRN,minerals,0.41483004381615973,region:East Asia & Pacific,7
+BTN,oil_gas,0.48207276247306474,region+income:South Asia|Lower middle income,12
+BTN,coal,0.47181949624672725,region+income:South Asia|Lower middle income,18
+BTN,minerals,0.2773883722129562,income:Lower middle income,24
+BWA,oil_gas,0.546807409934949,region+income:Sub-Saharan Africa|Upper middle income,19
+BWA,coal,0.3414084043473432,country,6
+BWA,minerals,0.06781717481143645,region+income:Sub-Saharan Africa|Upper middle income,1
+CAF,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+CAF,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+CAF,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+CAN,oil_gas,0.16161812775226864,country,6
+CAN,coal,0.25269431427129896,country,6
+CAN,minerals,0.13206750866377093,income:High income,4
+CEB,oil_gas,0.47259929734252815,global,656
+CEB,coal,0.22400725023143248,global,287
+CEB,minerals,0.3115000059573998,global,62
+CHE,oil_gas,0.11456692275177358,country,3
+CHE,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+CHE,minerals,0.4233543754871399,region:Europe & Central Asia,7
+CHI,oil_gas,0.34068992918645324,region+income:Europe & Central Asia|High income,152
+CHI,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+CHI,minerals,0.4233543754871399,region:Europe & Central Asia,7
+CHL,oil_gas,0.17095981236605542,country,6
+CHL,coal,0.19718362452722274,country,6
+CHL,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+CHN,oil_gas,0.49809482111915904,country,6
+CHN,coal,0.21359186211743744,country,6
+CHN,minerals,0.3614793519192111,region+income:East Asia & Pacific|Upper middle income,2
+CIV,oil_gas,0.5352275432861759,country,6
+CIV,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+CIV,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+CMR,oil_gas,0.5736085099863428,country,6
+CMR,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+CMR,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+COD,oil_gas,0.5424053171032972,country,6
+COD,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+COD,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+COG,oil_gas,0.6096233672222449,country,6
+COG,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+COG,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+COL,oil_gas,0.44766143296774913,country,6
+COL,coal,0.3193215843507643,country,6
+COL,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+COM,oil_gas,0.5719724411888525,region+income:Sub-Saharan Africa|Lower middle income,56
+COM,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+COM,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+CPV,oil_gas,0.546807409934949,region+income:Sub-Saharan Africa|Upper middle income,19
+CPV,coal,0.3419767688461558,region+income:Sub-Saharan Africa|Upper middle income,12
+CPV,minerals,0.06781717481143645,region+income:Sub-Saharan Africa|Upper middle income,1
+CRI,oil_gas,0.46763473391063926,country,2
+CRI,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+CRI,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+CSS,oil_gas,0.47259929734252815,global,656
+CSS,coal,0.22400725023143248,global,287
+CSS,minerals,0.3115000059573998,global,62
+CUB,oil_gas,0.4460248657964929,country,5
+CUB,coal,0.27130502222376696,region+income:Latin America & Caribbean|Upper middle income,29
+CUB,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+CUW,oil_gas,0.24573038999177643,region+income:Latin America & Caribbean|High income,29
+CUW,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+CUW,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+CYM,oil_gas,0.24573038999177643,region+income:Latin America & Caribbean|High income,29
+CYM,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+CYM,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+CYP,oil_gas,0.34068992918645324,region+income:Europe & Central Asia|High income,152
+CYP,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+CYP,minerals,0.4233543754871399,region:Europe & Central Asia,7
+CZE,oil_gas,0.1317265285757784,country,6
+CZE,coal,0.072701059293136,country,6
+CZE,minerals,0.4233543754871399,region:Europe & Central Asia,7
+DEU,oil_gas,0.19242892160945324,country,6
+DEU,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+DEU,minerals,0.4233543754871399,region:Europe & Central Asia,7
+DJI,oil_gas,0.6818111136165664,region+income:Middle East & North Africa|Lower middle income,29
+DJI,coal,0.4064433732736234,region+income:Middle East & North Africa|Lower middle income,6
+DJI,minerals,0.2773883722129562,income:Lower middle income,24
+DMA,oil_gas,0.384465353659839,region+income:Latin America & Caribbean|Upper middle income,70
+DMA,coal,0.27130502222376696,region+income:Latin America & Caribbean|Upper middle income,29
+DMA,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+DNK,oil_gas,0.4799736434221978,country,6
+DNK,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+DNK,minerals,0.4233543754871399,region:Europe & Central Asia,7
+DOM,oil_gas,0.384465353659839,region+income:Latin America & Caribbean|Upper middle income,70
+DOM,coal,0.27130502222376696,region+income:Latin America & Caribbean|Upper middle income,29
+DOM,minerals,0.39856576941823446,country,4
+DZA,oil_gas,0.7765749346063424,country,6
+DZA,coal,0.23761573648519807,region+income:Middle East & North Africa|Upper middle income,6
+DZA,minerals,0.3929023539874858,income:Upper middle income,21
+EAP,oil_gas,0.47259929734252815,global,656
+EAP,coal,0.22400725023143248,global,287
+EAP,minerals,0.3115000059573998,global,62
+EAR,oil_gas,0.47259929734252815,global,656
+EAR,coal,0.22400725023143248,global,287
+EAR,minerals,0.3115000059573998,global,62
+EAS,oil_gas,0.47259929734252815,global,656
+EAS,coal,0.22400725023143248,global,287
+EAS,minerals,0.3115000059573998,global,62
+ECA,oil_gas,0.47259929734252815,global,656
+ECA,coal,0.22400725023143248,global,287
+ECA,minerals,0.3115000059573998,global,62
+ECS,oil_gas,0.47259929734252815,global,656
+ECS,coal,0.22400725023143248,global,287
+ECS,minerals,0.3115000059573998,global,62
+ECU,oil_gas,0.4578772231041369,country,6
+ECU,coal,0.27130502222376696,region+income:Latin America & Caribbean|Upper middle income,29
+ECU,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+EGY,oil_gas,0.7581392950878236,country,6
+EGY,coal,0.4064433732736234,region+income:Middle East & North Africa|Lower middle income,6
+EGY,minerals,0.2773883722129562,income:Lower middle income,24
+EMU,oil_gas,0.47259929734252815,global,656
+EMU,coal,0.22400725023143248,global,287
+EMU,minerals,0.3115000059573998,global,62
+ERI,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+ERI,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+ERI,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+ESP,oil_gas,0.34068992918645324,region+income:Europe & Central Asia|High income,152
+ESP,coal,0.09678821684211893,country,3
+ESP,minerals,0.4233543754871399,region:Europe & Central Asia,7
+EST,oil_gas,0.5220041460041169,country,6
+EST,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+EST,minerals,0.4233543754871399,region:Europe & Central Asia,7
+ETH,oil_gas,0.5608679454553982,region:Sub-Saharan Africa,112
+ETH,coal,0.3554406421787137,region:Sub-Saharan Africa,53
+ETH,minerals,0.3112433399221956,country,3
+EUU,oil_gas,0.47259929734252815,global,656
+EUU,coal,0.22400725023143248,global,287
+EUU,minerals,0.3115000059573998,global,62
+FCS,oil_gas,0.47259929734252815,global,656
+FCS,coal,0.22400725023143248,global,287
+FCS,minerals,0.3115000059573998,global,62
+FIN,oil_gas,0.23146339519517212,country,6
+FIN,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+FIN,minerals,0.4233543754871399,region:Europe & Central Asia,7
+FJI,oil_gas,0.5215807610410845,region+income:East Asia & Pacific|Upper middle income,30
+FJI,coal,0.21333057546122236,region+income:East Asia & Pacific|Upper middle income,30
+FJI,minerals,0.3614793519192111,region+income:East Asia & Pacific|Upper middle income,2
+FRA,oil_gas,0.06939869829212522,country,6
+FRA,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+FRA,minerals,0.4233543754871399,region:Europe & Central Asia,7
+FRO,oil_gas,0.34068992918645324,region+income:Europe & Central Asia|High income,152
+FRO,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+FRO,minerals,0.4233543754871399,region:Europe & Central Asia,7
+FSM,oil_gas,0.751852580504363,region+income:East Asia & Pacific|Lower middle income,21
+FSM,coal,0.19084572934896504,region+income:East Asia & Pacific|Lower middle income,18
+FSM,minerals,0.5739811600084581,region+income:East Asia & Pacific|Lower middle income,5
+GAB,oil_gas,0.5901860287114562,country,6
+GAB,coal,0.3419767688461558,region+income:Sub-Saharan Africa|Upper middle income,12
+GAB,minerals,0.06781717481143645,region+income:Sub-Saharan Africa|Upper middle income,1
+GBR,oil_gas,0.45367341311978504,country,6
+GBR,coal,0.25037700131579643,country,6
+GBR,minerals,0.4233543754871399,region:Europe & Central Asia,7
+GEO,oil_gas,0.553864171146426,country,6
+GEO,coal,0.06965977750117289,country,6
+GEO,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+GHA,oil_gas,0.5595588473037951,country,6
+GHA,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+GHA,minerals,0.18843997618044986,country,4
+GIB,oil_gas,0.34068992918645324,region+income:Europe & Central Asia|High income,152
+GIB,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+GIB,minerals,0.4233543754871399,region:Europe & Central Asia,7
+GIN,oil_gas,0.5719724411888525,region+income:Sub-Saharan Africa|Lower middle income,56
+GIN,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+GIN,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+GMB,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+GMB,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+GMB,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+GNB,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+GNB,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+GNB,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+GNQ,oil_gas,0.5361612664661608,country,6
+GNQ,coal,0.3419767688461558,region+income:Sub-Saharan Africa|Upper middle income,12
+GNQ,minerals,0.06781717481143645,region+income:Sub-Saharan Africa|Upper middle income,1
+GRC,oil_gas,0.09876215545756069,country,6
+GRC,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+GRC,minerals,0.4233543754871399,region:Europe & Central Asia,7
+GRD,oil_gas,0.384465353659839,region+income:Latin America & Caribbean|Upper middle income,70
+GRD,coal,0.27130502222376696,region+income:Latin America & Caribbean|Upper middle income,29
+GRD,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+GRL,oil_gas,0.34068992918645324,region+income:Europe & Central Asia|High income,152
+GRL,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+GRL,minerals,0.4233543754871399,region:Europe & Central Asia,7
+GTM,oil_gas,0.35046748929414573,country,6
+GTM,coal,0.27130502222376696,region+income:Latin America & Caribbean|Upper middle income,29
+GTM,minerals,0.4412416968210802,country,2
+GUM,oil_gas,0.5667729015576707,region+income:East Asia & Pacific|High income,37
+GUM,coal,0.20916367710295825,region+income:East Asia & Pacific|High income,24
+GUM,minerals,0.41483004381615973,region:East Asia & Pacific,7
+GUY,oil_gas,0.3541564324894348,country,3
+GUY,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+GUY,minerals,0.13206750866377093,country,4
+HIC,oil_gas,0.47259929734252815,global,656
+HIC,coal,0.22400725023143248,global,287
+HIC,minerals,0.3115000059573998,global,62
+HKG,oil_gas,0.49041331091042556,country,6
+HKG,coal,0.20916367710295825,region+income:East Asia & Pacific|High income,24
+HKG,minerals,0.41483004381615973,region:East Asia & Pacific,7
+HND,oil_gas,0.5075014011519585,country,4
+HND,coal,0.2599245204069055,region:Latin America & Caribbean,35
+HND,minerals,0.10924594453107593,region+income:Latin America & Caribbean|Lower middle income,1
+HPC,oil_gas,0.47259929734252815,global,656
+HPC,coal,0.22400725023143248,global,287
+HPC,minerals,0.3115000059573998,global,62
+HRV,oil_gas,0.4548346465614146,country,6
+HRV,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+HRV,minerals,0.4233543754871399,region:Europe & Central Asia,7
+HTI,oil_gas,0.42989388167474785,region+income:Latin America & Caribbean|Lower middle income,10
+HTI,coal,0.2599245204069055,region:Latin America & Caribbean,35
+HTI,minerals,0.10924594453107593,region+income:Latin America & Caribbean|Lower middle income,1
+HUN,oil_gas,0.27839299652646693,country,6
+HUN,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+HUN,minerals,0.4233543754871399,region:Europe & Central Asia,7
+IBD,oil_gas,0.47259929734252815,global,656
+IBD,coal,0.22400725023143248,global,287
+IBD,minerals,0.3115000059573998,global,62
+IBT,oil_gas,0.47259929734252815,global,656
+IBT,coal,0.22400725023143248,global,287
+IBT,minerals,0.3115000059573998,global,62
+IDA,oil_gas,0.47259929734252815,global,656
+IDA,coal,0.22400725023143248,global,287
+IDA,minerals,0.3115000059573998,global,62
+IDB,oil_gas,0.47259929734252815,global,656
+IDB,coal,0.22400725023143248,global,287
+IDB,minerals,0.3115000059573998,global,62
+IDN,oil_gas,0.5741202592756862,country,6
+IDN,coal,0.19520423800401676,country,6
+IDN,minerals,0.3614793519192111,region+income:East Asia & Pacific|Upper middle income,2
+IDX,oil_gas,0.47259929734252815,global,656
+IDX,coal,0.22400725023143248,global,287
+IDX,minerals,0.3115000059573998,global,62
+IMN,oil_gas,0.34068992918645324,region+income:Europe & Central Asia|High income,152
+IMN,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+IMN,minerals,0.4233543754871399,region:Europe & Central Asia,7
+IND,oil_gas,0.4224022812446489,country,6
+IND,coal,0.41894774069895474,country,6
+IND,minerals,0.2773883722129562,income:Lower middle income,24
+IRL,oil_gas,0.5099858215226987,country,5
+IRL,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+IRL,minerals,0.4233543754871399,region:Europe & Central Asia,7
+IRN,oil_gas,0.8961709939057757,country,6
+IRN,coal,0.23761573648519807,country,6
+IRN,minerals,0.3929023539874858,income:Upper middle income,21
+IRQ,oil_gas,0.8241056168186898,country,6
+IRQ,coal,0.23761573648519807,region+income:Middle East & North Africa|Upper middle income,6
+IRQ,minerals,0.3929023539874858,income:Upper middle income,21
+ISL,oil_gas,0.34068992918645324,region+income:Europe & Central Asia|High income,152
+ISL,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+ISL,minerals,0.4233543754871399,region:Europe & Central Asia,7
+ISR,oil_gas,0.6282392972365431,country,6
+ISR,coal,0.31102999886022886,region:Middle East & North Africa,16
+ISR,minerals,0.13206750866377093,income:High income,4
+ITA,oil_gas,0.3788124743566709,country,6
+ITA,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+ITA,minerals,0.4233543754871399,region:Europe & Central Asia,7
+JAM,oil_gas,0.7503322868124208,country,2
+JAM,coal,0.27130502222376696,region+income:Latin America & Caribbean|Upper middle income,29
+JAM,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+JOR,oil_gas,0.41945153183407674,country,6
+JOR,coal,0.4064433732736234,region+income:Middle East & North Africa|Lower middle income,6
+JOR,minerals,0.2773883722129562,income:Lower middle income,24
+JPN,oil_gas,0.17034393876947906,country,6
+JPN,coal,0.2025145311379452,country,6
+JPN,minerals,0.41483004381615973,region:East Asia & Pacific,7
+KAZ,oil_gas,0.48943709412577985,country,6
+KAZ,coal,0.15587142148814984,country,6
+KAZ,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+KEN,oil_gas,0.5719724411888525,region+income:Sub-Saharan Africa|Lower middle income,56
+KEN,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+KEN,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+KGZ,oil_gas,0.09402733348543783,country,6
+KGZ,coal,0.07328758255921877,country,6
+KGZ,minerals,0.39374027205979334,country,2
+KHM,oil_gas,0.751852580504363,region+income:East Asia & Pacific|Lower middle income,21
+KHM,coal,0.19084572934896504,region+income:East Asia & Pacific|Lower middle income,18
+KHM,minerals,0.5739811600084581,region+income:East Asia & Pacific|Lower middle income,5
+KIR,oil_gas,0.751852580504363,region+income:East Asia & Pacific|Lower middle income,21
+KIR,coal,0.19084572934896504,region+income:East Asia & Pacific|Lower middle income,18
+KIR,minerals,0.5739811600084581,region+income:East Asia & Pacific|Lower middle income,5
+KNA,oil_gas,0.24573038999177643,region+income:Latin America & Caribbean|High income,29
+KNA,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+KNA,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+KOR,oil_gas,0.19482212855336056,country,6
+KOR,coal,0.17477255379900442,country,6
+KOR,minerals,0.41483004381615973,region:East Asia & Pacific,7
+KWT,oil_gas,0.7563700892162031,country,5
+KWT,coal,0.31102999886022886,region:Middle East & North Africa,16
+KWT,minerals,0.13206750866377093,income:High income,4
+LAC,oil_gas,0.47259929734252815,global,656
+LAC,coal,0.22400725023143248,global,287
+LAC,minerals,0.3115000059573998,global,62
+LAO,oil_gas,0.751852580504363,region+income:East Asia & Pacific|Lower middle income,21
+LAO,coal,0.19084572934896504,region+income:East Asia & Pacific|Lower middle income,18
+LAO,minerals,0.5739811600084581,region+income:East Asia & Pacific|Lower middle income,5
+LBN,oil_gas,0.6818111136165664,region+income:Middle East & North Africa|Lower middle income,29
+LBN,coal,0.4064433732736234,region+income:Middle East & North Africa|Lower middle income,6
+LBN,minerals,0.2773883722129562,income:Lower middle income,24
+LBR,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+LBR,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+LBR,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+LBY,oil_gas,0.7424317667494564,country,6
+LBY,coal,0.23761573648519807,region+income:Middle East & North Africa|Upper middle income,6
+LBY,minerals,0.3929023539874858,income:Upper middle income,21
+LCA,oil_gas,0.384465353659839,region+income:Latin America & Caribbean|Upper middle income,70
+LCA,coal,0.27130502222376696,region+income:Latin America & Caribbean|Upper middle income,29
+LCA,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+LCN,oil_gas,0.47259929734252815,global,656
+LCN,coal,0.22400725023143248,global,287
+LCN,minerals,0.3115000059573998,global,62
+LDC,oil_gas,0.47259929734252815,global,656
+LDC,coal,0.22400725023143248,global,287
+LDC,minerals,0.3115000059573998,global,62
+LIC,oil_gas,0.47259929734252815,global,656
+LIC,coal,0.22400725023143248,global,287
+LIC,minerals,0.3115000059573998,global,62
+LIE,oil_gas,0.34068992918645324,region+income:Europe & Central Asia|High income,152
+LIE,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+LIE,minerals,0.4233543754871399,region:Europe & Central Asia,7
+LKA,oil_gas,0.48207276247306474,region+income:South Asia|Lower middle income,12
+LKA,coal,0.47181949624672725,region+income:South Asia|Lower middle income,18
+LKA,minerals,0.2773883722129562,income:Lower middle income,24
+LMC,oil_gas,0.47259929734252815,global,656
+LMC,coal,0.22400725023143248,global,287
+LMC,minerals,0.3115000059573998,global,62
+LMY,oil_gas,0.47259929734252815,global,656
+LMY,coal,0.22400725023143248,global,287
+LMY,minerals,0.3115000059573998,global,62
+LSO,oil_gas,0.5719724411888525,region+income:Sub-Saharan Africa|Lower middle income,56
+LSO,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+LSO,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+LTE,oil_gas,0.47259929734252815,global,656
+LTE,coal,0.22400725023143248,global,287
+LTE,minerals,0.3115000059573998,global,62
+LTU,oil_gas,0.06309990492125281,country,3
+LTU,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+LTU,minerals,0.4233543754871399,region:Europe & Central Asia,7
+LUX,oil_gas,0.34068992918645324,region+income:Europe & Central Asia|High income,152
+LUX,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+LUX,minerals,0.4233543754871399,region:Europe & Central Asia,7
+LVA,oil_gas,0.4775366641288774,country,6
+LVA,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+LVA,minerals,0.4233543754871399,region:Europe & Central Asia,7
+MAC,oil_gas,0.5667729015576707,region+income:East Asia & Pacific|High income,37
+MAC,coal,0.20916367710295825,region+income:East Asia & Pacific|High income,24
+MAC,minerals,0.41483004381615973,region:East Asia & Pacific,7
+MAF,oil_gas,0.24573038999177643,region+income:Latin America & Caribbean|High income,29
+MAF,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+MAF,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+MAR,oil_gas,0.6818111136165664,country,5
+MAR,coal,0.4064433732736234,region+income:Middle East & North Africa|Lower middle income,6
+MAR,minerals,0.2773883722129562,income:Lower middle income,24
+MCO,oil_gas,0.34068992918645324,region+income:Europe & Central Asia|High income,152
+MCO,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+MCO,minerals,0.4233543754871399,region:Europe & Central Asia,7
+MDA,oil_gas,0.4620243210669806,region+income:Europe & Central Asia|Upper middle income,53
+MDA,coal,0.144850504938991,region+income:Europe & Central Asia|Upper middle income,30
+MDA,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+MDG,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+MDG,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+MDG,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+MDV,oil_gas,0.48207276247306474,region:South Asia,12
+MDV,coal,0.47181949624672725,region:South Asia,18
+MDV,minerals,0.3929023539874858,income:Upper middle income,21
+MEA,oil_gas,0.47259929734252815,global,656
+MEA,coal,0.22400725023143248,global,287
+MEA,minerals,0.3115000059573998,global,62
+MEX,oil_gas,0.4324156661772279,country,6
+MEX,coal,0.2752033463480855,country,6
+MEX,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+MHL,oil_gas,0.5215807610410845,region+income:East Asia & Pacific|Upper middle income,30
+MHL,coal,0.21333057546122236,region+income:East Asia & Pacific|Upper middle income,30
+MHL,minerals,0.3614793519192111,region+income:East Asia & Pacific|Upper middle income,2
+MIC,oil_gas,0.47259929734252815,global,656
+MIC,coal,0.22400725023143248,global,287
+MIC,minerals,0.3115000059573998,global,62
+MKD,oil_gas,0.4620243210669806,region+income:Europe & Central Asia|Upper middle income,53
+MKD,coal,0.144850504938991,region+income:Europe & Central Asia|Upper middle income,30
+MKD,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+MLI,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+MLI,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+MLI,minerals,0.41010265981058047,country,4
+MLT,oil_gas,0.7263256663570888,region+income:Middle East & North Africa|High income,41
+MLT,coal,0.31102999886022886,region:Middle East & North Africa,16
+MLT,minerals,0.13206750866377093,income:High income,4
+MMR,oil_gas,0.8539521382824921,country,2
+MMR,coal,0.15219881152066556,country,6
+MMR,minerals,0.5739811600084581,region+income:East Asia & Pacific|Lower middle income,5
+MNA,oil_gas,0.47259929734252815,global,656
+MNA,coal,0.22400725023143248,global,287
+MNA,minerals,0.3115000059573998,global,62
+MNE,oil_gas,0.4620243210669806,region+income:Europe & Central Asia|Upper middle income,53
+MNE,coal,0.144850504938991,region+income:Europe & Central Asia|Upper middle income,30
+MNE,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+MNG,oil_gas,0.4903989445143233,country,6
+MNG,coal,0.23806417558614326,country,6
+MNG,minerals,0.3614793519192111,country,2
+MNP,oil_gas,0.5667729015576707,region+income:East Asia & Pacific|High income,37
+MNP,coal,0.20916367710295825,region+income:East Asia & Pacific|High income,24
+MNP,minerals,0.41483004381615973,region:East Asia & Pacific,7
+MOZ,oil_gas,0.7299620866496568,country,6
+MOZ,coal,0.49016673223068846,country,6
+MOZ,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+MRT,oil_gas,0.5719724411888525,region+income:Sub-Saharan Africa|Lower middle income,56
+MRT,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+MRT,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+MUS,oil_gas,0.546807409934949,region+income:Sub-Saharan Africa|Upper middle income,19
+MUS,coal,0.3419767688461558,region+income:Sub-Saharan Africa|Upper middle income,12
+MUS,minerals,0.06781717481143645,region+income:Sub-Saharan Africa|Upper middle income,1
+MWI,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+MWI,coal,0.3369788291926932,country,6
+MWI,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+MYS,oil_gas,0.6445766981836613,country,6
+MYS,coal,0.2280111075270131,country,6
+MYS,minerals,0.3614793519192111,region+income:East Asia & Pacific|Upper middle income,2
+NAC,oil_gas,0.47259929734252815,global,656
+NAC,coal,0.22400725023143248,global,287
+NAC,minerals,0.3115000059573998,global,62
+NAM,oil_gas,0.5719724411888525,region+income:Sub-Saharan Africa|Lower middle income,56
+NAM,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+NAM,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+NCL,oil_gas,0.5667729015576707,region+income:East Asia & Pacific|High income,37
+NCL,coal,0.20916367710295825,region+income:East Asia & Pacific|High income,24
+NCL,minerals,0.41483004381615973,region:East Asia & Pacific,7
+NER,oil_gas,0.392970481997236,country,6
+NER,coal,0.1691249354117249,country,6
+NER,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+NGA,oil_gas,0.6966026567572488,country,6
+NGA,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+NGA,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+NIC,oil_gas,0.42989388167474785,region+income:Latin America & Caribbean|Lower middle income,10
+NIC,coal,0.2599245204069055,region:Latin America & Caribbean,35
+NIC,minerals,0.10924594453107593,region+income:Latin America & Caribbean|Lower middle income,1
+NLD,oil_gas,0.39568706929366004,country,6
+NLD,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+NLD,minerals,0.4233543754871399,region:Europe & Central Asia,7
+NOR,oil_gas,0.44354992500524654,country,6
+NOR,coal,0.2300810359509483,country,6
+NOR,minerals,0.4233543754871399,region:Europe & Central Asia,7
+NPL,oil_gas,0.48207276247306474,region+income:South Asia|Lower middle income,12
+NPL,coal,0.6300855326623405,country,6
+NPL,minerals,0.2773883722129562,income:Lower middle income,24
+NRU,oil_gas,0.5667729015576707,region+income:East Asia & Pacific|High income,37
+NRU,coal,0.20916367710295825,region+income:East Asia & Pacific|High income,24
+NRU,minerals,0.41483004381615973,region:East Asia & Pacific,7
+NZL,oil_gas,0.855552281498442,country,6
+NZL,coal,0.22336989168209048,country,6
+NZL,minerals,0.41483004381615973,region:East Asia & Pacific,7
+OED,oil_gas,0.47259929734252815,global,656
+OED,coal,0.22400725023143248,global,287
+OED,minerals,0.3115000059573998,global,62
+OMN,oil_gas,0.8286215597032094,country,6
+OMN,coal,0.31102999886022886,region:Middle East & North Africa,16
+OMN,minerals,0.13206750866377093,income:High income,4
+OSS,oil_gas,0.47259929734252815,global,656
+OSS,coal,0.22400725023143248,global,287
+OSS,minerals,0.3115000059573998,global,62
+PAK,oil_gas,0.5637648981074449,country,6
+PAK,coal,0.4064433732736234,country,6
+PAK,minerals,0.2773883722129562,income:Lower middle income,24
+PAN,oil_gas,0.24573038999177643,region+income:Latin America & Caribbean|High income,29
+PAN,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+PAN,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+PER,oil_gas,0.21765542779682745,country,6
+PER,coal,0.12001650868470617,country,6
+PER,minerals,0.3342378206709853,country,4
+PHL,oil_gas,0.8830484723856271,country,6
+PHL,coal,0.19254094317939197,country,6
+PHL,minerals,0.7151024162047295,country,2
+PLW,oil_gas,0.5667729015576707,region+income:East Asia & Pacific|High income,37
+PLW,coal,0.20916367710295825,region+income:East Asia & Pacific|High income,24
+PLW,minerals,0.41483004381615973,region:East Asia & Pacific,7
+PNG,oil_gas,0.7617269975774388,country,3
+PNG,coal,0.19084572934896504,region+income:East Asia & Pacific|Lower middle income,18
+PNG,minerals,0.18709484607107166,country,3
+POL,oil_gas,0.326436644015278,country,6
+POL,coal,0.13130040068470875,country,6
+POL,minerals,0.4233543754871399,region:Europe & Central Asia,7
+PRE,oil_gas,0.47259929734252815,global,656
+PRE,coal,0.22400725023143248,global,287
+PRE,minerals,0.3115000059573998,global,62
+PRI,oil_gas,0.24573038999177643,region+income:Latin America & Caribbean|High income,29
+PRI,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+PRI,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+PRK,oil_gas,0.5754413480095559,region:East Asia & Pacific,88
+PRK,coal,0.20212805096878134,region:East Asia & Pacific,72
+PRK,minerals,0.41483004381615973,region:East Asia & Pacific,7
+PRT,oil_gas,0.3217654520874613,country,6
+PRT,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+PRT,minerals,0.4233543754871399,region:Europe & Central Asia,7
+PRY,oil_gas,0.15696118406412085,country,6
+PRY,coal,0.27130502222376696,region+income:Latin America & Caribbean|Upper middle income,29
+PRY,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+PSE,oil_gas,0.6818111136165664,region+income:Middle East & North Africa|Lower middle income,29
+PSE,coal,0.4064433732736234,region+income:Middle East & North Africa|Lower middle income,6
+PSE,minerals,0.2773883722129562,income:Lower middle income,24
+PSS,oil_gas,0.47259929734252815,global,656
+PSS,coal,0.22400725023143248,global,287
+PSS,minerals,0.3115000059573998,global,62
+PST,oil_gas,0.47259929734252815,global,656
+PST,coal,0.22400725023143248,global,287
+PST,minerals,0.3115000059573998,global,62
+PYF,oil_gas,0.5667729015576707,region+income:East Asia & Pacific|High income,37
+PYF,coal,0.20916367710295825,region+income:East Asia & Pacific|High income,24
+PYF,minerals,0.41483004381615973,region:East Asia & Pacific,7
+QAT,oil_gas,0.6782835924390043,country,6
+QAT,coal,0.31102999886022886,region:Middle East & North Africa,16
+QAT,minerals,0.13206750866377093,income:High income,4
+ROU,oil_gas,0.45800251144504556,country,6
+ROU,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+ROU,minerals,0.4233543754871399,region:Europe & Central Asia,7
+RUS,oil_gas,0.4881759829717147,country,6
+RUS,coal,0.19801728800723647,country,6
+RUS,minerals,0.4233543754871399,region:Europe & Central Asia,7
+RWA,oil_gas,0.7496927535783442,country,6
+RWA,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+RWA,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+SAS,oil_gas,0.47259929734252815,global,656
+SAS,coal,0.22400725023143248,global,287
+SAS,minerals,0.3115000059573998,global,62
+SAU,oil_gas,0.7579957417720101,country,6
+SAU,coal,0.31102999886022886,region:Middle East & North Africa,16
+SAU,minerals,0.13206750866377093,income:High income,4
+SDN,oil_gas,0.5425311116680253,country,6
+SDN,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+SDN,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+SEN,oil_gas,0.1511726095213098,country,6
+SEN,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+SEN,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+SGP,oil_gas,0.5667729015576707,region+income:East Asia & Pacific|High income,37
+SGP,coal,0.20916367710295825,region+income:East Asia & Pacific|High income,24
+SGP,minerals,0.41483004381615973,region:East Asia & Pacific,7
+SLB,oil_gas,0.751852580504363,region+income:East Asia & Pacific|Lower middle income,21
+SLB,coal,0.19084572934896504,region+income:East Asia & Pacific|Lower middle income,18
+SLB,minerals,0.5739811600084581,region+income:East Asia & Pacific|Lower middle income,5
+SLE,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+SLE,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+SLE,minerals,0.3462395255172069,country,2
+SLV,oil_gas,0.5094846120349845,country,4
+SLV,coal,0.27130502222376696,region+income:Latin America & Caribbean|Upper middle income,29
+SLV,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+SMR,oil_gas,0.34068992918645324,region+income:Europe & Central Asia|High income,152
+SMR,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+SMR,minerals,0.4233543754871399,region:Europe & Central Asia,7
+SOM,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+SOM,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+SOM,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+SRB,oil_gas,0.48195329005939613,country,6
+SRB,coal,0.144850504938991,region+income:Europe & Central Asia|Upper middle income,30
+SRB,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+SSA,oil_gas,0.47259929734252815,global,656
+SSA,coal,0.22400725023143248,global,287
+SSA,minerals,0.3115000059573998,global,62
+SSD,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+SSD,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+SSD,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+SSF,oil_gas,0.47259929734252815,global,656
+SSF,coal,0.22400725023143248,global,287
+SSF,minerals,0.3115000059573998,global,62
+SST,oil_gas,0.47259929734252815,global,656
+SST,coal,0.22400725023143248,global,287
+SST,minerals,0.3115000059573998,global,62
+STP,oil_gas,0.5719724411888525,region+income:Sub-Saharan Africa|Lower middle income,56
+STP,coal,0.3712757496604613,region+income:Sub-Saharan Africa|Lower middle income,23
+STP,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+SUR,oil_gas,0.4902878159930263,country,6
+SUR,coal,0.27130502222376696,region+income:Latin America & Caribbean|Upper middle income,29
+SUR,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+SVK,oil_gas,0.07149075539145869,country,3
+SVK,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+SVK,minerals,0.4233543754871399,region:Europe & Central Asia,7
+SVN,oil_gas,0.48554197886859596,country,5
+SVN,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+SVN,minerals,0.4233543754871399,region:Europe & Central Asia,7
+SWE,oil_gas,0.3698777993359358,country,6
+SWE,coal,0.1924658766983937,region+income:Europe & Central Asia|High income,33
+SWE,minerals,0.4233543754871399,region:Europe & Central Asia,7
+SWZ,oil_gas,0.5719724411888525,region+income:Sub-Saharan Africa|Lower middle income,56
+SWZ,coal,0.4080393189160765,country,6
+SWZ,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15
+SXM,oil_gas,0.24573038999177643,region+income:Latin America & Caribbean|High income,29
+SXM,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+SXM,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+SYC,oil_gas,0.5608679454553982,region:Sub-Saharan Africa,112
+SYC,coal,0.3554406421787137,region:Sub-Saharan Africa,53
+SYC,minerals,0.274854353156492,region:Sub-Saharan Africa,29
+SYR,oil_gas,0.5837855245444513,country,5
+SYR,coal,0.31102999886022886,region+income:Middle East & North Africa|Low income,4
+SYR,minerals,0.3186417847699433,income:Low income,10
+TCA,oil_gas,0.24573038999177643,region+income:Latin America & Caribbean|High income,29
+TCA,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+TCA,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+TCD,oil_gas,0.7353808106084533,country,5
+TCD,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+TCD,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+TEA,oil_gas,0.47259929734252815,global,656
+TEA,coal,0.22400725023143248,global,287
+TEA,minerals,0.3115000059573998,global,62
+TEC,oil_gas,0.47259929734252815,global,656
+TEC,coal,0.22400725023143248,global,287
+TEC,minerals,0.3115000059573998,global,62
+TGO,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+TGO,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+TGO,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+THA,oil_gas,0.38075863362376494,country,6
+THA,coal,0.09326482628154831,country,6
+THA,minerals,0.3614793519192111,region+income:East Asia & Pacific|Upper middle income,2
+TJK,oil_gas,0.20162734645081787,region+income:Europe & Central Asia|Lower middle income,11
+TJK,coal,0.14873356396499066,country,6
+TJK,minerals,0.4233543754871399,region+income:Europe & Central Asia|Lower middle income,3
+TKM,oil_gas,0.37960144478848346,country,4
+TKM,coal,0.144850504938991,region+income:Europe & Central Asia|Upper middle income,30
+TKM,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+TLA,oil_gas,0.47259929734252815,global,656
+TLA,coal,0.22400725023143248,global,287
+TLA,minerals,0.3115000059573998,global,62
+TLS,oil_gas,0.7743998245688009,country,4
+TLS,coal,0.19084572934896504,region+income:East Asia & Pacific|Lower middle income,18
+TLS,minerals,0.5739811600084581,region+income:East Asia & Pacific|Lower middle income,5
+TMN,oil_gas,0.47259929734252815,global,656
+TMN,coal,0.22400725023143248,global,287
+TMN,minerals,0.3115000059573998,global,62
+TON,oil_gas,0.5215807610410845,region+income:East Asia & Pacific|Upper middle income,30
+TON,coal,0.21333057546122236,region+income:East Asia & Pacific|Upper middle income,30
+TON,minerals,0.3614793519192111,region+income:East Asia & Pacific|Upper middle income,2
+TSA,oil_gas,0.47259929734252815,global,656
+TSA,coal,0.22400725023143248,global,287
+TSA,minerals,0.3115000059573998,global,62
+TSS,oil_gas,0.47259929734252815,global,656
+TSS,coal,0.22400725023143248,global,287
+TSS,minerals,0.3115000059573998,global,62
+TTO,oil_gas,0.34013869142423975,country,6
+TTO,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+TTO,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+TUN,oil_gas,0.8279464730161248,country,6
+TUN,coal,0.4064433732736234,region+income:Middle East & North Africa|Lower middle income,6
+TUN,minerals,0.2773883722129562,income:Lower middle income,24
+TUR,oil_gas,0.41455346230551404,country,6
+TUR,coal,0.144850504938991,region+income:Europe & Central Asia|Upper middle income,30
+TUR,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+TUV,oil_gas,0.5215807610410845,region+income:East Asia & Pacific|Upper middle income,30
+TUV,coal,0.21333057546122236,region+income:East Asia & Pacific|Upper middle income,30
+TUV,minerals,0.3614793519192111,region+income:East Asia & Pacific|Upper middle income,2
+TZA,oil_gas,0.7783910418525954,country,6
+TZA,coal,0.3664178040397378,country,6
+TZA,minerals,0.2869641853058632,country,2
+UGA,oil_gas,0.5691696060712094,region+income:Sub-Saharan Africa|Low income,36
+UGA,coal,0.3369788291926932,region+income:Sub-Saharan Africa|Low income,18
+UGA,minerals,0.3186417847699433,region+income:Sub-Saharan Africa|Low income,10
+UKR,oil_gas,0.4615513237335923,country,6
+UKR,coal,0.20080973243701034,country,6
+UKR,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+UMC,oil_gas,0.47259929734252815,global,656
+UMC,coal,0.22400725023143248,global,287
+UMC,minerals,0.3115000059573998,global,62
+URY,oil_gas,0.10366930781633293,country,6
+URY,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+URY,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+USA,oil_gas,0.11488407391595866,country,6
+USA,coal,0.5684990611228644,country,6
+USA,minerals,0.13206750866377093,income:High income,4
+UZB,oil_gas,0.504660918031084,country,5
+UZB,coal,0.06989308714133204,country,6
+UZB,minerals,0.4233543754871399,region+income:Europe & Central Asia|Lower middle income,3
+VCT,oil_gas,0.384465353659839,region+income:Latin America & Caribbean|Upper middle income,70
+VCT,coal,0.27130502222376696,region+income:Latin America & Caribbean|Upper middle income,29
+VCT,minerals,0.3933806308328152,region+income:Latin America & Caribbean|Upper middle income,14
+VEN,oil_gas,0.3722989874411331,region:Latin America & Caribbean,109
+VEN,coal,0.2599245204069055,region:Latin America & Caribbean,35
+VEN,minerals,0.3763141886358408,region:Latin America & Caribbean,19
+VGB,oil_gas,0.24573038999177643,region+income:Latin America & Caribbean|High income,29
+VGB,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+VGB,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+VIR,oil_gas,0.24573038999177643,region+income:Latin America & Caribbean|High income,29
+VIR,coal,0.19718362452722274,region+income:Latin America & Caribbean|High income,6
+VIR,minerals,0.13206750866377093,region+income:Latin America & Caribbean|High income,4
+VNM,oil_gas,0.5449572184340786,country,6
+VNM,coal,0.2007453771242883,country,6
+VNM,minerals,0.5739811600084581,region+income:East Asia & Pacific|Lower middle income,5
+VUT,oil_gas,0.751852580504363,region+income:East Asia & Pacific|Lower middle income,21
+VUT,coal,0.19084572934896504,region+income:East Asia & Pacific|Lower middle income,18
+VUT,minerals,0.5739811600084581,region+income:East Asia & Pacific|Lower middle income,5
+WLD,oil_gas,0.47259929734252815,global,656
+WLD,coal,0.22400725023143248,global,287
+WLD,minerals,0.3115000059573998,global,62
+WSM,oil_gas,0.5215807610410845,region+income:East Asia & Pacific|Upper middle income,30
+WSM,coal,0.21333057546122236,region+income:East Asia & Pacific|Upper middle income,30
+WSM,minerals,0.3614793519192111,region+income:East Asia & Pacific|Upper middle income,2
+XKX,oil_gas,0.4620243210669806,region+income:Europe & Central Asia|Upper middle income,53
+XKX,coal,0.144850504938991,region+income:Europe & Central Asia|Upper middle income,30
+XKX,minerals,0.33905222535018664,region+income:Europe & Central Asia|Upper middle income,4
+YEM,oil_gas,0.7695062482099941,country,3
+YEM,coal,0.31102999886022886,region+income:Middle East & North Africa|Low income,4
+YEM,minerals,0.3186417847699433,income:Low income,10
+ZAF,oil_gas,0.5129706329626069,country,6
+ZAF,coal,0.34369058021738524,country,6
+ZAF,minerals,0.06781717481143645,region+income:Sub-Saharan Africa|Upper middle income,1
+ZMB,oil_gas,0.5719724411888525,region+income:Sub-Saharan Africa|Lower middle income,56
+ZMB,coal,0.35148813221179476,country,6
+ZMB,minerals,0.27992239126942037,country,5
+ZWE,oil_gas,0.762497588077671,country,5
+ZWE,coal,0.39650583275779516,country,5
+ZWE,minerals,0.2621399026289125,region+income:Sub-Saharan Africa|Lower middle income,15

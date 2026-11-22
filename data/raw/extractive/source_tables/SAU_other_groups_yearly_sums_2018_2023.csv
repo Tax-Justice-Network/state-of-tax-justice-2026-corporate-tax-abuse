@@ -1,0 +1,43 @@
+scenario,year,n_groups,revenue_usd_bn,pretax_usd_bn,zakat_tax_expense_usd_bn,zakat_tax_paid_usd_bn_partial,employees_reported_subset,groups_missing_pretax
+A_core (PIF not a filer; PIF subs file),2018,22,60.5,14.1,3.32,0.71,95973,Sipchem (Saudi International P; Saudi Industrial Investment Gr; Zamil Industrial Investment Co; Riyadh Cables Group Co (4142; ; Jarir Marketing Co; Abdullah Al Othaim Markets
+A_core (PIF not a filer; PIF subs file),2019,24,68.3,14.2,1.74,1.61,145087,Saudi Industrial Investment Gr; Zamil Industrial Investment Co; Riyadh Cables Group Co (4142; ; Jarir Marketing Co; Abdullah Al Othaim Markets
+A_core (PIF not a filer; PIF subs file),2020,24,70.3,15.5,1.8,1.48,129622,Saudi Industrial Investment Gr; Zamil Industrial Investment Co; Riyadh Cables Group Co (4142; ; Abdullah Al Othaim Markets
+A_core (PIF not a filer; PIF subs file),2021,20,77.4,19.5,1.92,1.51,133678,
+A_core (PIF not a filer; PIF subs file),2022,23,92.5,26.2,2.53,2.25,150492,
+A_core (PIF not a filer; PIF subs file),2023,25,95.7,24.3,2.55,2.41,196317,
+A_core+borderline,2018,29,83.7,17.8,4.9,1.01,142368,Marafiq (Power and Water Utili; Sipchem (Saudi International P; Saudi Industrial Investment Gr; Zamil Industrial Investment Co; Riyadh Cables Group Co (4142; ; Jarir Marketing Co; Abdullah Al Othaim Markets
+A_core+borderline,2019,30,93.1,16.9,2.11,2.27,192527,Saudi Industrial Investment Gr; Zamil Industrial Investment Co; Riyadh Cables Group Co (4142; ; Jarir Marketing Co; Abdullah Al Othaim Markets
+A_core+borderline,2020,30,96.1,16.1,1.9,2.02,175800,Saudi Industrial Investment Gr; Zamil Industrial Investment Co; Riyadh Cables Group Co (4142; ; Abdullah Al Othaim Markets
+A_core+borderline,2021,26,103.2,26.4,2.46,1.93,180331,
+A_core+borderline,2022,30,122.1,34.8,3.19,3.07,198629,Marafiq (Power and Water Utili
+A_core+borderline,2023,32,127.9,32.9,3.36,3.31,242993,Marafiq (Power and Water Utili
+"B_core (PIF files, consolidating stc/SNB/Ma'aden/Elm)",2018,21,41.6,8.1,2.82,0.52,82915,Public Investment Fund (consol; Sipchem (Saudi International P; Saudi Industrial Investment Gr; Zamil Industrial Investment Co; Riyadh Cables Group Co (4142; ; Jarir Marketing Co; Abdullah Al Othaim Markets
+"B_core (PIF files, consolidating stc/SNB/Ma'aden/Elm)",2019,22,43.6,8.0,1.04,1.36,126382,Public Investment Fund (consol; Saudi Industrial Investment Gr; Zamil Industrial Investment Co; Riyadh Cables Group Co (4142; ; Jarir Marketing Co; Abdullah Al Othaim Markets
+"B_core (PIF files, consolidating stc/SNB/Ma'aden/Elm)",2020,22,91.6,68.9,1.98,1.89,110451,Saudi Industrial Investment Gr; Zamil Industrial Investment Co; Riyadh Cables Group Co (4142; ; Abdullah Al Othaim Markets
+"B_core (PIF files, consolidating stc/SNB/Ma'aden/Elm)",2021,18,106.7,34.4,2.2,2.02,86057,
+"B_core (PIF files, consolidating stc/SNB/Ma'aden/Elm)",2022,20,97.8,10.7,2.8,2.46,104609,
+"B_core (PIF files, consolidating stc/SNB/Ma'aden/Elm)",2023,22,146.2,32.1,3.06,2.94,148902,
+B_core+borderline,2018,28,64.8,11.7,4.41,0.83,129310,Public Investment Fund (consol; Marafiq (Power and Water Utili; Sipchem (Saudi International P; Saudi Industrial Investment Gr; Zamil Industrial Investment Co; Riyadh Cables Group Co (4142; ; Jarir Marketing Co; Abdullah Al Othaim Markets
+B_core+borderline,2019,28,68.4,10.7,1.41,2.02,173822,Public Investment Fund (consol; Saudi Industrial Investment Gr; Zamil Industrial Investment Co; Riyadh Cables Group Co (4142; ; Jarir Marketing Co; Abdullah Al Othaim Markets
+B_core+borderline,2020,28,117.5,69.4,2.08,2.43,156629,Saudi Industrial Investment Gr; Zamil Industrial Investment Co; Riyadh Cables Group Co (4142; ; Abdullah Al Othaim Markets
+B_core+borderline,2021,24,132.5,41.3,2.74,2.43,132710,
+B_core+borderline,2022,27,127.4,19.4,3.47,3.28,152746,Marafiq (Power and Water Utili
+B_core+borderline,2023,29,178.4,40.7,3.87,3.84,195578,Marafiq (Power and Water Utili
+uncertain (MNE status not verified) - add-on,2018,8,0.0,0.0,0.0,0.0,0,Sahara Petrochemical Co (2260;; Advanced Petrochemical Co (233; Sadara Chemical Co; Arabian Drilling Co (2381); Aldrees Petroleum & Transport ; Saudi Automotive Services Co (; Saudi Research & Media Group (; Flynas
+uncertain (MNE status not verified) - add-on,2019,8,0.0,0.0,0.0,0.0,0,Sahara Petrochemical Co (2260;; Advanced Petrochemical Co (233; Sadara Chemical Co; Arabian Drilling Co (2381); Aldrees Petroleum & Transport ; Saudi Automotive Services Co (; Saudi Research & Media Group (; Flynas
+uncertain (MNE status not verified) - add-on,2020,7,0.0,0.0,0.0,0.0,0,Advanced Petrochemical Co (233; Sadara Chemical Co; Arabian Drilling Co (2381); Aldrees Petroleum & Transport ; Saudi Automotive Services Co (; Saudi Research & Media Group (; Flynas
+uncertain (MNE status not verified) - add-on,2021,8,6.5,0.6,0.02,0.0,0,Saudi Industrial Investment Gr; Sadara Chemical Co
+uncertain (MNE status not verified) - add-on,2022,7,9.2,0.5,0.03,0.0,0,Sadara Chemical Co
+uncertain (MNE status not verified) - add-on,2023,7,10.6,0.6,0.01,0.0,0,Sadara Chemical Co
+borderline only,2018,7,23.2,3.6,1.58,0.31,46395,Marafiq (Power and Water Utili
+borderline only,2019,6,24.8,2.7,0.37,0.66,47440,
+borderline only,2020,6,25.8,0.6,0.1,0.53,46178,
+borderline only,2021,6,25.8,6.9,0.54,0.41,46653,
+borderline only,2022,7,29.6,8.6,0.66,0.82,48137,Marafiq (Power and Water Utili
+borderline only,2023,7,32.2,8.6,0.81,0.9,46676,Marafiq (Power and Water Utili
+"PIF-sub lines only (NCB/SNB, stc, Ma'aden, Elm)",2018,2,18.9,6.0,0.49,0.18,13058,
+"PIF-sub lines only (NCB/SNB, stc, Ma'aden, Elm)",2019,3,24.7,6.3,0.7,0.25,18705,
+"PIF-sub lines only (NCB/SNB, stc, Ma'aden, Elm)",2020,3,26.4,6.6,0.72,0.26,19171,
+"PIF-sub lines only (NCB/SNB, stc, Ma'aden, Elm)",2021,3,31.6,9.1,0.84,0.36,47621,
+"PIF-sub lines only (NCB/SNB, stc, Ma'aden, Elm)",2022,4,38.8,13.0,1.23,0.85,45883,
+"PIF-sub lines only (NCB/SNB, stc, Ma'aden, Elm)",2023,4,37.9,11.1,1.25,1.07,47415,

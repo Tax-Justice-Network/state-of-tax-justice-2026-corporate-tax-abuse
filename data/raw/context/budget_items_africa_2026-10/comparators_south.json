@@ -1,0 +1,618 @@
+[
+ {
+  "iso3": "ZAF",
+  "country": "South Africa",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-19",
+  "debate": "NSFAS funding crisis: Higher Education Minister Manamela told Parliament (12 Aug 2026) of an estimated R15bn student-funding gap for 2026; R4bn advanced in Sep-Oct while the department seeks more from Treasury ahead of the 21 Oct 2026 MTBPS.",
+  "comparator": "the estimated R15 billion shortfall at the National Student Financial Aid Scheme (NSFAS) for 2026",
+  "local_value": 15000000000,
+  "currency": "ZAR",
+  "usd_m": 914.1,
+  "fx_rate": 16.4088,
+  "fx_source": "South African Reserve Bank, Rand per US Dollar (series EXCX135D), 20 Oct 2026 (SARB web API; saved as ZAF/sarb_homepagerates_2026-10-20.json)",
+  "sources": [
+   "https://www.enca.com/news-top-stories/nsfas-faces-r15bn-student-funding-gap",
+   "https://mdntvlive.com/government-advances-r4-billion-to-nsfas-amid-funding-crisis/",
+   "https://www.dailymaverick.co.za/article/2026-09-04-nsfas-r10bn-hole-housing-costs-blamed-as-universities-left-in-the-lurch/"
+  ],
+  "published": [
+   "2026-10-19",
+   "2026-08-12",
+   "2026-09-04"
+  ],
+  "why": "The R15bn gap was restated in a written parliamentary reply on 19 Oct 2026, with R10.5bn owed to universities and an early Treasury drawdown under discussion, so it is a live claim on the mini-budget tabled on 21 Oct 2026.",
+  "N_S1": 1.91,
+  "N_S2": 2.02,
+  "sentence_S1": "Recovering these annual losses of about R28.6 billion would, for instance, have been enough to fund the estimated R15 billion shortfall at the National Student Financial Aid Scheme (NSFAS) for 2026 almost twice over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/ZAF/mdntv_2026-10_r4bn_advance_nsfas.html",
+   "data/raw/context/budget_items_africa_2026-10/ZAF/enca_2026-08_nsfas_r15bn_gap.html",
+   "data/raw/context/budget_items_africa_2026-10/ZAF/dailymaverick_2026-09-04_nsfas_r10bn_hole.html",
+   "data/raw/context/budget_items_africa_2026-10/ZAF/citizen_2026-02_budget_nsfas_cut.html",
+   "data/raw/context/budget_items_africa_2026-10/ZAF/iol_2026-10-20_mtbps_preview.html",
+   "data/raw/context/budget_items_africa_2026-10/ZAF/sarb_homepagerates_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "ZAF",
+  "country": "South Africa",
+  "preferred": false,
+  "currentness": "usable",
+  "latest_date": "2026-06-24",
+  "debate": "US PEPFAR phase-out: Washington announced in June 2026 that it is ending HIV funding to South Africa; Treasury's R753m stopgap covers about a tenth of the R7.5bn PEPFAR provided in 2024.",
+  "comparator": "the roughly R7.5 billion a year that the US PEPFAR programme used to put into South Africa's HIV response",
+  "local_value": 7500000000,
+  "currency": "ZAR",
+  "usd_m": 457.1,
+  "fx_rate": 16.4088,
+  "fx_source": "South African Reserve Bank, Rand per US Dollar (series EXCX135D), 20 Oct 2026 (SARB web API; saved as ZAF/sarb_homepagerates_2026-10-20.json)",
+  "sources": [
+   "https://www.semafor.com/article/06/24/2026/south-africas-health-sector-scrambles-following-pepfar-cut",
+   "https://groundup.org.za/article/Treasury-hands-HIV-response-a-lifeline/",
+   "https://www.sanews.gov.za/south-africa/treasury-allocates-emergency-funding-r750m-towards-hiv-and-tb-after-us-funding-cuts"
+  ],
+  "published": [
+   "2026-06-24",
+   "2025-07-10",
+   "2025-07-10"
+  ],
+  "why": "Health Minister Motsoaledi called the June 2026 termination a wake-up call for domestic funding, and how to replace the money remains an open budget question; note the R7.5bn is PEPFAR's 2024 contribution.",
+  "N_S1": 3.81,
+  "N_S2": 4.04,
+  "sentence_S1": "Recovering these annual losses of about R28.6 billion would, for instance, have been enough to replace the roughly R7.5 billion a year that the US PEPFAR programme used to put into South Africa's HIV response almost four times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/ZAF/semafor_2026-06-24_sa_health_pepfar_cut.html",
+   "data/raw/context/budget_items_africa_2026-10/ZAF/groundup_2025-07_treasury_hiv_lifeline.html",
+   "data/raw/context/budget_items_africa_2026-10/ZAF/sanews_2025-07_treasury_r750m_hiv_tb.html",
+   "data/raw/context/budget_items_africa_2026-10/ZAF/sarb_homepagerates_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "ZAF",
+  "country": "South Africa",
+  "preferred": false,
+  "currentness": "usable",
+  "latest_date": "2026-10-20",
+  "debate": "FALLBACK (old comparator): social grants, incl. the SRD grant extended to 31 Mar 2027 whose successor must be funded, are the largest social line in Budget 2026.",
+  "comparator": "the entire 2026/27 social-grants budget of R292.8 billion",
+  "local_value": 292800000000,
+  "currency": "ZAR",
+  "usd_m": 17844.1,
+  "fx_rate": 16.4088,
+  "fx_source": "South African Reserve Bank, Rand per US Dollar (series EXCX135D), 20 Oct 2026 (SARB web API; saved as ZAF/sarb_homepagerates_2026-10-20.json)",
+  "sources": [
+   "https://www.treasury.gov.za/documents/national%20budget/2026/review/Chapter%205.pdf",
+   "https://iol.co.za/business/economy/2026-10-20-medium-term-budget-policy-statement--oil-shock-weak-growth-put-south-africas-finances-under-pressure/"
+  ],
+  "published": [
+   "2026-02-25",
+   "2026-10-20"
+  ],
+  "why": "Kept only as a fallback: at R292.8bn the grants budget is about ten times the total loss (N about 0.1), so it cannot be used in the N-times-over sentence.",
+  "N_S1": 0.1,
+  "N_S2": 0.1,
+  "sentence_S1": "Recovering these annual losses of about R28.6 billion would, for instance, have paid for about a tenth of the entire 2026/27 social-grants budget of R292.8 billion.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/ZAF/treasury_budget_review_2026_chapter5.pdf",
+   "data/raw/context/budget_items_africa_2026-10/ZAF/iol_2026-10-20_mtbps_preview.html",
+   "data/raw/context/budget_items_africa_2026-10/ZAF/sarb_homepagerates_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "AGO",
+  "country": "Angola",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-08",
+  "debate": "Fuel subsidies vs cash transfers: Finance Minister Vera Daves de Sousa said (Sep 2026) fuel subsidies may cost 2.48% of GDP in 2026 vs 0.9% budgeted and cannot be fully removed until cash transfers reach urban areas; Kwenda II payments continue (Oct 2026).",
+  "comparator": "the Kz 160.8 billion that the 2026 State Budget allocates to the second phase of the Kwenda cash-transfer programme",
+  "local_value": 160800000000,
+  "currency": "AOA",
+  "usd_m": 176.1,
+  "fx_rate": 913.0,
+  "fx_source": "Banco Nacional de Angola taxa de referencia USD (compra = venda = media = 913), 20 Oct 2026 (bna.ao API; AGO/bna_taxa_referencia_usd_2026-10-20.json). ExchangeRate-API (938.87) is not the BNA rate",
+  "sources": [
+   "https://www.unicef.org/angola/media/6856/file/Visao%20geral%20BBrief%202026_final.pdf.pdf",
+   "https://www.diarioeconomico.co.mz/2026/09/11/mundo/angola/angola-governo-preve-aumento-da-despesa-com-subsidios-aos-combustiveis/",
+   "https://rna.ao/rna.ao/2026/10/08/kwenda-aloca-mais-de-300-milhoes-de-kwanzas-no-interior-do-moxico-leste/"
+  ],
+  "published": [
+   "2026-07-08",
+   "2026-09-11",
+   "2026-10-08"
+  ],
+  "why": "The government makes wider Kwenda coverage the condition for ending fuel subsidies, so Kwenda funding is central to the fuel-subsidy debate (OPAIS, 23 Mar 2026, puts Kwenda at more than Kz155bn of a Kz160.9bn anti-poverty programme). Retire the old pre-school comparator: MINFIN Tabela 3 shows the >99% cut is mostly a reclassification into primary education (Kz777bn to Kz1,075.5bn).",
+  "N_S1": 3.67,
+  "N_S2": 3.86,
+  "sentence_S1": "Recovering these annual losses of about Kz 590 billion would, for instance, have been enough to fund the Kz 160.8 billion that the 2026 State Budget allocates to the second phase of the Kwenda cash-transfer programme more than three and a half times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/AGO/unicef_angola_oge2026_visao_geral_brief.pdf",
+   "data/raw/context/budget_items_africa_2026-10/AGO/opais_2026-03-23_kwenda_155bn_programa_pobreza.html",
+   "data/raw/context/budget_items_africa_2026-10/AGO/diarioeconomico_2026-09-11_subsidios_combustiveis.html",
+   "data/raw/context/budget_items_africa_2026-10/AGO/rna_2026-10-08_kwenda_moxico_leste.html",
+   "data/raw/context/budget_items_africa_2026-10/AGO/rna_2026-03-18_kwenda_ii_us400m.html",
+   "data/raw/context/budget_items_africa_2026-10/AGO/minfin_balanco_recomendacoes_an_oge2026.pdf",
+   "data/raw/context/budget_items_africa_2026-10/AGO/bna_taxa_referencia_usd_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "AGO",
+  "country": "Angola",
+  "preferred": false,
+  "currentness": "usable",
+  "latest_date": "2026-09-21",
+  "debate": "Education funding: SINPROF's national teachers' strike (21 Sep-15 Oct 2026, more phases planned for Dec 2026-Jun 2027) over unmet commitments, with education at only 6.9% of the OGE 2026.",
+  "comparator": "the national school-meals programme (Kz 239 billion in the 2026 State Budget)",
+  "local_value": 239000000000,
+  "currency": "AOA",
+  "usd_m": 261.8,
+  "fx_rate": 913.0,
+  "fx_source": "Banco Nacional de Angola taxa de referencia USD (compra = venda = media = 913), 20 Oct 2026 (bna.ao API; AGO/bna_taxa_referencia_usd_2026-10-20.json). ExchangeRate-API (938.87) is not the BNA rate",
+  "sources": [
+   "https://www.unicef.org/angola/media/6856/file/Visao%20geral%20BBrief%202026_final.pdf.pdf",
+   "https://cartadeangola.com/2026/09/21/greve-dos-professores-comeca-em-angola-com-escolas-publicas-vazias-e-ameaca-de-novas-paralisacoes/"
+  ],
+  "published": [
+   "2026-07-08",
+   "2026-09-21"
+  ],
+  "why": "School meals is the largest named education priority in the OGE 2026 (UNICEF brief, Table 2), inside an education budget that striking teachers and UNICEF say is far below the 15-20% benchmark.",
+  "N_S1": 2.47,
+  "N_S2": 2.6,
+  "sentence_S1": "Recovering these annual losses of about Kz 590 billion would, for instance, have been enough to fund the national school-meals programme (Kz 239 billion in the 2026 State Budget) almost two and a half times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/AGO/unicef_angola_oge2026_visao_geral_brief.pdf",
+   "data/raw/context/budget_items_africa_2026-10/AGO/cartadeangola_2026-09-21_greve_professores.html",
+   "data/raw/context/budget_items_africa_2026-10/AGO/bna_taxa_referencia_usd_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "ZMB",
+  "country": "Zambia",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-20",
+  "debate": "Health arrears: the Auditor General's report on the 2025 accounts (released 19-20 Oct 2026) finds the Ministry of Health owes K3.56bn in staff liabilities and unpaid supplier bills, some dating back to 2014.",
+  "comparator": "the K3.56 billion that the Ministry of Health owes its staff and suppliers, according to the Auditor General",
+  "local_value": 3560000000,
+  "currency": "ZMW",
+  "usd_m": 177.6,
+  "fx_rate": 20.0488,
+  "fx_source": "Bank of Zambia USD/ZMW mid-rate, 20 Oct 2026 15:30 (buy 20.0252, sell 20.0723; boz.zm API; ZMB/boz_zmw_usd_daily_rates_2026-10-20.json)",
+  "sources": [
+   "https://www.zambiamonitor.com/auditor-general-flags-k3-56bn-debts-in-health-sector-missing-mukula-logs-other-financial-management-gaps/",
+   "https://www.lusakatimes.com/2026/10/20/audit-finds-k626-million-in-mining-penalties-left-uncollected/",
+   "https://diggers.news/courts/2026/10/20/moh-owes-k3-56bn-with-some-bills-dating-back-to-2014-ag/"
+  ],
+  "published": [
+   "2026-10-20",
+   "2026-10-19",
+   "2026-10-20"
+  ],
+  "why": "The acting Auditor General warned that the arrears threaten uninterrupted health services and add penalties and interest, while arrears clearance (K15bn) is the largest line in the 2027 budget hearings now under way.",
+  "N_S1": 1.9,
+  "N_S2": 1.89,
+  "sentence_S1": "Recovering these annual losses of about K6.8 billion would, for instance, have been enough to clear the K3.56 billion that the Ministry of Health owes its staff and suppliers, according to the Auditor General, almost twice over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/ZMB/lusakatimes_2026-10-20_ag_report_moh_k3.56bn.html",
+   "data/raw/context/budget_items_africa_2026-10/ZMB/zambiamonitor_2026-10-20_ag_k3.56bn_health_debts.html",
+   "data/raw/context/budget_items_africa_2026-10/ZMB/diggers_2026-10-20_moh_owes_k3.56bn.html",
+   "data/raw/context/budget_items_africa_2026-10/ZMB/zambianeconomist_2026-10-07_2027_budget_hearings.html",
+   "data/raw/context/budget_items_africa_2026-10/ZMB/boz_zmw_usd_daily_rates_2026-10-20.json"
+  ],
+  "sentence_form": "entire",
+  "entire_verb": "clear"
+ },
+ {
+  "iso3": "ZMB",
+  "country": "Zambia",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-10-07",
+  "debate": "2027 budget hearings (opened 5 Oct 2026): Treasury protects free education (K2.8bn), school feeding and social cash transfers, leaving only about K6.9bn for all other programmes.",
+  "comparator": "the K2.8 billion the Treasury has earmarked for free education in the 2027 budget",
+  "local_value": 2800000000,
+  "currency": "ZMW",
+  "usd_m": 139.7,
+  "fx_rate": 20.0488,
+  "fx_source": "Bank of Zambia USD/ZMW mid-rate, 20 Oct 2026 15:30 (buy 20.0252, sell 20.0723; boz.zm API; ZMB/boz_zmw_usd_daily_rates_2026-10-20.json)",
+  "sources": [
+   "https://zambianeconomist.com/zambia-2027-budget-hearings-nkulukusa-spending-discipline/",
+   "https://www.lusakatimes.com/2026/10/05/nkulukusa-stresses-proper-utilisation-of-public-funds/",
+   "https://www.moe.gov.zm/wp-content/uploads/2025/10/2026-Budget-Speech.pdf"
+  ],
+  "published": [
+   "2026-10-07",
+   "2026-10-05",
+   "2025-09-26"
+  ],
+  "why": "Updates the old comparator (K2.4bn in the 2026 budget) with the 2027 figure from the Treasury's budget-hearings briefing; the 2027 budget is due within 90 days of the 1 Sep 2026 inauguration. The K2.8bn rests on one detailed press account of that briefing.",
+  "N_S1": 2.41,
+  "N_S2": 2.41,
+  "sentence_S1": "Recovering these annual losses of about K6.8 billion would, for instance, have been enough to fund the K2.8 billion the Treasury has earmarked for free education in the 2027 budget almost two and a half times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/ZMB/zambianeconomist_2026-10-07_2027_budget_hearings.html",
+   "data/raw/context/budget_items_africa_2026-10/ZMB/lusakatimes_2026-10-05_nkulukusa.html",
+   "data/raw/context/budget_items_africa_2026-10/ZMB/moe_zm_2026_budget_speech.pdf",
+   "data/raw/context/budget_items_africa_2026-10/ZMB/openzambia_2026-08-27_budget_within_90_days.html",
+   "data/raw/context/budget_items_africa_2026-10/ZMB/boz_zmw_usd_daily_rates_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "MOZ",
+  "country": "Mozambique",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-12",
+  "debate": "Teachers' overtime arrears: on Teachers' Day (12 Oct 2026) ANAPRO again denounced unpaid overtime; the Finance Minister told parliament the education overtime owed for 2024-2025 was projected at MZN 6,634.4m, and 2023 is only partly paid.",
+  "comparator": "the MZN 6.6 billion in overtime that the government estimates it owes teachers for 2024 and 2025",
+  "local_value": 6634400000,
+  "currency": "MZN",
+  "usd_m": 103.8,
+  "fx_rate": 63.905,
+  "fx_source": "Banco de Mocambique USD rate 20 Oct 2026 15:30, mid of compra 63.27 / venda 64.54 (bancomoc.mz API; MOZ/bancomoc_exchangerates_2026-10-20.json)",
+  "sources": [
+   "https://aimnews.org/2025/11/14/governo-confirma-inicio-do-pagamento-de-horas-extras-no-sector-da-saude/",
+   "https://noticias.mmo.co.mz/2025/11/pagamentos-de-horas-extras-na-saude-e-educacao-comecam-a-ser-regularizados-em-mocambique.html",
+   "https://www.noticiasaominuto.com/mundo/3065456/professores-mocambicanos-reclamam-dividas-com-horas-extras",
+   "https://mznews.co.mz/anapro-contesta-governo-e-denuncia-dividas-acumuladas-de-horas-extras-a-professores-no-pais/"
+  ],
+  "published": [
+   "2025-11-18",
+   "2026-10-12",
+   "2026-04-28"
+  ],
+  "why": "Unpaid overtime is a recurring flashpoint: teachers protested in June 2026, when the Education Minister asked for patience, and ANAPRO renewed the complaint on 12 Oct 2026. The amount is the Finance Minister's own projection to parliament (Nov 2025, still under validation).",
+  "N_S1": 2.93,
+  "N_S2": 1.72,
+  "sentence_S1": "Recovering these annual losses of about MZN 19.4 billion would, for instance, have been enough to pay the MZN 6.6 billion in overtime that the government estimates it owes teachers for 2024 and 2025 almost three times over.",
+  "evidence_files": [
+   "MOZ/aim_2025-11-14_horas_extras_6634m.html",
+   "data/raw/context/budget_items_africa_2026-10/MOZ/mmo_2025-11-18_horas_extras_saude_educacao_6634m.html",
+   "data/raw/context/budget_items_africa_2026-10/MOZ/noticiasaominuto_2026-10-12_professores_reclamam_horas_extras.html",
+   "data/raw/context/budget_items_africa_2026-10/MOZ/mznews_2026-04-28_anapro_dividas_horas_extras.html",
+   "data/raw/context/budget_items_africa_2026-10/MOZ/diarioeconomico_2026-06-20_atrasos_horas_extraordinarias.html",
+   "data/raw/context/budget_items_africa_2026-10/MOZ/bancomoc_exchangerates_2026-10-20.json"
+  ],
+  "sentence_form": "entire",
+  "entire_verb": "pay"
+ },
+ {
+  "iso3": "MOZ",
+  "country": "Mozambique",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-10-20",
+  "debate": "Cabo Delgado humanitarian crisis: the UN's 2026 conflict response plan (US$348m) was only 34% (US$116m) funded at mid-year; on 20 Oct 2026 FTS shows the whole plan incl. floods at US$229m of US$534m.",
+  "comparator": "the US$232 million funding gap in this year's UN humanitarian response to the conflict in northern Mozambique",
+  "local_value": 232000000,
+  "currency": "USD",
+  "usd_m": 232.0,
+  "fx_rate": 63.905,
+  "fx_source": "Banco de Mocambique USD rate 20 Oct 2026 15:30, mid of compra 63.27 / venda 64.54 (bancomoc.mz API; MOZ/bancomoc_exchangerates_2026-10-20.json)",
+  "sources": [
+   "https://www.unocha.org/publications/report/mozambique/mozambique-humanitarian-snapshot-june-2026-enpt",
+   "https://allafrica.com/stories/202607200054.html",
+   "https://api.hpc.tools/v1/public/fts/flow?planid=1506&groupby=cluster"
+  ],
+  "published": [
+   "2026-07-09",
+   "2026-07-20",
+   "2026-10-20"
+  ],
+  "why": "About 919,000 people in Cabo Delgado need aid and only half receive it; US$232m is the latest conflict-only gap (end-June 2026). The ratio is below 1 for S2 (US$179m), so use it only with S1.",
+  "N_S1": 1.31,
+  "N_S2": 0.77,
+  "sentence_S1": "Recovering these annual losses of about MZN 19.4 billion would, for instance, have been enough to close the US$232 million funding gap in this year's UN humanitarian response to the conflict in northern Mozambique 1.3 times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/MOZ/unocha_mozambique_snapshot_june2026.html",
+   "data/raw/context/budget_items_africa_2026-10/MOZ/allafrica_2026-07-20_cabo_delgado_900k.html",
+   "data/raw/context/budget_items_africa_2026-10/MOZ/fts_api_plan1506_mozambique_hnrp2026_2026-10-20.json",
+   "data/raw/context/budget_items_africa_2026-10/MOZ/unocha_mozambique_conflict_response_31may2026.html",
+   "data/raw/context/budget_items_africa_2026-10/MOZ/bancomoc_exchangerates_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "MOZ",
+  "country": "Mozambique",
+  "preferred": false,
+  "currentness": "usable",
+  "latest_date": "2026-06-10",
+  "debate": "FALLBACK (old comparator): five World Bank financing agreements signed in Maputo in June 2026.",
+  "comparator": "the US$450 million in five World Bank financing agreements signed in June 2026",
+  "local_value": 450000000,
+  "currency": "USD",
+  "usd_m": 450.0,
+  "fx_rate": 63.905,
+  "fx_source": "Banco de Mocambique USD rate 20 Oct 2026 15:30, mid of compra 63.27 / venda 64.54 (bancomoc.mz API; MOZ/bancomoc_exchangerates_2026-10-20.json)",
+  "sources": [
+   "https://sundayworld.co.za/big-reads/mozambique-secures-450m-funding-from-world-bank/"
+  ],
+  "published": [
+   "2026-06-10"
+  ],
+  "why": "Not recommended: this is external financing rather than a budget need, and it is larger than both totals (N below 1).",
+  "N_S1": 0.68,
+  "N_S2": 0.4,
+  "sentence_S1": "Recovering these annual losses of about MZN 19.4 billion would, for instance, have matched about two-thirds of the US$450 million in five World Bank financing agreements signed in June 2026.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/MOZ/sundayworld_2026-06_world_bank_450m.html",
+   "data/raw/context/budget_items_africa_2026-10/MOZ/bancomoc_exchangerates_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "ZWE",
+  "country": "Zimbabwe",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-09-26",
+  "debate": "BEAM school-fee arrears: Deputy Finance Minister Kudakwashe Mnangagwa told Parliament (23 Sep 2026) that US$98m is owed to schools for 2023-2025, to be paid slowly pending an audit and cleared only in 2027-2030, while schools send BEAM pupils home.",
+  "comparator": "the US$98 million in Basic Education Assistance Module (BEAM) school-fee arrears that the Treasury acknowledges it owes schools (the welfare ministry puts them at US$292 million)",
+  "local_value": 98000000,
+  "currency": "USD",
+  "usd_m": 98.0,
+  "fx_rate": 1.0,
+  "fx_source": "No conversion: comparator and loss both in US$, sentence in US$. RBZ rate page is behind a bot wall; indicative ZWG 26.6259 per US$ (ExchangeRate-API, 20 Oct 2026, fx_open_er_api_usd_2026-10-20.json) if a ZiG figure is needed",
+  "sources": [
+   "https://cite.org.zw/?p=52021",
+   "https://www.zimbabwesituation.com/news/mnangagwa-beam-list-manipulated-by-influential-people/",
+   "https://www.thezimbabwean.co/2026/08/beam-arrears-soar-past-us292-million-but-government-orders-schools-not-to-send-learners-home/"
+  ],
+  "published": [
+   "2026-09-26",
+   "2026-08"
+  ],
+  "why": "BEAM arrears are being fought over in Parliament as schools turn away BEAM learners, and the 2027 budget consultations are under way; US$98m is the Treasury's own figure (the social welfare ministry puts cumulative arrears at US$292m).",
+  "N_S1": 2.85,
+  "N_S2": 2.52,
+  "sentence_S1": "Recovering these annual losses of about US$279 million would, for instance, have been enough to clear the US$98 million in Basic Education Assistance Module (BEAM) school-fee arrears that the Treasury owes schools almost three times over.",
+  "evidence_files": [
+   "ZWE/cite_2025-12-02_arrears_strategy_beam_us98m.html",
+   "data/raw/context/budget_items_africa_2026-10/ZWE/zimbabwesituation_2026-09-26_beam_us98m_audit.html",
+   "data/raw/context/budget_items_africa_2026-10/ZWE/thezimbabwean_2026-08_beam_arrears_us292m.html",
+   "data/raw/context/budget_items_africa_2026-10/ZWE/zimmorningpost_2026_beam_us292m.html",
+   "data/raw/context/budget_items_africa_2026-10/fx_open_er_api_usd_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "ZWE",
+  "country": "Zimbabwe",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-08-23",
+  "debate": "Same BEAM debate: Deputy Minister Mercy Dinha told Parliament (19 Aug 2026) that BEAM left US$112.1m of 2025 fees, levies and exam fees unpaid (US$292.5m cumulative since 2023).",
+  "comparator": "the US$112 million in BEAM school fees, levies and exam fees left unpaid for 2025",
+  "local_value": 112142942,
+  "currency": "USD",
+  "usd_m": 112.1,
+  "fx_rate": 1.0,
+  "fx_source": "No conversion: comparator and loss both in US$, sentence in US$. RBZ rate page is behind a bot wall; indicative ZWG 26.6259 per US$ (ExchangeRate-API, 20 Oct 2026, fx_open_er_api_usd_2026-10-20.json) if a ZiG figure is needed",
+  "sources": [
+   "https://www.thezimbabwean.co/2026/08/beam-arrears-soar-past-us292-million-but-government-orders-schools-not-to-send-learners-home/",
+   "https://zimmorningpost.com/government-owes-schools-us292-million-in-beam-arrears/"
+  ],
+  "published": [
+   "2026-08",
+   "2026-08-23"
+  ],
+  "why": "The line ministry's figure for the 2025 school year alone, offered as the alternative because no non-BEAM Zimbabwean item of the right size (about US$15m-279m) with a solid 2026 source was found; the 2027 health bid gap (ZWG89.27bn bid vs ZWG29.83bn ceiling) is far too large.",
+  "N_S1": 2.49,
+  "N_S2": 2.2,
+  "sentence_S1": "Recovering these annual losses of about US$279 million would, for instance, have been enough to pay the US$112 million in BEAM school fees, levies and exam fees left unpaid for 2025 nearly two and a half times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/ZWE/thezimbabwean_2026-08_beam_arrears_us292m.html",
+   "data/raw/context/budget_items_africa_2026-10/ZWE/zimmorningpost_2026_beam_us292m.html",
+   "data/raw/context/budget_items_africa_2026-10/ZWE/newzimbabwe_2026-10-12_health_bid_zwg89bn.html"
+  ]
+ },
+ {
+  "iso3": "NAM",
+  "country": "Namibia",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-15",
+  "debate": "Old-age grant: Budget 2026/27 raised the grant by only N$100 to N$1,700 a month (N$500m a year), criticised in Aug 2026 as mocking the elderly against earlier N$2,000-3,000 promises; grants (N$7.4bn) are under scrutiny ahead of the October 2026 mid-year budget review.",
+  "comparator": "this year's N$100-a-month increase in the old-age grant (N$447 million in the 2026/27 budget)",
+  "local_value": 447000000,
+  "currency": "NAD",
+  "usd_m": 27.3,
+  "fx_rate": 16.402,
+  "fx_source": "Bank of Namibia, NAD per US Dollar 16.4020, 20 Oct 2026 (services.bon.com.na API; NAM/bon_rates_2026-10-20.json); NAD at par with ZAR (SARB 16.4088)",
+  "sources": [
+   "https://www.namibian.com.na/breaking-pensioners-to-receive-n100-increase/",
+   "https://www.namibiansun.com/government/old-age-grant-bill-nears-n8-billion-nmh006893-1-7737",
+   "https://allafrica.com/stories/202608100682.html",
+   "https://allafrica.com/stories/202610150483.html"
+  ],
+  "published": [
+   "2026-03-13",
+   "2026-08-10",
+   "2026-10-15"
+  ],
+  "why": "Finance Minister Shafudah herself costed the N$100 rise at N$500m and defended it as what the budget can afford, so the sentence shows the loss could have paid for an increase five times larger. Audit of 12 Nov 2026: the 2026/27 budget earmarks N$447 million for the increase (The Namibian, 26 Feb 2026); the N$500 million was the minister's spoken rounding.",
+  "N_S1": 5.15,
+  "N_S2": 4.49,
+  "sentence_S1": "Recovering these annual losses of about N$2.6 billion would, for instance, have been enough to fund this year's N$100-a-month increase in the old-age grant (about N$500 million a year) more than five times over.",
+  "evidence_files": [
+   "NAM/namibian_2026-02-26_pensioners_n100_increase_n447m.html",
+   "data/raw/context/budget_items_africa_2026-10/NAM/namibiansun_old_age_grant_n8bn.html",
+   "data/raw/context/budget_items_africa_2026-10/NAM/allafrica_2026-08-10_budget_mocks_elderly.html",
+   "data/raw/context/budget_items_africa_2026-10/NAM/allafrica_2026-10-15_shafudah_budget_delivery.html",
+   "data/raw/context/budget_items_africa_2026-10/NAM/bon_rates_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "NAM",
+  "country": "Namibia",
+  "preferred": false,
+  "currentness": "usable",
+  "latest_date": "2026-06-28",
+  "debate": "Medicine shortages: the health ministry approved (8 Jun 2026) a N$1bn emergency purchase of medicines because Central Medical Stores stocks had hit zero for some products; its procurement committee sent the purchase to the Central Procurement Board; stocks about 60% vs an 80% target.",
+  "comparator": "the N$1 billion emergency purchase of medicines the health ministry approved in June 2026",
+  "local_value": 1000000000,
+  "currency": "NAD",
+  "usd_m": 61.0,
+  "fx_rate": 16.402,
+  "fx_source": "Bank of Namibia, NAD per US Dollar 16.4020, 20 Oct 2026 (services.bon.com.na API; NAM/bon_rates_2026-10-20.json); NAD at par with ZAR (SARB 16.4088)",
+  "sources": [
+   "https://www.namibian.com.na/urgent-n1b-health-tender-blocked/",
+   "https://thebrief.com.na/2026/05/namibia-medicine-stock-levels-remain-at-60/"
+  ],
+  "published": [
+   "2026-06-28",
+   "2026-05-19"
+  ],
+  "why": "Shows the size of the medicines gap in public hospitals in mid-2026; note the purchase was stopped as an emergency procurement over abuse risk, so phrase it as the need, not the deal.",
+  "N_S1": 2.58,
+  "N_S2": 2.25,
+  "sentence_S1": "Recovering these annual losses of about N$2.6 billion would, for instance, have been enough to pay for the N$1 billion emergency purchase of medicines the health ministry approved in June 2026 more than two and a half times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/NAM/namibian_2026-06-28_urgent_n1b_health_tender_blocked.html",
+   "data/raw/context/budget_items_africa_2026-10/NAM/thebrief_2026-05-19_medicine_stock_60pct.html",
+   "data/raw/context/budget_items_africa_2026-10/NAM/bon_rates_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "BWA",
+  "country": "Botswana",
+  "preferred": true,
+  "currentness": "usable",
+  "latest_date": "2026-07-08",
+  "debate": "Student-funding crunch: the Ministry of Higher Education reported a P1.13bn tuition-fee shortfall for 2025/26 (Mar 2026); in July 2026 it refused re-sponsorship and progression funding for over 5,000 students, and the promised P2,500 allowance has no timeline.",
+  "comparator": "the P1.13 billion tuition-fee shortfall the Ministry of Higher Education reported for 2025/26",
+  "local_value": 1129429588.14,
+  "currency": "BWP",
+  "usd_m": 84.6,
+  "fx_rate": 13.3511,
+  "fx_source": "Bank of Botswana, BWP1 = USD0.0749 on 20 Oct 2026, i.e. BWP13.35 per US$ (cross-check: ZAR1.2285 per BWP and SARB 16.4088 give 13.36); bankofbotswana.bw chart data, BWA/bankofbotswana_exchange_rates_2026-10-20.html. ExchangeRate-API (13.96) is about 4.5% off",
+  "sources": [
+   "https://www.botswanaspeaks.gov.bw/media/COMMITTEE%20OF%20SUPPPLY%20SPEECHES/MoHE%20COS%20SPEECH%20-%2019-03-26%20KEK%20FULL%20SPEECH.pdf",
+   "https://allafrica.com/stories/202607080061.html",
+   "https://dailynews.gov.bw/news-detail/91014"
+  ],
+  "published": [
+   "2026-03-19",
+   "2026-07-08",
+   "2026-04-15"
+  ],
+  "why": "The shortfall is the minister's own figure to Parliament, and the July 2026 freeze on re-sponsorship (blamed on financial constraints) keeps tertiary funding a live grievance in the diamond-driven fiscal crisis.",
+  "N_S1": 1.55,
+  "N_S2": 1.81,
+  "sentence_S1": "Recovering these annual losses of about P1.75 billion would, for instance, have been enough to cover the P1.13 billion tuition-fee shortfall the Ministry of Higher Education reported for 2025/26 one and a half times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/BWA/botswanaspeaks_mohe_cos_speech_2026-03-19.pdf",
+   "data/raw/context/budget_items_africa_2026-10/BWA/allafrica_2026-07-08_sponsorship_changes.html",
+   "data/raw/context/budget_items_africa_2026-10/BWA/dailynews_2026-04-15_student_allowances_p2500.html",
+   "data/raw/context/budget_items_africa_2026-10/BWA/bankofbotswana_2026_budget_speech.pdf",
+   "data/raw/context/budget_items_africa_2026-10/BWA/bankofbotswana_exchange_rates_2026-10-20.html"
+  ],
+  "sentence_form": "entire",
+  "entire_verb": "close"
+ },
+ {
+  "iso3": "BWA",
+  "country": "Botswana",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-08-31",
+  "debate": "Old-age pension promise: the government pays P1,400 a month instead of the P1,800 promised from 2026/27; at the midterm (Aug 2026) it blamed fiscal constraints; 154,243 pensioners were paid P216m in August.",
+  "comparator": "raising the old-age pension to the promised P1,800 a month (about P740 million a year more)",
+  "local_value": 740366400,
+  "currency": "BWP",
+  "usd_m": 55.5,
+  "fx_rate": 13.3511,
+  "fx_source": "Bank of Botswana, BWP1 = USD0.0749 on 20 Oct 2026, i.e. BWP13.35 per US$ (cross-check: ZAR1.2285 per BWP and SARB 16.4088 give 13.36); bankofbotswana.bw chart data, BWA/bankofbotswana_exchange_rates_2026-10-20.html. ExchangeRate-API (13.96) is about 4.5% off",
+  "sources": [
+   "https://weekendpost.co.bw/mohwasa-points-to-delivery-at-midterm-but-flagship-promises-remain-incomplete/",
+   "https://www.gabzfm.com/post/p1-800-old-age-allowance-set-for-2026-2027"
+  ],
+  "published": [
+   "2026-08-31",
+   "2025-09-03"
+  ],
+  "why": "A flagship promise the government itself flagged as unmet for lack of money; the P740m is a TJN calculation (P400 x 154,243 pensioners x 12 months), not an official costing.",
+  "N_S1": 2.36,
+  "N_S2": 2.76,
+  "sentence_S1": "Recovering these annual losses of about P1.75 billion would, for instance, have been enough to raise the old-age pension to the promised P1,800 a month (about P740 million a year more) more than twice over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/BWA/weekendpost_2026-08_mohwasa_midterm_promises.html",
+   "data/raw/context/budget_items_africa_2026-10/BWA/gabzfm_2025-09-03_p1800_old_age_allowance_2026-27.html",
+   "data/raw/context/budget_items_africa_2026-10/BWA/bankofbotswana_exchange_rates_2026-10-20.html"
+  ]
+ },
+ {
+  "iso3": "MWI",
+  "country": "Malawi",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-09-30",
+  "debate": "Hunger: MVAC projects 2.6 million people food-insecure in the 2026/27 lean season, needing 97,887 t of maize worth MK124.3bn (Oct 2026-Mar 2027); distribution starts in November amid fuel and forex shortages.",
+  "comparator": "the MK124.3 billion worth of maize needed to feed the 2.6 million Malawians facing hunger this lean season",
+  "local_value": 124300000000,
+  "currency": "MWK",
+  "usd_m": 71.7,
+  "fx_rate": 1734.0118,
+  "fx_source": "Reserve Bank of Malawi middle rate, 20 Oct 2026 (buying 1717.0236 / selling 1751.0000; rbm.mw major rates; MWI/rbm_major_rates_2026-10-20.html)",
+  "sources": [
+   "https://malawi24.com/2026/08/05/mk124-3b-needed-to-feed-2-6-million-vulnerable-malawians/",
+   "https://mwnation.com/relief-maize-distribution-set-to-start-in-november/",
+   "https://times.mw/malawi-food-security-gains-face-pressure/"
+  ],
+  "published": [
+   "2026-08-05",
+   "2026-09-18",
+   "2026-09-30"
+  ],
+  "why": "The government has appealed to donors and the private sector to fill the gap, and the 2026/27 response plan went to the National Disaster Risk Management Committee in September 2026.",
+  "N_S1": 1.53,
+  "N_S2": 1.28,
+  "sentence_S1": "Recovering these annual losses of about MK191 billion would, for instance, have been enough to buy the MK124.3 billion worth of maize needed to feed the 2.6 million Malawians facing hunger this lean season one and a half times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/MWI/malawi24_2026-08-05_mk124.3bn_lean_season.html",
+   "data/raw/context/budget_items_africa_2026-10/MWI/mwnation_relief_maize_november.html",
+   "data/raw/context/budget_items_africa_2026-10/MWI/mwnation_mvac_2.6m.html",
+   "data/raw/context/budget_items_africa_2026-10/MWI/times_2026-09-30_food_security_pressure.html",
+   "data/raw/context/budget_items_africa_2026-10/MWI/allafrica_2026-10-05_fuel_forex_crisis.html",
+   "data/raw/context/budget_items_africa_2026-10/MWI/rbm_major_rates_2026-10-20.html"
+  ],
+  "sentence_form": "entire",
+  "entire_verb": "buy"
+ },
+ {
+  "iso3": "MWI",
+  "country": "Malawi",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-10-15",
+  "debate": "Farm input subsidy: FISP cut 54% to MK111.45bn in the 2026/27 budget (from MK241bn); launched 24 Sep 2026, but farmers report no fertiliser at selling points (Oct 2026).",
+  "comparator": "the entire 2026/27 fertiliser subsidy programme (MK111.45 billion), cut by more than half this year",
+  "local_value": 111450000000,
+  "currency": "MWK",
+  "usd_m": 64.3,
+  "fx_rate": 1734.0118,
+  "fx_source": "Reserve Bank of Malawi middle rate, 20 Oct 2026 (buying 1717.0236 / selling 1751.0000; rbm.mw major rates; MWI/rbm_major_rates_2026-10-20.html)",
+  "sources": [
+   "https://mwnation.com/fisp-allocation-slashed-by-54-percent-in-budget/",
+   "https://times.mw/farmers-in-limbo-over-fisp/",
+   "https://www.finance.gov.mw/documents/uploads/2026-03/Doc%201_2026-27%20Budget%20Policy%20Statement_0.pdf"
+  ],
+  "published": [
+   "2026-03-01",
+   "2026-10-15",
+   "2026-02-27"
+  ],
+  "why": "FISP is Malawi's flagship farm programme, and its halving and delayed delivery are being debated as the rains approach.",
+  "N_S1": 1.71,
+  "N_S2": 1.43,
+  "sentence_S1": "Recovering these annual losses of about MK191 billion would, for instance, have been enough to fund the entire 2026/27 fertiliser subsidy programme (MK111.45 billion), cut by more than half this year, 1.7 times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/MWI/mwnation_fisp_slashed_54pct.html",
+   "data/raw/context/budget_items_africa_2026-10/MWI/times_2026-10_farmers_in_limbo_fisp.html",
+   "data/raw/context/budget_items_africa_2026-10/MWI/times_2026-09_government_launches_fisp.html",
+   "data/raw/context/budget_items_africa_2026-10/MWI/finance_mw_2026-27_budget_policy_statement.pdf",
+   "data/raw/context/budget_items_africa_2026-10/MWI/rbm_major_rates_2026-10-20.html"
+  ]
+ }
+]

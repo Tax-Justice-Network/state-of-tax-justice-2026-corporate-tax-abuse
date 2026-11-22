@@ -1,0 +1,55 @@
+hq_country,fiscal_year,destination,value_jpy_bn,share,note
+JPN,2016,japan_external (parent domestic sales + affiliates' sales to non-parent Japanese firms),305120,0.528847,
+JPN,2016,north_america (affiliates: local NA + third-country exports to NA),84859.6,0.147082,
+JPN,2016,asia (affiliates: local Asia + third-country exports to Asia),91801.4,0.159114,
+JPN,2016,europe (affiliates: local Europe + third-country exports to Europe),34107.2,0.0591161,
+JPN,2016,other (affiliates: local LatAm/MidEast/Oceania/Africa + third-country exports to other regions),23023.7,0.0399057,
+JPN,2016,abroad_unallocated (parent exports to unaffiliated foreign buyers),38041.1,0.0659345,
+JPN,2017,japan_external (parent domestic sales + affiliates' sales to non-parent Japanese firms),332058,0.525063,
+JPN,2017,north_america (affiliates: local NA + third-country exports to NA),89893.4,0.142143,
+JPN,2017,asia (affiliates: local Asia + third-country exports to Asia),109144,0.172582,
+JPN,2017,europe (affiliates: local Europe + third-country exports to Europe),40236.6,0.0636235,
+JPN,2017,other (affiliates: local LatAm/MidEast/Oceania/Africa + third-country exports to other regions),22440.6,0.0354839,
+JPN,2017,abroad_unallocated (parent exports to unaffiliated foreign buyers),38644,0.0611053,
+JPN,2018,japan_external (parent domestic sales + affiliates' sales to non-parent Japanese firms),332022,0.52049,
+JPN,2018,north_america (affiliates: local NA + third-country exports to NA),92106.2,0.144389,
+JPN,2018,asia (affiliates: local Asia + third-country exports to Asia),111301,0.174479,
+JPN,2018,europe (affiliates: local Europe + third-country exports to Europe),38988.5,0.0611198,
+JPN,2018,other (affiliates: local LatAm/MidEast/Oceania/Africa + third-country exports to other regions),22319.6,0.0349891,
+JPN,2018,abroad_unallocated (parent exports to unaffiliated foreign buyers),41165.7,0.0645327,
+JPN,2019,japan_external (parent domestic sales + affiliates' sales to non-parent Japanese firms),313996,0.527326,
+JPN,2019,north_america (affiliates: local NA + third-country exports to NA),85978.3,0.144392,
+JPN,2019,asia (affiliates: local Asia + third-country exports to Asia),96522.8,0.162101,
+JPN,2019,europe (affiliates: local Europe + third-country exports to Europe),35356.2,0.0593773,
+JPN,2019,other (affiliates: local LatAm/MidEast/Oceania/Africa + third-country exports to other regions),22113.1,0.0371368,
+JPN,2019,abroad_unallocated (parent exports to unaffiliated foreign buyers),41483,0.0696667,
+JPN,2020,japan_external (parent domestic sales + affiliates' sales to non-parent Japanese firms),284865,0.523849,
+JPN,2020,north_america (affiliates: local NA + third-country exports to NA),74943.5,0.137817,
+JPN,2020,asia (affiliates: local Asia + third-country exports to Asia),92738.5,0.170541,
+JPN,2020,europe (affiliates: local Europe + third-country exports to Europe),32387.3,0.0595583,
+JPN,2020,other (affiliates: local LatAm/MidEast/Oceania/Africa + third-country exports to other regions),20357.7,0.0374365,
+JPN,2020,abroad_unallocated (parent exports to unaffiliated foreign buyers),38499.7,0.0707986,
+JPN,2021,japan_external (parent domestic sales + affiliates' sales to non-parent Japanese firms),297953,0.480505,
+JPN,2021,north_america (affiliates: local NA + third-country exports to NA),94950.2,0.153125,
+JPN,2021,asia (affiliates: local Asia + third-country exports to Asia),119395,0.192546,
+JPN,2021,europe (affiliates: local Europe + third-country exports to Europe),37254.2,0.0600792,
+JPN,2021,other (affiliates: local LatAm/MidEast/Oceania/Africa + third-country exports to other regions),25938.4,0.0418304,
+JPN,2021,abroad_unallocated (parent exports to unaffiliated foreign buyers),44593.2,0.0719148,
+JPN,2022,japan_external (parent domestic sales + affiliates' sales to non-parent Japanese firms),334385,0.47304,
+JPN,2022,north_america (affiliates: local NA + third-country exports to NA),118789,0.168046,
+JPN,2022,asia (affiliates: local Asia + third-country exports to Asia),127942,0.180994,
+JPN,2022,europe (affiliates: local Europe + third-country exports to Europe),43333.4,0.0613019,
+JPN,2022,other (affiliates: local LatAm/MidEast/Oceania/Africa + third-country exports to other regions),32225.2,0.0455875,
+JPN,2022,abroad_unallocated (parent exports to unaffiliated foreign buyers),50210.3,0.0710303,
+JPN,2023,japan_external (parent domestic sales + affiliates' sales to non-parent Japanese firms),313578,0.442485,local sales of middle_east/oceania/africa suppressed (X); recovered as residual and put in 'other'
+JPN,2023,north_america (affiliates: local NA + third-country exports to NA),132813,0.187411,local sales of middle_east/oceania/africa suppressed (X); recovered as residual and put in 'other'
+JPN,2023,asia (affiliates: local Asia + third-country exports to Asia),125547,0.177157,local sales of middle_east/oceania/africa suppressed (X); recovered as residual and put in 'other'
+JPN,2023,europe (affiliates: local Europe + third-country exports to Europe),47845.1,0.0675136,local sales of middle_east/oceania/africa suppressed (X); recovered as residual and put in 'other'
+JPN,2023,other (affiliates: local LatAm/MidEast/Oceania/Africa + third-country exports to other regions),38385.4,0.0541651,local sales of middle_east/oceania/africa suppressed (X); recovered as residual and put in 'other'
+JPN,2023,abroad_unallocated (parent exports to unaffiliated foreign buyers),50505.8,0.071268,local sales of middle_east/oceania/africa suppressed (X); recovered as residual and put in 'other'
+JPN,2024,japan_external (parent domestic sales + affiliates' sales to non-parent Japanese firms),346803,0.460483,local sales of middle_east/africa suppressed (X); recovered as residual and put in 'other'
+JPN,2024,north_america (affiliates: local NA + third-country exports to NA),137805,0.182977,local sales of middle_east/africa suppressed (X); recovered as residual and put in 'other'
+JPN,2024,asia (affiliates: local Asia + third-country exports to Asia),128813,0.171038,local sales of middle_east/africa suppressed (X); recovered as residual and put in 'other'
+JPN,2024,europe (affiliates: local Europe + third-country exports to Europe),46340,0.0615301,local sales of middle_east/africa suppressed (X); recovered as residual and put in 'other'
+JPN,2024,other (affiliates: local LatAm/MidEast/Oceania/Africa + third-country exports to other regions),37359.7,0.049606,local sales of middle_east/africa suppressed (X); recovered as residual and put in 'other'
+JPN,2024,abroad_unallocated (parent exports to unaffiliated foreign buyers),56006.5,0.0743653,local sales of middle_east/africa suppressed (X); recovered as residual and put in 'other'

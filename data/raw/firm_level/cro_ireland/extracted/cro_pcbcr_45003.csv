@@ -1,0 +1,9 @@
+jurisdiction,code,line_type,revenue,pbt,tax_paid,tax_accrued,acc_earnings,employees
+Ireland,IE,named,165912739.0,-2847964.0,1214667.0,1063064.0,18930983.0,166.0
+Germany,DE,named,4654804.0,230230.0,51163.0,69875.0,422380.0,11.0
+France,FR,named,1481907.0,66275.0,68527.0,16569.0,213713.0,3.0
+Luxembourg,LU,named,2780667.0,2396783.0,4324967.0,261376.0,71411188.0,0.0
+Italy,IT,named,1695268.0,65129.0,0.0,15631.0,-950654.0,7.0
+Spain,ES,named,836708.0,24283.0,0.0,6071.0,-750419.0,2.0
+Netherlands,NL,named,85336.0,2358.0,9446.0,0.0,-1279593.0,1.0
+All other tax jurisdictions (aggregated),,other_aggregated,1658330534.0,49022610.0,28853669.0,30942164.0,217265374.0,2744.0

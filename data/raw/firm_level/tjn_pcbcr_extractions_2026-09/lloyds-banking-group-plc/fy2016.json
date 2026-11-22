@@ -1,0 +1,153 @@
+{
+  "companyId": "lloyds-banking-group-plc",
+  "companyName": "Lloyds Banking Group plc",
+  "section1": {
+    "ultimateParentName": "Lloyds Banking Group plc",
+    "registeredOfficeCountry": "GB",
+    "financialYearStart": "2016-01-01",
+    "financialYearEnd": "2016-12-31",
+    "reportingCurrency": "GBP",
+    "taxReportingBasis": "consolidated",
+    "basisDescription": "The Group's country-by-country disclosures have been prepared on the basis of the geographical location of the business unit booking the transaction."
+  },
+  "section2": [
+    {
+      "taxJurisdiction": "United Kingdom",
+      "countryCode": "GB",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 16671000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 3938000000,
+      "incomeTaxPaidCashBasis": 820000000,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 71173
+    },
+    {
+      "taxJurisdiction": "Channel Islands and Isle of Man",
+      "countryCode": "JE",
+      "jurisdictionType": "grey_listed_jurisdiction",
+      "revenueTotal": 192000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 76000000,
+      "incomeTaxPaidCashBasis": 1000000,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 904
+    },
+    {
+      "taxJurisdiction": "USA",
+      "countryCode": "US",
+      "jurisdictionType": "non_cooperative_jurisdiction",
+      "revenueTotal": 59000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 33000000,
+      "incomeTaxPaidCashBasis": 10000000,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 28
+    },
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 93000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 74000000,
+      "incomeTaxPaidCashBasis": 21000000,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 83
+    },
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 66000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 39000000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 288
+    }
+  ],
+  "section3": [
+    {
+      "taxJurisdiction": "United Kingdom",
+      "countryCode": "GB",
+      "subsidiaries": [
+        {
+          "name": "Lloyds Bank plc",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Scottish Widows Limited",
+          "activitiesNature": [
+            "Life Assurance"
+          ]
+        },
+        {
+          "name": "HBOS plc",
+          "activitiesNature": [
+            "Holding Company"
+          ]
+        },
+        {
+          "name": "Bank of Scotland plc",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Channel Islands and Isle of Man",
+      "countryCode": "JE",
+      "subsidiaries": [
+        {
+          "name": "Lloyds Holdings (Jersey) Limited",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "USA",
+      "countryCode": "US",
+      "subsidiaries": [
+        {
+          "name": "Lloyds America Securities Corporation",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        }
+      ]
+    }
+  ],
+  "section4": {
+    "hasOmittedInformation": false,
+    "omissionDetails": null,
+    "omissionExpiryYear": null
+  },
+  "section5": {
+    "hasMaterialDiscrepancies": false,
+    "discrepancyExplanation": null
+  },
+  "extractionMetadata": {
+    "sourceUrl": "https://www.lloydsbankinggroup.com/assets/pdfs/investors/financial-performance/lloyds-banking-group-plc/archive/2016/full-year/2016-lbg-crdiv-country-by-country-disclosures-v2.pdf",
+    "sourceType": "pdf",
+    "extractedAt": "2026-05-05T17:31:20.023Z",
+    "extractionModel": "claude-sonnet-4-20250514",
+    "confidenceNotes": null,
+    "manualReviewStatus": "pending"
+  }
+}

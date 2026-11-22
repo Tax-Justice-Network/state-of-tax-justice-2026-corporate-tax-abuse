@@ -1,0 +1,4 @@
+target,variable,n_obs,n_train,n_test,out_of_sample_r2,pairs_predicted,pairs_capped
+employees,ln_n_employees,19162,11497,7665,0.8349284632635693,590910,4054
+sales,ln_unrelated_party_revenues,19191,11514,7677,0.6407984721447814,590910,1315
+tangible,ln_tangible_assets_except_cash,19193,11515,7678,0.6496846482302269,590910,3073

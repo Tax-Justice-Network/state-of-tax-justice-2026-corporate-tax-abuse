@@ -1,0 +1,14 @@
+company_key,hq_iso3,year_start,year_end,note
+SHELL,NLD,,2021,"Royal Dutch Shell plc: tax residence and headquarters in the Netherlands until the simplification completed in early 2022 (renamed Shell plc, January 2022). Taxplorer labels FY2021 GBR (the report was published by Shell plc); FY2021 was still a Dutch year."
+SHELL,GBR,2022,,Shell plc: tax residence and headquarters in the United Kingdom from early 2022.
+AEGON,NLD,,,Legal seat moved to Bermuda in 2023 (Aegon N.V. became Aegon Ltd.); head office stayed in The Hague. NLD kept for all years instead of Taxplorer's BMU for 2024 (deliberately NOT the latest-year default; tax residence after the move not checked against a filing).
+FERROVIAL,ESP,,2022,Ferrovial S.A. (Madrid) was the parent until the cross-border merger into Ferrovial SE.
+FERROVIAL,NLD,2023,,"Merger into Ferrovial SE (Amsterdam) effective June 2023, so the parent at the end of FY2023 is Dutch. Taxplorer still labels 2023 ESP; rule used: headquarters of the ultimate parent at fiscal-year end."
+NORDEA,SWE,,2017,Nordea Bank AB (Stockholm) until the re-domiciliation to Finland.
+NORDEA,FIN,2018,,"Re-domiciled to Finland (Nordea Bank Abp, Helsinki) on 1 October 2018; parent at the end of FY2018 is Finnish. Same split as the source data."
+RIO TINTO,GBR,,,"Dual-listed group (Rio Tinto plc, London / Rio Tinto Limited, Melbourne); there was no relocation, Taxplorer's switch from AUS (2018-2023) to GBR (2024) is a labelling change. Home = the CbCR filing country in each year: the UK (Rio Tinto plc, HMRC) in every year 2016-2023, by inference. Rio's own Canada / Mongolia lines exceed the OECD totals of all Australian-parent groups in every year, and Rio publishes its UK tax strategy as a UK-headed group (FA 2016 Sch 19 para 16)."
+CK HUTCHISON,HKG,,,Incorporated in the Cayman Islands and headquartered in Hong Kong in both years (no move); Taxplorer's 2024 label CYM is the place of incorporation. HKG (head office) kept for all years instead of the latest-year default.
+INSUD PHARMA,ESP,,,"Taxplorer labels 2020-2023 ARG (the group's origin) and 2024-2025 ESP (Insud Pharma S.L., Madrid). No relocation known; UNSURE, latest-year default (ESP) kept."
+BOMBARDIER,CAN,,,"Bombardier Inc., Dorval (Québec): TJN pCbCR tracker record without a parent country (2026-10-21)."
+CIGNA,USA,,,"The Cigna Group, Bloomfield (Connecticut): TJN pCbCR tracker record without a parent country (2026-10-21)."
+EVEREST,BMU,,,"Everest Group, Ltd., Hamilton (Bermuda): TJN pCbCR tracker record without a parent country (2026-10-21)."

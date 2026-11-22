@@ -1,0 +1,15 @@
+# Public country-by-country reports (firm level): data preparation
+
+Large multinationals active in the EU publish country-by-country reports under the EU directive on public country-by-country reporting (first for fiscal years starting on or after 22 June 2024); some groups publish them voluntarily or under sector rules (EU banks since 2014). The two scripts here prepare these reports. The estimates and every company result of chapter 3 of the report and of the methodology note are produced by `src/9_company_estimates.py`.
+
+| Script | What it does | Output |
+|---|---|---|
+| `f1_build_firm_panel.py` | Unifies every public report we hold into one panel: the Tax Justice Network's extractions of public reports, the Irish registry filings, the public CbCR tracker, Taxplorer (EU Tax Observatory), the extracted PDF tables and the public CbCR database, in that order of priority; values converted to US dollars, countries to ISO codes, the residual line kept as `OTHER` | `data/intermediate/firm_level/firm_cbcr_panel.csv`, `firm_year_meta.csv` |
+| `f1b_consolidated_revenue.py` | Finds each group's consolidated revenue for the year of its report, because the reports' total revenues include sales between companies of the same group: hand-collected annual reports, 10-Ks and 20-Fs (`data/raw/firm_level/consolidated_revenue_2026-10/`), SEC XBRL company facts (cached in `data/raw/firm_level/sec_xbrl_2026-10/`) and, where available, Compustat Global; plus the lines whose sales to customers local statutory accounts document | `data/intermediate/firm_level/firm_consolidated_revenue.csv`, `firm_line_third_party_revenue.csv` |
+
+Run from the repository root: `python src/firm_level/f1_build_firm_panel.py`, then `python src/firm_level/f1b_consolidated_revenue.py --offline` (without `--offline` it fetches SEC data that is not yet cached).
+
+Inputs are in `data/raw/firm_level/` (sources and terms in `data/raw/README.md`). Three sources are not shipped, because their terms do not allow redistribution:
+- Taxplorer (`sh data/raw/fetch_third_party.sh` downloads it from taxplorer.eu). The published results use the version of 17 October 2026, downloaded on 21 October 2026. Taxplorer is updated regularly, and a later version changes the results. Without it the panel is built from the other sources, and the results differ more.
+- The EU Tax Observatory's bank reports 2014–2020 (obtain them from the EU Tax Observatory). 28 groups appear only there, so without them the panel counts 1,441 groups instead of the 1,469 the chapter reports. Nothing else changes.
+- Compustat Global (WRDS licence), one of the three sources of consolidated revenue. Without it f1b finds the consolidated revenue of 294 group-years instead of 952. Table 3.1 of the report then moves slightly (the EU-27 public-report total is €81.5bn instead of €83.5bn, Germany €32.0bn instead of €32.4bn, France €24.3bn instead of €25.3bn), as do the averages across all groups and Figure 3.3 (see "What a rerun reproduces" in the main README).

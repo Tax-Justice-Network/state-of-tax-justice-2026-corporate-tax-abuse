@@ -1,0 +1,386 @@
+{
+  "companyId": "bnp-paribas-sa",
+  "companyName": "BNP Paribas SA",
+  "section1": {
+    "ultimateParentName": "BNP PARIBAS",
+    "registeredOfficeCountry": "FR",
+    "financialYearStart": "2018-01-01",
+    "financialYearEnd": "2018-12-31",
+    "reportingCurrency": "EUR",
+    "taxReportingBasis": "consolidated",
+    "basisDescription": "The financial data correspond to the contribution income of fully consolidated entities under exclusive control"
+  },
+  "section2": [
+    {
+      "taxJurisdiction": "Austria",
+      "countryCode": "AT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 66000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": -3000000,
+      "incomeTaxPaidCashBasis": -3000000,
+      "incomeTaxAccruedCurrentYear": -5000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 292
+    },
+    {
+      "taxJurisdiction": "Belgium",
+      "countryCode": "BE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 4512000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1524000000,
+      "incomeTaxPaidCashBasis": -164000000,
+      "incomeTaxAccruedCurrentYear": -416000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 14443
+    },
+    {
+      "taxJurisdiction": "Bulgaria",
+      "countryCode": "BG",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 68000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 27000000,
+      "incomeTaxPaidCashBasis": -3000000,
+      "incomeTaxAccruedCurrentYear": -3000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 945
+    },
+    {
+      "taxJurisdiction": "Czech Republic",
+      "countryCode": "CZ",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 107000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 37000000,
+      "incomeTaxPaidCashBasis": -6000000,
+      "incomeTaxAccruedCurrentYear": -8000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 775
+    },
+    {
+      "taxJurisdiction": "Denmark",
+      "countryCode": "DK",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 76000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 15000000,
+      "incomeTaxPaidCashBasis": -3000000,
+      "incomeTaxAccruedCurrentYear": -4000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 246
+    },
+    {
+      "taxJurisdiction": "Finland",
+      "countryCode": "FI",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 3000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": -1000000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 27
+    },
+    {
+      "taxJurisdiction": "France",
+      "countryCode": "FR",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 13643000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1250000000,
+      "incomeTaxPaidCashBasis": -81000000,
+      "incomeTaxAccruedCurrentYear": -187000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 57644
+    },
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1678000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 413000000,
+      "incomeTaxPaidCashBasis": -89000000,
+      "incomeTaxAccruedCurrentYear": -139000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 5342
+    },
+    {
+      "taxJurisdiction": "Greece",
+      "countryCode": "GR",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 7000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1000000,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 54
+    },
+    {
+      "taxJurisdiction": "Hungary",
+      "countryCode": "HU",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 82000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 43000000,
+      "incomeTaxPaidCashBasis": -6000000,
+      "incomeTaxAccruedCurrentYear": -7000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 517
+    },
+    {
+      "taxJurisdiction": "Ireland",
+      "countryCode": "IE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 218000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 104000000,
+      "incomeTaxPaidCashBasis": -14000000,
+      "incomeTaxAccruedCurrentYear": -15000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 611
+    },
+    {
+      "taxJurisdiction": "Italy",
+      "countryCode": "IT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 5000000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1327000000,
+      "incomeTaxPaidCashBasis": -319000000,
+      "incomeTaxAccruedCurrentYear": -367000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 19023
+    },
+    {
+      "taxJurisdiction": "Luxembourg",
+      "countryCode": "LU",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1176000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 464000000,
+      "incomeTaxPaidCashBasis": -166000000,
+      "incomeTaxAccruedCurrentYear": -100000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 3662
+    },
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 272000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 53000000,
+      "incomeTaxPaidCashBasis": -25000000,
+      "incomeTaxAccruedCurrentYear": -10000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 962
+    },
+    {
+      "taxJurisdiction": "Poland",
+      "countryCode": "PL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 769000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 121000000,
+      "incomeTaxPaidCashBasis": -60000000,
+      "incomeTaxAccruedCurrentYear": -27000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 11375
+    },
+    {
+      "taxJurisdiction": "Portugal",
+      "countryCode": "PT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 201000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 83000000,
+      "incomeTaxPaidCashBasis": -31000000,
+      "incomeTaxAccruedCurrentYear": -29000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 4931
+    },
+    {
+      "taxJurisdiction": "Romania",
+      "countryCode": "RO",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 79000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 18000000,
+      "incomeTaxPaidCashBasis": -5000000,
+      "incomeTaxAccruedCurrentYear": -5000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 931
+    },
+    {
+      "taxJurisdiction": "Slovakia",
+      "countryCode": "SK",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 28000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 3000000,
+      "incomeTaxPaidCashBasis": 2000000,
+      "incomeTaxAccruedCurrentYear": -1000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 317
+    },
+    {
+      "taxJurisdiction": "Spain",
+      "countryCode": "ES",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1001000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 513000000,
+      "incomeTaxPaidCashBasis": -110000000,
+      "incomeTaxAccruedCurrentYear": -148000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 3537
+    },
+    {
+      "taxJurisdiction": "Sweden",
+      "countryCode": "SE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 52000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": -4000000,
+      "incomeTaxPaidCashBasis": -3000000,
+      "incomeTaxAccruedCurrentYear": -4000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 255
+    },
+    {
+      "taxJurisdiction": "United Kingdom",
+      "countryCode": "GB",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 2683000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 580000000,
+      "incomeTaxPaidCashBasis": -26000000,
+      "incomeTaxAccruedCurrentYear": -65000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 7917
+    },
+    {
+      "taxJurisdiction": "Norway",
+      "countryCode": "NO",
+      "jurisdictionType": "eea_state",
+      "revenueTotal": 45000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 0,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": -1000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 130
+    }
+  ],
+  "section3": [
+    {
+      "taxJurisdiction": "Austria",
+      "countryCode": "AT",
+      "subsidiaries": [
+        {
+          "name": "All In One Vermietung GmbH",
+          "activitiesNature": [
+            "Leasing Solutions"
+          ]
+        },
+        {
+          "name": "Arval Austria GmbH",
+          "activitiesNature": [
+            "Arval"
+          ]
+        },
+        {
+          "name": "BNPP Asset Management France (Austria branch)",
+          "activitiesNature": [
+            "Asset Management"
+          ]
+        },
+        {
+          "name": "BNPP Lease Group GmbH & Co KG",
+          "activitiesNature": [
+            "Leasing Solutions"
+          ]
+        },
+        {
+          "name": "BNPP Personal Finance (Austria branch)",
+          "activitiesNature": [
+            "Personal Finance"
+          ]
+        },
+        {
+          "name": "BNPP SA (Austria branch)",
+          "activitiesNature": [
+            "Corporate and Institutional Banking"
+          ]
+        },
+        {
+          "name": "Cardif Assurance Vie (Austria branch)",
+          "activitiesNature": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Cardif Assurances Risques Divers (Austria branch)",
+          "activitiesNature": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "CNH Industrial Capital Europe GmbH",
+          "activitiesNature": [
+            "Leasing Solutions"
+          ]
+        },
+        {
+          "name": "Opel Leasing GmbH (Austria branch)",
+          "activitiesNature": [
+            "Personal Finance"
+          ]
+        }
+      ]
+    }
+  ],
+  "section4": {
+    "hasOmittedInformation": false,
+    "omissionDetails": null,
+    "omissionExpiryYear": null
+  },
+  "section5": {
+    "hasMaterialDiscrepancies": false,
+    "discrepancyExplanation": "There have been no significant changes in the Group's financial or business situation since the end of the last financial year for which audited financial statements were published, and in particular since the signature of the Statutory Auditors' report on the consolidated financial statements on 5 March 2019."
+  },
+  "extractionMetadata": {
+    "sourceUrl": "https://invest.bnpparibas/en/document/registration-document-and-annual-financial-report-2018",
+    "sourceType": "pdf",
+    "extractedAt": "2026-05-06T08:38:10.764Z",
+    "extractionModel": "claude-sonnet-4-20250514",
+    "confidenceNotes": null,
+    "manualReviewStatus": "pending"
+  }
+}

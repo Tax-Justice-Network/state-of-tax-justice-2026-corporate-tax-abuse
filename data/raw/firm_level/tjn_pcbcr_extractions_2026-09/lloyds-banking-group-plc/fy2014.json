@@ -1,0 +1,269 @@
+{
+  "companyId": "lloyds-banking-group-plc",
+  "companyName": "Lloyds Banking Group plc",
+  "section1": {
+    "ultimateParentName": "Lloyds Banking Group plc",
+    "registeredOfficeCountry": "GB",
+    "financialYearStart": "2014-01-01",
+    "financialYearEnd": "2014-12-31",
+    "reportingCurrency": "GBP",
+    "taxReportingBasis": "consolidated",
+    "basisDescription": "The Group's country-by-country disclosures have been prepared on the basis of the geographical location of the business unit booking the transaction"
+  },
+  "section2": [
+    {
+      "taxJurisdiction": "Hong Kong",
+      "countryCode": "HK",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 30,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 35,
+      "incomeTaxPaidCashBasis": 3,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 73
+    },
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 88,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 80,
+      "incomeTaxPaidCashBasis": 1,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 70
+    },
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 93,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 40,
+      "incomeTaxPaidCashBasis": -7,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 244
+    },
+    {
+      "taxJurisdiction": "United Kingdom",
+      "countryCode": "GB",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 15806,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1457,
+      "incomeTaxPaidCashBasis": 13,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 87652
+    },
+    {
+      "taxJurisdiction": "Channel Islands and Isle of Man",
+      "countryCode": "JE",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 168,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 74,
+      "incomeTaxPaidCashBasis": 1,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 398
+    },
+    {
+      "taxJurisdiction": "USA",
+      "countryCode": "US",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 158,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 90,
+      "incomeTaxPaidCashBasis": 20,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 321
+    },
+    {
+      "taxJurisdiction": "Other",
+      "countryCode": "OT",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 56,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": -14,
+      "incomeTaxPaidCashBasis": 2,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 316
+    }
+  ],
+  "section3": [
+    {
+      "taxJurisdiction": "Hong Kong",
+      "countryCode": "HK",
+      "subsidiaries": [
+        {
+          "name": "Lloyds Bank plc - branch",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Lloyds TSB Pacific Limited",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "subsidiaries": [
+        {
+          "name": "Lloyds Bank plc - branch",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Bank of Scotland plc - branch",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "subsidiaries": [
+        {
+          "name": "Bank of Scotland plc - branch",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Heidelberger Leben Clerical Medical Management GmbH",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Heidelberger Lebensversicherung AG",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "United Kingdom",
+      "countryCode": "GB",
+      "subsidiaries": [
+        {
+          "name": "Lloyds Bank plc",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Scottish Widows plc",
+          "activitiesNature": [
+            "Life assurance"
+          ]
+        },
+        {
+          "name": "HBOS plc",
+          "activitiesNature": [
+            "Holding company"
+          ]
+        },
+        {
+          "name": "Bank of Scotland plc",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "TSB Bank plc",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "St. Andrew's Insurance plc",
+          "activitiesNature": [
+            "General insurance"
+          ]
+        },
+        {
+          "name": "Clerical Medical Investment Group Limited",
+          "activitiesNature": [
+            "Life assurance"
+          ]
+        },
+        {
+          "name": "Clerical Medical Managed Funds Limited",
+          "activitiesNature": [
+            "Life assurance"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Channel Islands and Isle of Man",
+      "countryCode": "JE",
+      "subsidiaries": [
+        {
+          "name": "Lloyds Holdings (Jersey) Limited",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "USA",
+      "countryCode": "US",
+      "subsidiaries": [
+        {
+          "name": "Bank of Scotland plc - branch",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Lloyds Bank plc - branch",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        }
+      ]
+    }
+  ],
+  "section4": {
+    "hasOmittedInformation": false,
+    "omissionDetails": null,
+    "omissionExpiryYear": null
+  },
+  "section5": {
+    "hasMaterialDiscrepancies": false,
+    "discrepancyExplanation": null
+  },
+  "extractionMetadata": {
+    "sourceUrl": "https://www.lloydsbankinggroup.com/assets/pdfs/investors/financial-performance/lloyds-banking-group-plc/archive/2014/full-year/2014-crdiv-country-by-country-disclosures.pdf",
+    "sourceType": "pdf",
+    "extractedAt": "2026-05-05T17:33:06.541Z",
+    "extractionModel": "claude-sonnet-4-20250514",
+    "confidenceNotes": null,
+    "manualReviewStatus": "pending"
+  }
+}

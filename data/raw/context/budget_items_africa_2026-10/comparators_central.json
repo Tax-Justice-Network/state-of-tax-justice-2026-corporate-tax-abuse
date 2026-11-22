@@ -1,0 +1,449 @@
+[
+ {
+  "iso3": "COD",
+  "country": "Democratic Republic of the Congo",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-08",
+  "debate": "Cost of freezing fuel pump prices during the 2026 oil shock: the State compensates distributors for certified 'pertes et manques a gagner' (PMAG); fuel queues returned to Kinshasa in October and the Finance Ministry still has to schedule payment.",
+  "comparator": "the US$190.5 million in fuel-price shortfalls (PMAG) that the State has certified it owes oil distributors for holding pump prices in the first half of 2026",
+  "local_value": 190455479.81,
+  "currency": "USD",
+  "usd_m": 190.46,
+  "fx_rate": 1.0,
+  "fx_source": "No conversion: DRC item and sentence in US$ (DRC budget items are quoted in US$). Reference only: BCC indicative rate 20 Oct 2026, 1 USD = 2,265.00 CDF, so the S1 loss is about CDF 2,211bn",
+  "sources": [
+   "https://lepoint.cd/carburant-kinshasa-pmag-190-millions-usd-premier-semestre-2026/",
+   "https://www.deskeco.com/2026/08/16/rdc-au-2e-trimestre-2026-le-csppp-certifie-146-millions-usd-de-perte-et-manque-gagner-pour-toutes",
+   "https://actualite.cd/2026/06/01/rdc-437-millions-usd-de-pertes-pour-les-societes-petrolieres-le-gouvernement-renforce",
+   "https://www.reporter.cd/hydrocarbures-en-rdc-le-gouvernement-valide-les-manques-a-gagner-petroliers-du-t2-2026/"
+  ],
+  "published": [
+   "2026-10-08",
+   "2026-08-16",
+   "2026-06-01",
+   "2026-08-17"
+  ],
+  "why": "The CSPPP certified US$43.73m for Q1 2026 (28-29 May) and US$146.72m for Q2 (13-14 Aug), a liability created by the government's decision to keep pump prices fixed; Q3 is not yet certified and LePoint.cd (8 Oct 2026) links the bill to renewed fuel queues in Kinshasa. Certified PMAG are recognised claims, part of which has been advanced, not necessarily the cash still owed.",
+  "N_S1": 5.1,
+  "N_S2": 5.1,
+  "sentence_S1": "Recovering these annual losses of about US$976 million would, for instance, have been enough to fund the US$190.5 million in fuel-price shortfalls that the State has certified it owes oil distributors for holding pump prices in the first half of 2026 five times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/COD/lepoint.cd_carburant-kinshasa-pmag-190-millions-usd-premier-semestre-2026.html",
+   "data/raw/context/budget_items_africa_2026-10/COD/lepoint.cd_carburants-en-rdc-les-pmag-passent-de-437-a-1467-millions-usd-au-t2.html",
+   "data/raw/context/budget_items_africa_2026-10/COD/www.deskeco.com_2026_08_16_rdc-au-2e-trimestre-2026-le-csppp-certifie-146-millions-usd-de-perte-et-manque-gagner-pour-to.html",
+   "data/raw/context/budget_items_africa_2026-10/COD/actualite.cd_2026_06_01_rdc-437-millions-usd-de-pertes-pour-les-societes-petrolieres-le-gouvernement-renforce.html",
+   "data/raw/context/budget_items_africa_2026-10/COD/www.reporter.cd_hydrocarbures-en-rdc-le-gouvernement-valide-les-manques-a-gagner-petroliers-du-t2-2026.html",
+   "data/raw/context/budget_items_africa_2026-10/COD/www.bcc.cd.html"
+  ]
+ },
+ {
+  "iso3": "COD",
+  "country": "Democratic Republic of the Congo",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-10-20",
+  "debate": "Underfunding of the DRC's 2026 Humanitarian Needs and Response Plan during the Bundibugyo Ebola epidemic; OCHA says the plan is only about half funded.",
+  "comparator": "the unfunded nutrition component of the DRC's 2026 humanitarian response plan (US$91.5 million)",
+  "local_value": 91507985.0,
+  "currency": "USD",
+  "usd_m": 91.51,
+  "fx_rate": 1.0,
+  "fx_source": "No conversion: DRC item and sentence in US$ (DRC budget items are quoted in US$). Reference only: BCC indicative rate 20 Oct 2026, 1 USD = 2,265.00 CDF, so the S1 loss is about CDF 2,211bn",
+  "sources": [
+   "https://api.hpc.tools/v1/public/fts/flow?planid=1509&groupby=cluster",
+   "https://www.unocha.org/news/drc-ebola-response-making-progress-more-support-urgently-needed-senior-ebola-coordinator-says",
+   "https://www.unocha.org/publications/report/democratic-republic-congo/facing-critical-funding-gap-humanitarian-community-drc-forced-strictly-prioritize-its-response-2026"
+  ],
+  "published": [
+   "2026-10-20",
+   "2026-09-15",
+   "2026-01-28"
+  ],
+  "why": "On OCHA's Financial Tracking Service (20 Oct 2026) the revised plan needs US$2.13bn and is 54% funded; its nutrition component has US$172.4m requested against US$80.9m funded. OCHA's senior Ebola coordinator called for funding of the wider plan on 15 Sep 2026, after more than 1,000 nutrition centres closed in 2025 for lack of funds.",
+  "N_S1": 10.7,
+  "N_S2": 10.7,
+  "sentence_S1": "Recovering these annual losses of about US$976 million would, for instance, have been enough to fund the unfunded nutrition component of the DRC's 2026 humanitarian response plan (US$91.5 million) more than ten times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/COD/api.hpc.tools_fts_flow_planid1509_groupby_cluster.json",
+   "data/raw/context/budget_items_africa_2026-10/COD/api.hpc.tools_fts_note.md",
+   "data/raw/context/budget_items_africa_2026-10/COD/api.hpc.tools_plan_year_2026.json",
+   "data/raw/context/budget_items_africa_2026-10/COD/www.unocha.org_news_drc-ebola-response-making-progress-more-support-urgently-needed-senior-ebola-coordinator-says.html",
+   "data/raw/context/budget_items_africa_2026-10/COD/www.unocha.org_publications_report_democratic-republic-congo_facing-critical-funding-gap-humanitarian-community-drc-forc.html"
+  ]
+ },
+ {
+  "iso3": "CMR",
+  "country": "Cameroon",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-14",
+  "debate": "Cost of keeping fuel pump prices unchanged (since Feb 2024) while import costs soar; the Finance Minister does not rule out a price rise and the IMF warns subsidies will widen the 2026 deficit.",
+  "comparator": "the State's fuel price support for September 2026 alone (CFA 57 billion)",
+  "local_value": 57000000000.0,
+  "currency": "XAF",
+  "usd_m": 97.45,
+  "fx_rate": 584.89,
+  "fx_source": "ECB euro reference rate 20 Oct 2026 (1 EUR = 1.1215 USD, ecb_eurofxref-daily_2026-10-20.xml) combined with the fixed CFA peg 1 EUR = 655.957 XAF: 1 USD = 584.89 XAF (cross-check open.er-api.com 20 Oct 2026: 584.76)",
+  "sources": [
+   "https://www.investiraucameroun.com/energie/1410-23965-carburants-motaze-chiffre-a-57-milliards-de-fcfa-le-soutien-aux-prix-en-septembre-2026",
+   "https://cameroun24.net/article/76447-57-milliards-de-fcfa-en-un-mois-le-prix-du-carburant-au-cameroun-peut-il-encore-augmenter.html",
+   "https://oeildafrique.com/2026/10/02/cameroun-subventions-carburant-gasoil-deficit-2026/",
+   "https://fr.allafrica.com/stories/202607090116.html"
+  ],
+  "published": [
+   "2026-10-14",
+   "2026-10-14",
+   "2026-10-02",
+   "2026-07-08"
+  ],
+  "why": "Finance Minister Louis Paul Motaze said on 14 Oct 2026 that pump-price support cost CFA 57bn in September (about CFA 48bn a month on average) and that a price rise cannot be excluded; the per-litre state support for diesel rose from CFA 109 in July to CFA 430 in October, against a 2026 provision of CFA 310bn for all energy subsidies.",
+  "N_S1": 2.6,
+  "N_S2": 3.5,
+  "sentence_S1": "Recovering these annual losses of about CFA 148 billion would, for instance, have been enough to fund the State's fuel price support for September 2026 alone (CFA 57 billion) more than two and a half times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/CMR/www.investiraucameroun.com_energie_1410-23965-carburants-motaze-chiffre-a-57-milliards-de-fcfa-le-soutien-aux-prix-en-se.html",
+   "data/raw/context/budget_items_africa_2026-10/CMR/cameroun24.net_article_76447-57-milliards-de-fcfa-en-un-mois-le-prix-du-carburant-au-cameroun-peut-il-encore-augmenter.h.html",
+   "data/raw/context/budget_items_africa_2026-10/CMR/oeildafrique.com_2026_10_02_cameroun-subventions-carburant-gasoil-deficit-2026.html",
+   "data/raw/context/budget_items_africa_2026-10/CMR/fr.allafrica.com_stories_202607090116.html.html",
+   "data/raw/context/budget_items_africa_2026-10/CMR/ecb_eurofxref-daily_2026-10-20.xml",
+   "data/raw/context/budget_items_africa_2026-10/CMR/fx_note_xaf_2026-10-20.md"
+  ]
+ },
+ {
+  "iso3": "CMR",
+  "country": "Cameroon",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-10-07",
+  "debate": "SYNES lecturers' strike in the state universities (from 3 Sep 2026) over unpaid research allowances and the 2000-2021 academic debt; classes resumed in October but the debt schedule is still contested.",
+  "comparator": "the CFA 9.7 billion still owed to state-university lecturers from the 2000–2021 academic debt (CFA 17 billion in total, 43% paid), whose non-payment triggered the September 2026 strike",
+  "local_value": 9665000000.0,
+  "currency": "XAF",
+  "usd_m": 16.5,
+  "fx_rate": 584.89,
+  "fx_source": "ECB euro reference rate 20 Oct 2026 (1 EUR = 1.1215 USD, ecb_eurofxref-daily_2026-10-20.xml) combined with the fixed CFA peg 1 EUR = 655.957 XAF: 1 USD = 584.89 XAF (cross-check open.er-api.com 20 Oct 2026: 584.76)",
+  "sources": [
+   "https://fr.allafrica.com/stories/202609180754.html",
+   "https://fr.allafrica.com/stories/202609240435.html",
+   "https://lefinancierdafrique.com/open/2026/10/07/greve-des-enseignants-du-superieur-lurgence-dune-augmentation-des-salaires-du-personnel-de-letat-au-cameroun/",
+   "https://www.shango.media/cameroun-actuel-universites-detat-apres-la-greve-les-cours-reprennent-et-jacques-fame-ndongo-descend-sur-le-terrain-11916458"
+  ],
+  "published": [
+   "2026-09-18",
+   "2026-09-24",
+   "2026-10-07",
+   "2026-10-05"
+  ],
+  "why": "The MINESUP communique of 18 Sep 2026 puts the academic debt (overtime, vacations, jury fees 2000-2021) at CFA 16.959bn, of which only CFA 7.294bn (43%) has been paid; SYNES struck in 11 state universities and still demands a timetable for the remaining CFA 9.7bn.",
+  "N_S1": 8.7,
+  "N_S2": 11.7,
+  "sentence_S1": "Recovering these annual losses of about CFA 148 billion would, for instance, have been enough to fund the CFA 17 billion academic debt owed to state-university lecturers, whose non-payment triggered the September 2026 strike, almost nine times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/CMR/fr.allafrica.com_stories_202609180754.html.html",
+   "data/raw/context/budget_items_africa_2026-10/CMR/fr.allafrica.com_stories_202609240435.html.html",
+   "data/raw/context/budget_items_africa_2026-10/CMR/lefinancierdafrique.com_open_2026_10_07_greve-des-enseignants-du-superieur-lurgence-dune-augmentation-des-salaires-du-pe.html",
+   "data/raw/context/budget_items_africa_2026-10/CMR/www.shango.media_cameroun-actuel-universites-detat-apres-la-greve-les-cours-reprennent-et-jacques-fame-ndongo-descend-su.html",
+   "data/raw/context/budget_items_africa_2026-10/CMR/www.237online.com_greve-maintenue-enseignants-cameroun.html",
+   "data/raw/context/budget_items_africa_2026-10/CMR/ecb_eurofxref-daily_2026-10-20.xml",
+   "data/raw/context/budget_items_africa_2026-10/CMR/fx_note_xaf_2026-10-20.md"
+  ],
+  "correction_2026-10-26": "Comparison check 2026-10-26: the amount still owed (CFA 16.959bn total minus CFA 7.294bn paid, MINESUP communique of 18 Sep 2026 via fr.allafrica.com/stories/202609180754.html) replaces the total debt; before: CFA 16.959bn (US$29.0m)."
+ },
+ {
+  "iso3": "COG",
+  "country": "Republic of Congo",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-08-10",
+  "debate": "Retirees' demand to harmonise the civil-service pension index point at 300 FCFA, raised in the Senate on 7 Aug 2026; the Prime Minister said the State cannot yet afford it while pensions are paid late.",
+  "comparator": "a year of raising civil-service pensions to the harmonised index-point value of 300 FCFA (about CFA 32 billion, or CFA 2.7 billion a month according to the Prime Minister)",
+  "local_value": 32400000000.0,
+  "currency": "XAF",
+  "usd_m": 55.4,
+  "fx_rate": 584.89,
+  "fx_source": "ECB euro reference rate 20 Oct 2026 (1 EUR = 1.1215 USD, ecb_eurofxref-daily_2026-10-20.xml) combined with the fixed CFA peg 1 EUR = 655.957 XAF: 1 USD = 584.89 XAF (cross-check open.er-api.com 20 Oct 2026: 584.76); annual value = CFA 2.7bn per month x 12",
+  "sources": [
+   "https://www.adiac-congo.com/content/questions-orales-avec-debat-au-senat-les-preoccupations-de-la-population-au-centre-des",
+   "https://fr.allafrica.com/stories/202608100545.html",
+   "https://www.journaldebrazza.com/pensions-impayees-le-cese-ouvre-le-debat-sur-les-difficultes-des-retraites/",
+   "https://www.journaldebrazza.com/tag/crf/"
+  ],
+  "published": [
+   "2026-08-10",
+   "2026-08-10",
+   "2026-07-09",
+   "2025-11-10"
+  ],
+  "why": "Answering Senator Andoyelle on 7 Aug 2026, PM Anatole Collinet Makosso said a tripartite committee (set up in 2023) costs the measure at about CFA 2.7bn a month, but that the conditions are not met given fragile finances and late pension payments; CRF retirees have pressed for it alongside some 50 months of unpaid pensions. Audit of 12 Nov 2026: the CFA 32 billion is the extra cost of harmonisation, not the whole pension bill (more than CFA 170 billion a year).",
+  "N_S1": 2.6,
+  "N_S2": 2.3,
+  "sentence_S1": "Recovering these annual losses of about CFA 85 billion would, for instance, have been enough to fund a full year of harmonising civil-service pensions at an index-point value of 300 FCFA (about CFA 32 billion) more than two and a half times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/COG/www.adiac-congo.com_content_questions-orales-avec-debat-au-senat.html",
+   "data/raw/context/budget_items_africa_2026-10/COG/fr.allafrica.com_stories_202608100545.html.html",
+   "data/raw/context/budget_items_africa_2026-10/COG/adiac-congo.com_original_url.md",
+   "data/raw/context/budget_items_africa_2026-10/COG/www.journaldebrazza.com_pensions-impayees-le-cese-ouvre-le-debat-sur-les-difficultes-des-retraites.html",
+   "data/raw/context/budget_items_africa_2026-10/COG/www.journaldebrazza.com_tag_crf.html",
+   "data/raw/context/budget_items_africa_2026-10/COG/ecb_eurofxref-daily_2026-10-20.xml",
+   "data/raw/context/budget_items_africa_2026-10/COG/fx_note_xaf_2026-10-20.md"
+  ]
+ },
+ {
+  "iso3": "COG",
+  "country": "Republic of Congo",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-08-10",
+  "debate": "Chronic late payment of civil-service (CRF) pensions: retirees cite about 50 months of arrears; the CESE (Jul 2026) and the Senate (Aug 2026) took up the issue.",
+  "comparator": "a month of civil-service pensions (just over CFA 14 billion), which the State is struggling to pay on time",
+  "local_value": 14000000000.0,
+  "currency": "XAF",
+  "usd_m": 23.94,
+  "fx_rate": 584.89,
+  "fx_source": "ECB euro reference rate 20 Oct 2026 (1 EUR = 1.1215 USD, ecb_eurofxref-daily_2026-10-20.xml) combined with the fixed CFA peg 1 EUR = 655.957 XAF: 1 USD = 584.89 XAF (cross-check open.er-api.com 20 Oct 2026: 584.76)",
+  "sources": [
+   "https://www.adiac-congo.com/content/questions-orales-avec-debat-au-senat-les-preoccupations-de-la-population-au-centre-des",
+   "https://fr.allafrica.com/stories/202608100545.html",
+   "https://www.journaldebrazza.com/tag/crf/",
+   "https://www.journaldebrazza.com/pensions-impayees-le-cese-ouvre-le-debat-sur-les-difficultes-des-retraites/"
+  ],
+  "published": [
+   "2026-08-10",
+   "2026-08-10",
+   "2025-11-10",
+   "2026-07-09"
+  ],
+  "why": "The PM told the Senate on 7 Aug 2026 that the monthly pension bill is just over CFA 14bn and that the government will restore regular payments; CRF retirees asked the Senate in Nov 2025 for at least three of the 50 months owed, and the CESE made pensioners' situation a priority file in July 2026.",
+  "N_S1": 6.1,
+  "N_S2": 5.2,
+  "sentence_S1": "Recovering these annual losses of about CFA 85 billion would, for instance, have been enough to fund a month of civil-service pensions (just over CFA 14 billion), which the State is struggling to pay on time, six times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/COG/www.adiac-congo.com_content_questions-orales-avec-debat-au-senat.html",
+   "data/raw/context/budget_items_africa_2026-10/COG/fr.allafrica.com_stories_202608100545.html.html",
+   "data/raw/context/budget_items_africa_2026-10/COG/www.journaldebrazza.com_tag_crf.html",
+   "data/raw/context/budget_items_africa_2026-10/COG/www.journaldebrazza.com_pensions-impayees-le-cese-ouvre-le-debat-sur-les-difficultes-des-retraites.html",
+   "data/raw/context/budget_items_africa_2026-10/COG/ecb_eurofxref-daily_2026-10-20.xml",
+   "data/raw/context/budget_items_africa_2026-10/COG/fx_note_xaf_2026-10-20.md"
+  ]
+ },
+ {
+  "iso3": "GAB",
+  "country": "Gabon",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-14",
+  "debate": "Financial crisis of the CNAMGS health-insurance fund (pharmacies unpaid, 1.3 million beneficiaries): emergency CFA 5bn release in Aug 2026, with an audit and the Fonds 4 extension to informal workers still under discussion in October.",
+  "comparator": "the CFA 5 billion emergency transfer to the CNAMGS health-insurance fund in August 2026 to pay pharmacies and keep care going for 1.3 million beneficiaries",
+  "local_value": 5000000000.0,
+  "currency": "XAF",
+  "usd_m": 8.55,
+  "fx_rate": 584.89,
+  "fx_source": "ECB euro reference rate 20 Oct 2026 (1 EUR = 1.1215 USD, ecb_eurofxref-daily_2026-10-20.xml) combined with the fixed CFA peg 1 EUR = 655.957 XAF: 1 USD = 584.89 XAF (cross-check open.er-api.com 20 Oct 2026: 584.76)",
+  "sources": [
+   "https://biba241.com/cnamgs-5-milliards-de-fcfa-d-bloqu-s-pour-1-3-million-de-b-n-ficiaires",
+   "https://directinfosgabon.com/5-milliards-de-fcfa-octroyes-a-la-cnamgs-un-pansement-sur-une-plaie-structurelle/",
+   "https://www.sikafinance.com/marches/gabon-85-milliards-fcfa-decaisses-en-dix-jours-le-signal-d-un-desendettement-accelere-envers-le-secteur-prive_63608",
+   "https://fr.infosgabon.com/gabon-oligui-nguema-met-le-gouvernement-et-les-mairies-sous-pression/"
+  ],
+  "published": [
+   "2026-08-16",
+   "2026-08-14",
+   "2026-08-14",
+   "2026-10-14"
+  ],
+  "why": "President Oligui Nguema released the CFA 5bn because pharmacies had been struggling to get paid (the fund's debt to them was put at CFA 7-8bn at end-2025); Directinfos called it 'a patch on a structural wound', and the CNAMGS Fonds 4 was back on the presidential agenda on 14 Oct 2026.",
+  "N_S1": 13.0,
+  "N_S2": 3.7,
+  "sentence_S1": "Recovering these annual losses of about CFA 65 billion would, for instance, have been enough to fund the CFA 5 billion emergency transfer to the CNAMGS health-insurance fund in August 2026 13 times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/GAB/biba241.com_cnamgs-5-milliards-de-fcfa-d-bloqu-s-pour-1-3-million-de-b-n-ficiaires.html",
+   "data/raw/context/budget_items_africa_2026-10/GAB/directinfosgabon.com_5-milliards-de-fcfa-octroyes-a-la-cnamgs-un-pansement-sur-une-plaie-structurelle.html",
+   "data/raw/context/budget_items_africa_2026-10/GAB/www.sikafinance.com_marches_gabon-85-milliards-fcfa-decaisses-en-dix-jours-le-signal-d-un-desendettement-accelere-envers.html",
+   "data/raw/context/budget_items_africa_2026-10/GAB/fr.infosgabon.com_gabon-oligui-nguema-met-le-gouvernement-et-les-mairies-sous-pression.html",
+   "data/raw/context/budget_items_africa_2026-10/GAB/ecb_eurofxref-daily_2026-10-20.xml",
+   "data/raw/context/budget_items_africa_2026-10/GAB/fx_note_xaf_2026-10-20.md"
+  ]
+ },
+ {
+  "iso3": "GAB",
+  "country": "Gabon",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-08-18",
+  "debate": "Dilapidated public universities ahead of the 2026-27 academic year: the president released CFA 9bn in August 2026, amid questions about execution and capacity.",
+  "comparator": "the CFA 9 billion released in August 2026 to rehabilitate Gabon's three public universities",
+  "local_value": 9000000000.0,
+  "currency": "XAF",
+  "usd_m": 15.39,
+  "fx_rate": 584.89,
+  "fx_source": "ECB euro reference rate 20 Oct 2026 (1 EUR = 1.1215 USD, ecb_eurofxref-daily_2026-10-20.xml) combined with the fixed CFA peg 1 EUR = 655.957 XAF: 1 USD = 584.89 XAF (cross-check open.er-api.com 20 Oct 2026: 584.76)",
+  "sources": [
+   "https://gabonmediatime.com/gabon-oligui-nguema-debloque-9-milliards-fcfa-pour-moderniser-les-universites/",
+   "https://www.union.sonapresse.com/fr/universites-quid-de-la-depense-des-9-milliards-du-chef-de-letat",
+   "https://www.sikafinance.com/marches/gabon-85-milliards-fcfa-decaisses-en-dix-jours-le-signal-d-un-desendettement-accelere-envers-le-secteur-prive_63608"
+  ],
+  "published": [
+   "2026-08-13",
+   "2026-08-18",
+   "2026-08-14"
+  ],
+  "why": "On 12 Aug 2026 the president allotted CFA 3bn each to UOB, USTM and USS with a 15 Sep completion deadline; L'Union (18 Aug) questioned how the money would be spent and whether capacity would suffice, with 1,147 students redirected abroad.",
+  "N_S1": 7.2,
+  "N_S2": 2.1,
+  "sentence_S1": "Recovering these annual losses of about CFA 65 billion would, for instance, have been enough to fund the CFA 9 billion released in August 2026 to rehabilitate Gabon's three public universities seven times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/GAB/gabonmediatime.com_gabon-oligui-nguema-debloque-9-milliards-fcfa-pour-moderniser-les-universites.html",
+   "data/raw/context/budget_items_africa_2026-10/GAB/union.sonapresse.com_fr_universites-quid-de-la-depense-des-9-milliards-du-chef-de-letat.html",
+   "data/raw/context/budget_items_africa_2026-10/GAB/www.sikafinance.com_marches_gabon-85-milliards-fcfa-decaisses-en-dix-jours-le-signal-d-un-desendettement-accelere-envers.html",
+   "data/raw/context/budget_items_africa_2026-10/GAB/ecb_eurofxref-daily_2026-10-20.xml",
+   "data/raw/context/budget_items_africa_2026-10/GAB/fx_note_xaf_2026-10-20.md"
+  ]
+ },
+ {
+  "iso3": "TCD",
+  "country": "Chad",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-20",
+  "debate": "Underfunded 2026 humanitarian response while Chad faces a cholera epidemic (declared June 2026), a dengue outbreak (declared October 2026) and doctors' strikes over unpaid bonuses.",
+  "comparator": "the unfunded health component of Chad's 2026 humanitarian response plan (US$17.7 million, about CFA 10 billion)",
+  "local_value": 10359997480,
+  "currency": "XAF",
+  "usd_m": 17.71,
+  "fx_rate": 584.89,
+  "fx_source": "ECB euro reference rate 20 Oct 2026 (1 EUR = 1.1215 USD, ecb_eurofxref-daily_2026-10-20.xml) combined with the fixed CFA peg 1 EUR = 655.957 XAF: 1 USD = 584.89 XAF (cross-check open.er-api.com 20 Oct 2026: 584.76); source amount in US$ (OCHA FTS), converted to XAF",
+  "sources": [
+   "https://api.hpc.tools/v1/public/fts/flow?planid=1501&groupby=cluster",
+   "https://chad.un.org/fr/309533-lancement-du-plan-de-r%C3%A9ponse-humanitaire-2026-et-du-plan-de-r%C3%A9ponse-pour-les-r%C3%A9fugi%C3%A9s-2026",
+   "https://www.alwihdainfo.com/tchad-flambee-de-dengue-et-saturation-des-hopitaux-a-ndjamena/",
+   "https://tchadinfos.com/2026/10/20/chu-de-lamitie-tchad-chine-le-fonctionnement-des-services-perturbe-par-la-greve-des-medecins/"
+  ],
+  "published": [
+   "2026-10-20",
+   "2026-02-05",
+   "2026-10-16",
+   "2026-10-20"
+  ],
+  "why": "On OCHA's FTS (20 Oct 2026) the US$986.1m plan is 44% funded and its health component has US$45.5m requested against US$27.8m funded; cholera (declared 18 Jun 2026) and a dengue epidemic in five provinces (2,929 suspected cases, N'Djamena hospitals saturated) are adding pressure, while CHU doctors struck on 19-21 Oct over unpaid bonuses.",
+  "N_S1": 2.8,
+  "N_S2": 2.8,
+  "sentence_S1": "Recovering these annual losses of about CFA 29 billion would, for instance, have been enough to fund the unfunded health component of Chad's 2026 humanitarian response plan (US$17.7 million, about CFA 10 billion) almost three times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/TCD/api.hpc.tools_fts_flow_planid1501_groupby_cluster.json",
+   "data/raw/context/budget_items_africa_2026-10/TCD/api.hpc.tools_fts_note.md",
+   "data/raw/context/budget_items_africa_2026-10/TCD/chad.un.org_fr_309533-lancement-du-plan-de-r_C3_A9ponse-humanitaire-2026-et-du-plan-de-r_C3_A9ponse-pour-les-r_C3_A9fugi.html",
+   "data/raw/context/budget_items_africa_2026-10/TCD/www.alwihdainfo.com_tchad-flambee-de-dengue-et-saturation-des-hopitaux-a-ndjamena.html",
+   "data/raw/context/budget_items_africa_2026-10/TCD/www.eeas.europa.eu_delegations_tchad_lunion-europeenne-soutient-la-reponse-durgence-contre-lepidemie-de-cholera-au-tchad.html",
+   "data/raw/context/budget_items_africa_2026-10/TCD/tchadinfos.com_2026_10_20_chu-de-lamitie-tchad-chine-greve-des-medecins.html",
+   "data/raw/context/budget_items_africa_2026-10/TCD/www.lepaystchad.com_47081-2.html",
+   "data/raw/context/budget_items_africa_2026-10/TCD/ecb_eurofxref-daily_2026-10-20.xml",
+   "data/raw/context/budget_items_africa_2026-10/TCD/fx_note_xaf_2026-10-20.md"
+  ]
+ },
+ {
+  "iso3": "TCD",
+  "country": "Chad",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-10-20",
+  "debate": "Teachers' unions threaten the 2026-27 school year (Oct 2026) over unpaid community-teacher subsidies and cut salaries, while emergency education for refugee and displaced children is largely unfunded.",
+  "comparator": "the unfunded education component of Chad's 2026 humanitarian response plan (US$12.6 million, about CFA 7 billion)",
+  "local_value": 7362420438,
+  "currency": "XAF",
+  "usd_m": 12.59,
+  "fx_rate": 584.89,
+  "fx_source": "ECB euro reference rate 20 Oct 2026 (1 EUR = 1.1215 USD, ecb_eurofxref-daily_2026-10-20.xml) combined with the fixed CFA peg 1 EUR = 655.957 XAF: 1 USD = 584.89 XAF (cross-check open.er-api.com 20 Oct 2026: 584.76); source amount in US$ (OCHA FTS), converted to XAF",
+  "sources": [
+   "https://api.hpc.tools/v1/public/fts/flow?planid=1501&groupby=cluster",
+   "https://tchadinfos.com/2026/10/05/journee-mondiale-des-enseignants-le-set-brandit-ses-revendications-et-menace-dhypothequer-lannee-scolaire-2026-2027/",
+   "https://www.alwihdainfo.com/tchad-les-enseignants-posent-leurs-conditions-pour-sauver-lecole/"
+  ],
+  "published": [
+   "2026-10-20",
+   "2026-10-05",
+   "2026-10-05"
+  ],
+  "why": "FTS (20 Oct 2026) shows the education component of the 2026 plan at US$23.5m requested and US$10.9m funded; on World Teachers' Day (5 Oct 2026) the SET and other unions warned the school year would be compromised without payment of community-teacher subsidies and refunds of cut salaries.",
+  "N_S1": 3.9,
+  "N_S2": 3.9,
+  "sentence_S1": "Recovering these annual losses of about CFA 29 billion would, for instance, have been enough to fund the unfunded education component of Chad's 2026 humanitarian response plan (US$12.6 million, about CFA 7 billion) almost four times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/TCD/api.hpc.tools_fts_flow_planid1501_groupby_cluster.json",
+   "data/raw/context/budget_items_africa_2026-10/TCD/api.hpc.tools_fts_note.md",
+   "data/raw/context/budget_items_africa_2026-10/TCD/tchadinfos.com_2026_10_05_journee-mondiale-des-enseignants-le-set-brandit-ses-revendications.html",
+   "data/raw/context/budget_items_africa_2026-10/TCD/www.alwihdainfo.com_tchad-les-enseignants-posent-leurs-conditions-pour-sauver-lecole.html",
+   "data/raw/context/budget_items_africa_2026-10/TCD/ecb_eurofxref-daily_2026-10-20.xml",
+   "data/raw/context/budget_items_africa_2026-10/TCD/fx_note_xaf_2026-10-20.md"
+  ]
+ },
+ {
+  "iso3": "RWA",
+  "country": "Rwanda",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-09-30",
+  "debate": "Fiscal cost of fuel subsidies cushioning the 2026 oil-price shock: the PM briefed Parliament in July and the government may have to raise the diesel subsidy (Sep 2026).",
+  "comparator": "the Rwf47.7 billion the government spent on fuel subsidies between March and June 2026",
+  "local_value": 47700000000.0,
+  "currency": "RWF",
+  "usd_m": 32.22,
+  "fx_rate": 1480.23,
+  "fx_source": "National Bank of Rwanda (@CentralBankRw weekly markets post): RWF 1,480.23 per USD as of 16 Oct 2026 (cross-check open.er-api.com 20 Oct 2026: 1,479.59)",
+  "sources": [
+   "https://www.newtimes.co.rw/article/37250/news/energy/govt-spends-over-rwf47bn-on-fuel-subsidies",
+   "https://www.ktpress.rw/2026/07/without-government-subsidy-diesel-would-cost-rwf3600-per-litre/",
+   "https://www.ktpress.rw/2026/09/rwanda-government-may-be-forced-to-increase-diesel-subsidy-to-keep-price-down/"
+  ],
+  "published": [
+   "2026-07-09",
+   "2026-07-09",
+   "2026-09-30"
+  ],
+  "why": "PM Justin Nsengiyumva told Parliament on 9 Jul 2026 that the subsidy kept diesel at Rwf2,927 a litre instead of about Rwf3,600; on 30 Sep KT Press reported the government may need to increase it, putting further pressure on the budget.",
+  "N_S1": 1.9,
+  "N_S2": 2.6,
+  "sentence_S1": "Recovering these annual losses of about Rwf90 billion would, for instance, have been enough to fund the Rwf47.7 billion the government spent on fuel subsidies between March and June 2026 almost twice over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/RWA/www.newtimes.co.rw_article_37250_news_energy_govt-spends-over-rwf47bn-on-fuel-subsidies.html",
+   "data/raw/context/budget_items_africa_2026-10/RWA/www.ktpress.rw_2026_07_without-government-subsidy-diesel-would-cost-rwf3600-per-litre.html",
+   "data/raw/context/budget_items_africa_2026-10/RWA/www.ktpress.rw_2026_09_rwanda-government-may-be-forced-to-increase-diesel-subsidy.html",
+   "data/raw/context/budget_items_africa_2026-10/RWA/x.com_CentralBankRw_status_2112184447021744137.md",
+   "data/raw/context/budget_items_africa_2026-10/RWA/x.com_CentralBankRw_status_2112184447021744137.html",
+   "data/raw/context/budget_items_africa_2026-10/fx_open_er_api_usd_2026-10-20.json"
+  ]
+ },
+ {
+  "iso3": "RWA",
+  "country": "Rwanda",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-10-06",
+  "debate": "Child-focused budgets falling behind inflation in 2026/27 (UNICEF budget brief, Oct 2026); maternal, child and adolescent health funding was more than halved.",
+  "comparator": "the Rwf8 billion needed to restore maternal, child and adolescent health funding to its 2024/25 level (Rwf14.4 billion in 2024/25, Rwf5.7 billion in 2025/26 and Rwf6.4 billion in 2026/27)",
+  "local_value": 8000000000.0,
+  "currency": "RWF",
+  "usd_m": 5.4,
+  "fx_rate": 1480.23,
+  "fx_source": "National Bank of Rwanda (@CentralBankRw weekly markets post): RWF 1,480.23 per USD as of 16 Oct 2026 (cross-check open.er-api.com 20 Oct 2026: 1,479.59); gap = Rwf14.4bn (2024/25) - Rwf6.4bn (2026/27)",
+  "sources": [
+   "https://www.unicef.org/rwanda/media/7716/file/Budget_Brief_Child-Focused_Sectors_2026-2027.pdf.pdf",
+   "https://www.unicef.org/rwanda/reports/budget-brief-child-focused-sectors-20262027"
+  ],
+  "published": [
+   "2026-10-06",
+   "2026-10-06"
+  ],
+  "why": "UNICEF's 2026/27 brief, built on the State Finance Laws, finds the health budget 0.3% lower in nominal terms with inflation around 10%, and maternal, child and adolescent health funding cut from Rwf14.4bn in 2024/25 to Rwf6.4bn in 2026/27, while child-focused sectors grew only 4.2%. Audit of 12 Nov 2026: UNICEF's chart (MINECOFIN State Finance Laws) shows 14.4 (2024/25), 5.7 (2025/26) and 6.4 (2026/27): the fall came in 2025/26, so the item is restoring the 2024/25 level.",
+  "N_S1": 11.3,
+  "N_S2": 15.7,
+  "sentence_S1": "Recovering these annual losses of about Rwf90 billion would, for instance, have been enough to fund the Rwf8 billion needed to restore maternal, child and adolescent health funding to its 2024/25 level 11 times over.",
+  "evidence_files": [
+   "data/raw/context/budget_items_africa_2026-10/RWA/unicef_rwanda_budget_brief_child_focused_sectors_2026-2027.pdf",
+   "data/raw/context/budget_items_africa_2026-10/RWA/www.unicef.org_rwanda_reports_budget-brief-child-focused-sectors-20262027.html",
+   "data/raw/context/budget_items_africa_2026-10/RWA/x.com_CentralBankRw_status_2112184447021744137.md",
+   "data/raw/context/budget_items_africa_2026-10/RWA/x.com_CentralBankRw_status_2112184447021744137.html",
+   "data/raw/context/budget_items_africa_2026-10/fx_open_er_api_usd_2026-10-20.json"
+  ]
+ }
+]

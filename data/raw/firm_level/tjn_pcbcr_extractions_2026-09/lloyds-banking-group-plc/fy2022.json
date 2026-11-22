@@ -1,0 +1,238 @@
+{
+  "companyId": "lloyds-banking-group-plc",
+  "companyName": "Lloyds Banking Group plc",
+  "section1": {
+    "ultimateParentName": "Lloyds Banking Group Plc",
+    "registeredOfficeCountry": "GB",
+    "financialYearStart": "2022-01-01",
+    "financialYearEnd": "2022-12-31",
+    "reportingCurrency": "GBP",
+    "taxReportingBasis": "consolidated",
+    "basisDescription": "The Group's country-by-country disclosures have been prepared on the basis of the geographical location of the business unit booking the transaction. Overseas branches of UK companies are shown as separate business units for the purposes of this report."
+  },
+  "section2": [
+    {
+      "taxJurisdiction": "United Kingdom",
+      "countryCode": "GB",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 17639000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 6645000000,
+      "incomeTaxPaidCashBasis": 676000000,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 57093
+    },
+    {
+      "taxJurisdiction": "Channel Islands and Isle of Man",
+      "countryCode": "OT",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 106000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 38000000,
+      "incomeTaxPaidCashBasis": 7000000,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 514
+    },
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 12000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": -14000000,
+      "incomeTaxPaidCashBasis": 5000000,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 316
+    },
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 216000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 131000000,
+      "incomeTaxPaidCashBasis": 22000000,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 156
+    },
+    {
+      "taxJurisdiction": "USA",
+      "countryCode": "US",
+      "jurisdictionType": "non_cooperative_jurisdiction",
+      "revenueTotal": 198000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 116000000,
+      "incomeTaxPaidCashBasis": 33000000,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 228
+    },
+    {
+      "taxJurisdiction": "Other",
+      "countryCode": "OT",
+      "jurisdictionType": "aggregated_other",
+      "revenueTotal": 38000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 12000000,
+      "incomeTaxPaidCashBasis": null,
+      "incomeTaxAccruedCurrentYear": null,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 52
+    }
+  ],
+  "section3": [
+    {
+      "taxJurisdiction": "United Kingdom",
+      "countryCode": "GB",
+      "subsidiaries": [
+        {
+          "name": "Bank of Scotland plc",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "HBOS plc",
+          "activitiesNature": [
+            "Holding company"
+          ]
+        },
+        {
+          "name": "Lloyds Bank plc",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Lloyds Bank Corporate Markets plc",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Scottish Widows Limited",
+          "activitiesNature": [
+            "Life assurance"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Channel Islands and Isle of Man",
+      "countryCode": "OT",
+      "subsidiaries": [
+        {
+          "name": "Lloyds Bank Corporate Markets plc – branch",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Black Horse Offshore Limited",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Lloyds Bank International Limited",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "subsidiaries": [
+        {
+          "name": "Bank of Scotland plc – branch",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Lloyds Bank plc – branch",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Lloyds Bank GmbH",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Lloyds Bank Corporate Markets Wertpapierhandelsbank GmbH",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "subsidiaries": [
+        {
+          "name": "Lloyds Bank GmbH – branch",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Bank of Scotland plc – branch",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "USA",
+      "countryCode": "US",
+      "subsidiaries": [
+        {
+          "name": "Lloyds Bank Corporate Markets plc – branch",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        },
+        {
+          "name": "Lloyds America Securities Corporation",
+          "activitiesNature": [
+            "Banking and financial services"
+          ]
+        }
+      ]
+    }
+  ],
+  "section4": {
+    "hasOmittedInformation": false,
+    "omissionDetails": null,
+    "omissionExpiryYear": null
+  },
+  "section5": {
+    "hasMaterialDiscrepancies": false,
+    "discrepancyExplanation": null
+  },
+  "extractionMetadata": {
+    "sourceUrl": "https://www.lloydsbankinggroup.com/assets/pdfs/investors/financial-performance/lloyds-banking-group-plc/2022/full-year/2022-lbg-crdiv-country-analysis.pdf",
+    "sourceType": "pdf",
+    "extractedAt": "2026-05-05T17:26:03.256Z",
+    "extractionModel": "claude-sonnet-4-20250514",
+    "confidenceNotes": null,
+    "manualReviewStatus": "pending"
+  }
+}

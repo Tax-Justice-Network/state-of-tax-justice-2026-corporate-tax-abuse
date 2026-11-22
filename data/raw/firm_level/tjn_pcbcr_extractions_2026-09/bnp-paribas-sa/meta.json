@@ -1,0 +1,94 @@
+{
+  "id": "bnp-paribas-sa",
+  "name": "BNP Paribas SA",
+  "registeredOfficeCountry": "FR",
+  "registeredOfficeCity": "",
+  "sector": "",
+  "lei": null,
+  "sources": [
+    {
+      "financialYear": "fy2025",
+      "sourceUrl": "https://warrants.bnpparibas.com/globalassets/bnpp-s.a.-universal-registration-document-2025.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T08:31:42.291Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2024",
+      "sourceUrl": "https://derivate.bnpparibas.com/globalassets/universal-registration-document-annual-financial-report-20243.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T08:34:27.112Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2018",
+      "sourceUrl": "https://invest.bnpparibas/en/document/registration-document-and-annual-financial-report-2018",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T08:38:10.791Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2017",
+      "sourceUrl": "https://invest.bnpparibas/en/document/registration-document-and-annual-financial-report-2017",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T08:50:11.842Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2015",
+      "sourceUrl": "https://invest.bnpparibas/en/document/registration-document-and-annual-financial-report-2015",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T08:53:28.495Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2014",
+      "sourceUrl": "https://invest.bnpparibas/en/document/registration-document-and-annual-financial-report-2014",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T08:56:04.457Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2023",
+      "sourceUrl": "https://derivate.bnpparibas.com/siteassets/basisprospekte/registrierungsformulare-bnpp-s.a/universal-registration-document-annual-financial-report-2023.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T09:35:35.537Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2022",
+      "sourceUrl": "https://live.euronext.com/sites/default/files/esg_document_files/2023-11/002546_universal-registration-document-2022_2023-11-07_19:00.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T09:38:16.025Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2021",
+      "sourceUrl": "https://cdn-group.bnpparibas.com/uploads/file/22_03_25_bnp2021_urd_en_mel.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T09:44:09.286Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2020",
+      "sourceUrl": "https://group.bnpparibas/uploads/file/bnp2020_urd_en_final_version_21_03_12.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T09:47:39.481Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2019",
+      "sourceUrl": "https://group.bnpparibas/uploads/file/bnp2019_urd_en_20_03_13.pdf",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T09:50:46.786Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    },
+    {
+      "financialYear": "fy2016",
+      "sourceUrl": "https://invest.bnpparibas/en/document/registration-document-and-annual-financial-report-2016",
+      "sourceType": "pdf",
+      "extractedAt": "2026-05-06T09:53:04.009Z",
+      "extractionModel": "claude-sonnet-4-20250514"
+    }
+  ]
+}

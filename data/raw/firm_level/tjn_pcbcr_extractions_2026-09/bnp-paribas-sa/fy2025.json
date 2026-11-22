@@ -1,0 +1,558 @@
+{
+  "companyId": "bnp-paribas-sa",
+  "companyName": "BNP Paribas SA",
+  "section1": {
+    "ultimateParentName": "BNP Paribas SA",
+    "registeredOfficeCountry": "FR",
+    "financialYearStart": "2025-01-01",
+    "financialYearEnd": "2025-12-31",
+    "reportingCurrency": "EUR",
+    "taxReportingBasis": "consolidated",
+    "basisDescription": null
+  },
+  "section2": [
+    {
+      "taxJurisdiction": "Austria",
+      "countryCode": "AT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 93000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 38000000,
+      "incomeTaxPaidCashBasis": -3000000,
+      "incomeTaxAccruedCurrentYear": -6000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 212
+    },
+    {
+      "taxJurisdiction": "Belgium",
+      "countryCode": "BE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 5059000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1715000000,
+      "incomeTaxPaidCashBasis": -450000000,
+      "incomeTaxAccruedCurrentYear": -466000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 12247
+    },
+    {
+      "taxJurisdiction": "Bulgaria",
+      "countryCode": "BG",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 22000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 12000000,
+      "incomeTaxPaidCashBasis": -2000000,
+      "incomeTaxAccruedCurrentYear": -2000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 99
+    },
+    {
+      "taxJurisdiction": "Czech Republic",
+      "countryCode": "CZ",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 69000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 33000000,
+      "incomeTaxPaidCashBasis": -6000000,
+      "incomeTaxAccruedCurrentYear": -9000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 421
+    },
+    {
+      "taxJurisdiction": "Denmark",
+      "countryCode": "DK",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 115000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 27000000,
+      "incomeTaxPaidCashBasis": -3000000,
+      "incomeTaxAccruedCurrentYear": -3000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 223
+    },
+    {
+      "taxJurisdiction": "Finland",
+      "countryCode": "FI",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 9000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1000000,
+      "incomeTaxPaidCashBasis": -1000000,
+      "incomeTaxAccruedCurrentYear": 0,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 49
+    },
+    {
+      "taxJurisdiction": "France",
+      "countryCode": "FR",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 13286000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 1692000000,
+      "incomeTaxPaidCashBasis": -66000000,
+      "incomeTaxAccruedCurrentYear": -266000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 55681
+    },
+    {
+      "taxJurisdiction": "Germany",
+      "countryCode": "DE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 2785000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 901000000,
+      "incomeTaxPaidCashBasis": -338000000,
+      "incomeTaxAccruedCurrentYear": -355000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 6220
+    },
+    {
+      "taxJurisdiction": "Greece",
+      "countryCode": "GR",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 17000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 0,
+      "incomeTaxPaidCashBasis": 0,
+      "incomeTaxAccruedCurrentYear": -5000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 90
+    },
+    {
+      "taxJurisdiction": "Hungary",
+      "countryCode": "HU",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 35000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 11000000,
+      "incomeTaxPaidCashBasis": -3000000,
+      "incomeTaxAccruedCurrentYear": -6000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 158
+    },
+    {
+      "taxJurisdiction": "Ireland",
+      "countryCode": "IE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 295000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 156000000,
+      "incomeTaxPaidCashBasis": -26000000,
+      "incomeTaxAccruedCurrentYear": -26000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 567
+    },
+    {
+      "taxJurisdiction": "Italy",
+      "countryCode": "IT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 5297000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 2149000000,
+      "incomeTaxPaidCashBasis": -618000000,
+      "incomeTaxAccruedCurrentYear": -718000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 15079
+    },
+    {
+      "taxJurisdiction": "Luxembourg",
+      "countryCode": "LU",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1842000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 991000000,
+      "incomeTaxPaidCashBasis": -182000000,
+      "incomeTaxAccruedCurrentYear": -209000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 3537
+    },
+    {
+      "taxJurisdiction": "Netherlands",
+      "countryCode": "NL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 532000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 242000000,
+      "incomeTaxPaidCashBasis": -50000000,
+      "incomeTaxAccruedCurrentYear": -71000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 1101
+    },
+    {
+      "taxJurisdiction": "Poland",
+      "countryCode": "PL",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 2081000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 980000000,
+      "incomeTaxPaidCashBasis": -207000000,
+      "incomeTaxAccruedCurrentYear": -189000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 9800
+    },
+    {
+      "taxJurisdiction": "Portugal",
+      "countryCode": "PT",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 164000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 76000000,
+      "incomeTaxPaidCashBasis": -7000000,
+      "incomeTaxAccruedCurrentYear": -27000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 9732
+    },
+    {
+      "taxJurisdiction": "Romania",
+      "countryCode": "RO",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 85000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 36000000,
+      "incomeTaxPaidCashBasis": -7000000,
+      "incomeTaxAccruedCurrentYear": -12000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 729
+    },
+    {
+      "taxJurisdiction": "Slovakia",
+      "countryCode": "SK",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 10000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 4000000,
+      "incomeTaxPaidCashBasis": -1000000,
+      "incomeTaxAccruedCurrentYear": -3000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 446
+    },
+    {
+      "taxJurisdiction": "Spain",
+      "countryCode": "ES",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 1342000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 489000000,
+      "incomeTaxPaidCashBasis": -112000000,
+      "incomeTaxAccruedCurrentYear": -118000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 5172
+    },
+    {
+      "taxJurisdiction": "Sweden",
+      "countryCode": "SE",
+      "jurisdictionType": "eu_member_state",
+      "revenueTotal": 170000000,
+      "revenueFromUnrelatedParties": null,
+      "revenueFromRelatedParties": null,
+      "profitOrLossBeforeIncomeTax": 33000000,
+      "incomeTaxPaidCashBasis": -10000000,
+      "incomeTaxAccruedCurrentYear": -9000000,
+      "accumulatedEarnings": null,
+      "numberOfEmployees": 355
+    }
+  ],
+  "section3": [
+    {
+      "taxJurisdiction": "Austria",
+      "countryCode": "AT",
+      "subsidiaries": [
+        {
+          "name": "Arval Austria GmbH",
+          "activitiesNature": [
+            "Arval"
+          ]
+        },
+        {
+          "name": "BNPP Asset Management Europe (Austria branch)",
+          "activitiesNature": [
+            "Asset Management"
+          ]
+        },
+        {
+          "name": "BNPP Leasing Solutions GmbH",
+          "activitiesNature": [
+            "Leasing Solutions"
+          ]
+        },
+        {
+          "name": "BNPP Personal Finance (Austria branch)",
+          "activitiesNature": [
+            "Personal Finance"
+          ]
+        },
+        {
+          "name": "BNPP SA (Austria branch)",
+          "activitiesNature": [
+            "Corporate & Institutional Banking"
+          ]
+        },
+        {
+          "name": "Cardif Assurance Vie (Austria branch)",
+          "activitiesNature": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Cardif Assurances Risques Divers (Austria branch)",
+          "activitiesNature": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "CNH Industrial Capital Europe GmbH",
+          "activitiesNature": [
+            "Leasing Solutions"
+          ]
+        },
+        {
+          "name": "Stellantis Bank SA (Austria branch)",
+          "activitiesNature": [
+            "Personal Finance"
+          ]
+        }
+      ]
+    },
+    {
+      "taxJurisdiction": "Belgium",
+      "countryCode": "BE",
+      "subsidiaries": [
+        {
+          "name": "AG Insurance",
+          "activitiesNature": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Alpha Crédit SA",
+          "activitiesNature": [
+            "Personal Finance"
+          ]
+        },
+        {
+          "name": "Arval Belgium NV SA",
+          "activitiesNature": [
+            "Arval"
+          ]
+        },
+        {
+          "name": "Astridplaza",
+          "activitiesNature": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "AXA IM Benelux",
+          "activitiesNature": [
+            "Asset Management"
+          ]
+        },
+        {
+          "name": "AXA IM Select Belgium SA And NV",
+          "activitiesNature": [
+            "Asset Management"
+          ]
+        },
+        {
+          "name": "Axepta BNPP Benelux",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "Bancontact Paytoniq Company",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "BASS Master Issuer NV",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "Batopin",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "Belgian Mobile ID",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "BNPP 3 Step IT (Belgium branch)",
+          "activitiesNature": [
+            "Leasing Solutions"
+          ]
+        },
+        {
+          "name": "BNPP Asset Management Be Holding",
+          "activitiesNature": [
+            "Asset Management"
+          ]
+        },
+        {
+          "name": "BNPP Asset Management Europe (Belgium branch)",
+          "activitiesNature": [
+            "Asset Management"
+          ]
+        },
+        {
+          "name": "BNPP B Institutional II",
+          "activitiesNature": [
+            "Asset Management"
+          ]
+        },
+        {
+          "name": "BNPP Fortis",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "BNPP Fortis Factor NV",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "BNPP Fortis Film Finance",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "BNPP FPE Belgium",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "BNPP FPE Management",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "BNPP Lease Group Belgium",
+          "activitiesNature": [
+            "Leasing Solutions"
+          ]
+        },
+        {
+          "name": "BNPP Partners for Innovation Belgium",
+          "activitiesNature": [
+            "Property Companies (Property used in operations) and Others"
+          ]
+        },
+        {
+          "name": "BNPP Real Estate Belgium SA",
+          "activitiesNature": [
+            "Real Estate Services"
+          ]
+        },
+        {
+          "name": "BNPP SA (Belgium branch)",
+          "activitiesNature": [
+            "Corporate & Institutional Banking"
+          ]
+        },
+        {
+          "name": "BNPPF Credit Brokers",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "Cardif Assurance Vie (Belgium branch)",
+          "activitiesNature": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Cardif Assurances Risques Divers (Belgium branch)",
+          "activitiesNature": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "CNH Industrial Capital Europe (Belgium branch)",
+          "activitiesNature": [
+            "Leasing Solutions"
+          ]
+        },
+        {
+          "name": "Credissimo",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "Credissimo Hainaut SA",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "Eos Aremas Belgium SA NV",
+          "activitiesNature": [
+            "Personal Finance"
+          ]
+        },
+        {
+          "name": "Epimede",
+          "activitiesNature": [
+            "Retail Banking"
+          ]
+        },
+        {
+          "name": "ES Finance",
+          "activitiesNature": [
+            "Leasing Solutions"
+          ]
+        }
+      ]
+    }
+  ],
+  "section4": {
+    "hasOmittedInformation": false,
+    "omissionDetails": null,
+    "omissionExpiryYear": null
+  },
+  "section5": {
+    "hasMaterialDiscrepancies": false,
+    "discrepancyExplanation": null
+  },
+  "extractionMetadata": {
+    "sourceUrl": "https://warrants.bnpparibas.com/globalassets/bnpp-s.a.-universal-registration-document-2025.pdf",
+    "sourceType": "pdf",
+    "extractedAt": "2026-05-06T08:31:42.267Z",
+    "extractionModel": "claude-sonnet-4-20250514",
+    "confidenceNotes": null,
+    "manualReviewStatus": "pending"
+  }
+}

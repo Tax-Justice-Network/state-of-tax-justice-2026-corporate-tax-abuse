@@ -1,0 +1,42 @@
+# written by the pipeline
+data/final/
+output/
+# data/intermediate is written by the pipeline, except the shipped inputs listed in data/raw/README.md
+data/intermediate/*
+!data/intermediate/extractive/
+data/intermediate/extractive/*
+!data/intermediate/extractive/cbcr_universe_presence.csv
+!data/intermediate/extractive/eiti_documented_source_hq_pairs.csv
+!data/intermediate/extractive/resource_payments_by_hq_source_yearly.csv
+!data/intermediate/extractive/company_anchored_strips.csv
+!data/intermediate/extractive/company_anchored_strips__res_no_inferred_companies.csv
+!data/intermediate/extractive/resource_payments_by_hq_source_yearly__res_no_inferred_companies.csv
+!data/intermediate/extractive/eiti_company_payments_long.csv
+!data/intermediate/extractive/eiti_folder_summary_splits.csv
+!data/intermediate/extractive/eiti_payments_by_hq_source_yearly.csv
+!data/intermediate/extractive/extractive_royalty_dataset_yearly.csv
+!data/intermediate/extractive/hq_shares_by_commodity_yearly.csv
+!data/intermediate/extractive/operator_payments_by_hq_source_yearly.csv
+!data/intermediate/extractive/rent_fractions_calibrated.csv
+!data/intermediate/extractive/rents_combined_yearly.csv
+!data/intermediate/gravity/
+data/intermediate/gravity/*
+!data/intermediate/gravity/gravity_imputed_activity.csv
+!data/intermediate/gravity/gravity_model_fit.csv
+!data/intermediate/bilateral_goods_trade.csv
+!data/intermediate/bilateral_services_trade.csv
+# system and Python
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+# third-party inputs that are downloaded, not shipped (data/raw/fetch_third_party.sh, data/raw/README.md)
+data/raw/tax_rates/taxfoundation_cit_rates_1980-2023.xlsx
+data/raw/firm_level/taxplorer_data_*.json
+data/raw/orbis/
+data/raw/gravity/
+data/raw/extractive/eiti_reports/
+data/raw/extractive/UNUWIDERGRD_2025.xlsx
+data/raw/extractive/bgs_mineral_production.csv
+# Compustat Global extract (WRDS licence): read by src/firm_level/f1b_consolidated_revenue.py where present; never shipped
+data/raw/firm_level/compustat_global_funda_usd.parquet

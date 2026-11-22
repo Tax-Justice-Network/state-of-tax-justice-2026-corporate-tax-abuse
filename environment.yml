@@ -1,0 +1,13 @@
+# Conda environment for the SOTJ 2026 corporate-tax-abuse replication package.
+# The versions are those of the environment that produced the published results (October 2026).
+# scikit-learn is pinned exactly: the gravity imputation in src/gravity/ is not reproducible across versions.
+#   conda env create -f environment.yml
+#   conda activate sotj2026_corporate_tax_abuse
+name: sotj2026_corporate_tax_abuse
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - pip
+  - pip:
+      - -r requirements.txt

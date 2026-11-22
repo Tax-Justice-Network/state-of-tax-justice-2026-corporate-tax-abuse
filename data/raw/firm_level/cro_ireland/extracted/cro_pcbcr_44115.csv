@@ -1,0 +1,6 @@
+jurisdiction,code,line_type,revenue,pbt,tax_paid,tax_accrued,acc_earnings,employees
+Croatia,HR,named,79799784.0,-3373943.0,0.0,0.0,-17138585.0,244.0
+Hungary,HU,named,7285.0,-108677.0,0.0,-14219.0,-121739.0,0.0
+Ireland,IE,named,741078363.0,25730655.0,338760.0,3615809.0,-40387276.0,1212.0
+Slovenia,SI,named,156264984.0,1711845.0,120699.0,711547.0,34100561.0,444.0
+All other tax jurisdictions (aggregated),,other_aggregated,3533271093.0,729143197.0,139812492.0,169256328.0,3755702853.0,4735.0

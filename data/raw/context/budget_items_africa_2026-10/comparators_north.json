@@ -1,0 +1,431 @@
+[
+ {
+  "iso3": "EGY",
+  "country": "Egypt",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-07-22",
+  "debate": "Ration-card purge and subsidy reform: about 850,000 to 1 million people were struck off ration cards in June 2026 under new eligibility criteria, MPs protested in parliament, and the FY2026/27 budget starts an IMF-linked shift from in-kind to cash support.",
+  "comparator": "the 2026/27 ration-card food subsidy for some 61 million Egyptians (nearly EGP 36 billion)",
+  "local_value": 36000000000,
+  "currency": "EGP",
+  "usd_m": 660.4,
+  "fx_rate": 54.5163,
+  "fx_source": "Central Bank of Egypt official rate for 20 Oct 2026 (buy 54.4463 / sell 54.5863; mid used).",
+  "sources": [
+   "https://www.arabfinance.com/en/news/newdetails/egypt-subsidy-system-moves-from-in-kind-support-to-a-cash-based-approach",
+   "https://www.thenationalnews.com/news/mena/2026/07/22/egypt-cuts-hundreds-of-thousands-from-food-subsidy-scheme-under-new-eligibility-criteria/",
+   "https://manassa.news/en/news/32228"
+  ],
+  "published": [
+   "2026-06-13",
+   "2026-07-22",
+   "2026-06-03"
+  ],
+  "why": "The ration-card line (EGP 50 per person a month for 60.8 million beneficiaries) is the part of the EGP 178.3bn food-subsidy envelope that is being cut and converted to cash this fiscal year, and the purge of up to a million beneficiaries is a live parliamentary row. The value comes from Arab Finance's breakdown of the draft budget and matches 60.8m x EGP 50 x 12.",
+  "N_S1": 3.54,
+  "N_S2": 4.31,
+  "sentence_S1": "Recovering these annual losses of EGP 128 billion would, for instance, have been enough to fund the 2026/27 ration-card food subsidy for some 61 million Egyptians (nearly EGP 36 billion) 3.5 times over.",
+  "evidence_files": [
+   "EGY/arabfinance_food_subsidy_fy2026-27_2026-06-13.html",
+   "EGY/thenational_ration_card_cuts_2026-07-22.html",
+   "EGY/manassa_ration_card_exclusions_2026-06-03.html",
+   "EGY/cbe_official_exchange_rates_2026-10-20.html"
+  ]
+ },
+ {
+  "iso3": "EGY",
+  "country": "Egypt",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-10-15",
+  "debate": "Cash transfers as the core of the social-protection package that accompanies subsidy cuts and IMF-backed reform; the Social Solidarity Minister announced the October 2026 payment round on 15 Oct.",
+  "comparator": "the Takaful and Karama cash-transfer programme for 4.7 million poor families (EGP 54 billion a year)",
+  "local_value": 54000000000,
+  "currency": "EGP",
+  "usd_m": 990.5,
+  "fx_rate": 54.5163,
+  "fx_source": "Central Bank of Egypt official rate for 20 Oct 2026 (buy 54.4463 / sell 54.5863; mid used).",
+  "sources": [
+   "https://sis.gov.eg/en/media-center/news/egypt-disburses-egp-4-bln-to-47-million-families-under-takaful-karama-in-oct/",
+   "https://sis.gov.eg/en/media-center/news/finance-minister-egp-8323-bln-allocated-for-subsidies-social-protection-in-new-budget/"
+  ],
+  "published": [
+   "2026-10-15",
+   "2026-04-11"
+  ],
+  "why": "This is an official annual figure from the State Information Service (15 Oct 2026), and Takaful and Karama is the flagship transfer the government cites to offset subsidy reform. The 2026/27 budget puts all social-support programmes at EGP 55.3bn.",
+  "N_S1": 2.36,
+  "N_S2": 2.87,
+  "sentence_S1": "Recovering these annual losses of EGP 128 billion would, for instance, have been enough to fund the Takaful and Karama cash-transfer programme for 4.7 million poor families (EGP 54 billion a year) 2.4 times over.",
+  "evidence_files": [
+   "EGY/sis_takaful_karama_2026-10-15.html",
+   "EGY/sis_budget_fy2026-27_social_support_2026-04-11.html",
+   "EGY/cbe_official_exchange_rates_2026-10-20.html"
+  ]
+ },
+ {
+  "iso3": "MAR",
+  "country": "Morocco",
+  "debate": "Al Haouz reconstruction three years after the September 2023 earthquake: the victims' national coordination protested in August 2026 against delays, and the PLF 2027 guidance note earmarks new money to continue the programme. The PLF 2027 was filed with Parliament on 20 Oct 2026.",
+  "fx_rate": 9.7828,
+  "fx_source": "Bank Al-Maghrib reference rate (cours de référence), 19 Oct 2026.",
+  "currency": "MAD",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-27",
+  "comparator": "the MAD 3 billion that the special fund for the Al Haouz earthquake may spend in 2027 under the 2027 budget bill",
+  "local_value": 3000000000,
+  "usd_m": 306.7,
+  "sources": [
+   "https://fr.le360.ma/societe/seisme-dal-haouz-voici-ou-en-est-la-reconstruction-des-zones-sinistrees-et-les-chantiers-programmes_YZMHCSQB6NEFBKLXZRRJVRHEDM/"
+  ],
+  "published": [
+   "2026-10-24"
+  ],
+  "why": "Audit of 12 Nov 2026: the PLF 2027 annex on the earthquake fund sets its spending ceiling at MAD 3 billion for 2027 ('Le plafond de dépenses du fonds est fixé à 3 MMDH pour 2027'). It replaces the MAD 6.42bn, which matches the emergency spending already made by 15 September 2026.",
+  "N_S1": null,
+  "N_S2": null,
+  "sentence_S1": null,
+  "evidence_files": [
+   "MAR/le360_alhaouz_plf2027_2026-10-24.html",
+   "MAR/hespress_alhaouz_fonds_plf2027_2026-10-27.html",
+   "MAR/bkam_cours_de_reference_2026-10-19.html"
+  ]
+ },
+ {
+  "iso3": "MAR",
+  "country": "Morocco",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-08-19",
+  "debate": "Al Haouz reconstruction three years after the September 2023 earthquake: the victims' national coordination protested in August 2026 against delays, and the PLF 2027 guidance note earmarks new money to continue the programme. The PLF 2027 was filed with Parliament on 20 Oct 2026.",
+  "comparator": "the MAD 6.42 billion earmarked to continue rebuilding the areas devastated by the 2023 Al Haouz earthquake",
+  "local_value": 6420000000,
+  "currency": "MAD",
+  "usd_m": 656.3,
+  "fx_rate": 9.7828,
+  "fx_source": "Bank Al-Maghrib reference rate (cours de référence), 19 Oct 2026.",
+  "sources": [
+   "https://lematin.ma/economie/plf-2027cap-sur-la-consolidation-sociale-et-rigueur-des-finances-publiques/359811",
+   "https://www.laayoune.online/2026/08/news9280.html",
+   "https://telquel.ma/instant-t/2026/08/19/al-haouz-trois-ans-apres-le-seisme-les-sinistres-haussent-le-ton-face-a-akhannouch_2003812/"
+  ],
+  "published": [
+   "2026-08-06",
+   "2026-08-06",
+   "2026-08-19"
+  ],
+  "why": "The reconstruction is the most visible unfinished social commitment, and victims are pressing the government (MAD 8.02bn disbursed by June 2026). Caveat: Le Matin dates the MAD 6.42bn envelope to 2027 while Laayoune Online says 2026-27, so the sentence names no year; check the official note if a year is needed. Audit of 12 Nov 2026: no longer used. The MAD 6.42bn equals the emergency spending the ministries had made from the earthquake fund by 15 September 2026 (6,424.67 MDH, PLF 2027 annex), so it is most likely not new money for 2027.",
+  "N_S1": 2.33,
+  "N_S2": 2.83,
+  "sentence_S1": "Recovering these annual losses of MAD 15 billion would, for instance, have been enough to fund the MAD 6.42 billion earmarked to continue rebuilding the areas devastated by the 2023 Al Haouz earthquake 2.3 times over.",
+  "evidence_files": [
+   "MAR/lematin_plf2027_note_cadrage_2026-08-06.html",
+   "MAR/laayoune_online_plf2027_note_orientation_2026-08.html",
+   "MAR/telquel_alhaouz_sinistres_2026-08-19.md",
+   "MAR/le360_plf2027_conseil_gouvernement_2026-10-20.html",
+   "MAR/bkam_cours_de_reference_2026-10-19.html"
+  ]
+ },
+ {
+  "iso3": "MAR",
+  "country": "Morocco",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-10-18",
+  "debate": "Financial sustainability of compulsory health insurance (AMO). The Cour des comptes (March 2026) and the CNSS board (September 2026) flagged fast-rising costs, and the PLF 2027 orientations of 17 Oct 2026 pledge to keep generalising coverage while watching the schemes' sustainability.",
+  "comparator": "the State's annual contribution to AMO Tadamon, the health insurance of Moroccans who cannot pay contributions (MAD 9.4 billion in 2024)",
+  "local_value": 9400000000,
+  "currency": "MAD",
+  "usd_m": 960.9,
+  "fx_rate": 9.7828,
+  "fx_source": "Bank Al-Maghrib reference rate (cours de référence), 19 Oct 2026.",
+  "sources": [
+   "https://drh.ma/rapport-2025-de-la-cour-des-comptes-lamo-fragilisee-par-le-recouvrement-et-la-hausse-des-depenses/",
+   "https://laquotidienne.ma/article/info-quotidienne/cnss-conseil-administration-budget-2026-filiales",
+   "https://lnt.ma/plf-2027-le-roi-mohammed-vi-preside-un-conseil-des-ministres-consacre-aux-orientations-budgetaires/"
+  ],
+  "published": [
+   "2026-03-24",
+   "2026-09-04",
+   "2026-10-18"
+  ],
+  "why": "This audited figure from the Cour des comptes (14.47 million registered) covers the scheme for the poorest. The scheme paid MAD 8.49bn in benefits in 2025 (CNSS), and its sustainability is part of the PLF 2027 debate. The value is a 2024 figure.",
+  "N_S1": 1.59,
+  "N_S2": 1.93,
+  "sentence_S1": "Recovering these annual losses of MAD 15 billion would, for instance, have been enough to fund the State's annual contribution to AMO Tadamon, the health insurance of Moroccans who cannot pay contributions (MAD 9.4 billion in 2024), 1.6 times over.",
+  "evidence_files": [
+   "MAR/drh_cour_des_comptes_amo_2026-03-24.html",
+   "MAR/laquotidienne_cnss_board_2026-09-04.html",
+   "MAR/telquel_cnss_amo_2026-10-15.md",
+   "MAR/lnt_plf2027_conseil_ministres_2026-10-18.html",
+   "MAR/bkam_cours_de_reference_2026-10-19.html"
+  ]
+ },
+ {
+  "iso3": "DZA",
+  "country": "Algeria",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-20",
+  "debate": "Cancer care: oncology-drug stock-outs and long radiotherapy waits. The Health Minister raised the 2026 cancer-medicine allocation to DZD 40bn (22 Sep 2026), and on 19 Oct 2026 APN finance-committee MPs pressed him on continuity of treatment while the PLF 2027 adds a radiotherapy import exemption to cut waiting times.",
+  "comparator": "this year's allocation for cancer medicines (DZD 40 billion), raised in 2026 to prevent stock-outs",
+  "local_value": 40000000000,
+  "currency": "DZD",
+  "usd_m": 297.6,
+  "fx_rate": 134.4291,
+  "fx_source": "Banque d'Algérie daily rate (opening quotation), 20 Oct 2026.",
+  "sources": [
+   "https://www.algerie360.com/cancer-algerie-52-traitements-fonds-lutte/",
+   "https://www.ennaharonline.com/وزير-الصحة-يشرف-على-افتتاح-اشغال-المؤت/",
+   "https://www.jeune-independant.net/pres-de-29000-postes-a-pourvoir-en-2027-un-budget-colossal-pour-revolutionner-la-sante/"
+  ],
+  "published": [
+   "2026-09-22",
+   "2026-09-22",
+   "2026-10-20"
+  ],
+  "why": "The Health Minister announced the figure publicly on 22 Sep 2026, and three outlets agree on it (the Cancer Fund holds over DZD 73bn and is fed DZD 40bn a year). Cancer-treatment delays came up in the PLF 2027 health hearing this week.",
+  "N_S1": 1.85,
+  "N_S2": 2.79,
+  "sentence_S1": "Recovering these annual losses of DZD 74 billion would, for instance, have been enough to fund this year's allocation for cancer medicines (DZD 40 billion), raised in 2026 to prevent stock-outs, 1.8 times over.",
+  "evidence_files": [
+   "DZA/algerie360_fonds_cancer_2026-09-22.html",
+   "DZA/ennahar_fonds_cancer_2026-09-22.html",
+   "DZA/cherchellnews_fonds_cancer_2026-09-22.html",
+   "DZA/jeuneindependant_sante_plf2027_apn_2026-10-20.html",
+   "DZA/boa_taux_de_change_journalier_2026-10-20.html"
+  ]
+ },
+ {
+  "iso3": "DZA",
+  "country": "Algeria",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-10-20",
+  "debate": "PLF 2027 health budget under examination at the APN: on 19 Oct 2026 MPs demanded constant availability of medicines and equipment and continuity of treatment.",
+  "comparator": "the 2027 budget for vaccines, sera and laboratory reagents from the Institut Pasteur d'Algérie (DZD 30 billion)",
+  "local_value": 30000000000,
+  "currency": "DZD",
+  "usd_m": 223.2,
+  "fx_rate": 134.4291,
+  "fx_source": "Banque d'Algérie daily rate (opening quotation), 20 Oct 2026.",
+  "sources": [
+   "https://www.jeune-independant.net/pres-de-29000-postes-a-pourvoir-en-2027-un-budget-colossal-pour-revolutionner-la-sante/",
+   "https://algerie-eco.com/2026/10/08/plf-2027-les-principales-mesures-et-les-depenses-prevues/"
+  ],
+  "published": [
+   "2026-10-20",
+   "2026-10-08"
+  ],
+  "why": "This line of the PLF 2027 health budget was presented to Parliament on 19 Oct 2026, so it is a budget item under debate right now. It sits next to DZD 183.55bn for hospital medicines through the PCH.",
+  "N_S1": 2.46,
+  "N_S2": 3.72,
+  "sentence_S1": "Recovering these annual losses of DZD 74 billion would, for instance, have been enough to fund the 2027 budget for vaccines, sera and laboratory reagents from the Institut Pasteur d'Algérie (DZD 30 billion) 2.5 times over.",
+  "evidence_files": [
+   "DZA/jeuneindependant_sante_plf2027_apn_2026-10-20.html",
+   "DZA/algerie_eco_plf2027_depenses_2026-10-08.html",
+   "DZA/boa_taux_de_change_journalier_2026-10-20.html"
+  ]
+ },
+ {
+  "iso3": "TUN",
+  "country": "Tunisia",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-15",
+  "debate": "Cash crisis at the health insurance fund CNAM: private clinics have not been paid for over eight months and one has closed, and doctors, pharmacists and public hospitals are also owed arrears, feeding the medicine shortages that came before Parliament in September 2026.",
+  "comparator": "the more than TND 200 million that private clinics say the health-insurance fund CNAM owes them (CNAM acknowledges about TND 120 million)",
+  "local_value": 200000000,
+  "currency": "TND",
+  "usd_m": 66.7,
+  "fx_rate": 3.0,
+  "fx_source": "Banque Centrale de Tunisie, average interbank rate (cours moyens), 19 Oct 2026.",
+  "sources": [
+   "https://letemps.news/2026/10/15/assurance-maladie-les-cliniques-privees-alertent-sur-lexplosion-des-impayes-de-la-cnam/",
+   "https://letemps.news/2026/09/23/quand-la-cnss-et-la-cnrps-siphonnent-les-finances-de-la-cnam-les-creanciers-et-le-systeme-de-sante-trinquent/",
+   "https://businessnews.com.tn/2026/09/16/medicaments-le-ministere-de-la-sante-annonce-des-mesures-urgentes-face-aux-penuries/1418691/",
+   "https://www.lapresse.tn/2026/09/30/etouffees-par-200-millions-de-dinars-dimpayes-de-la-cnam-les-cliniques-privees-au-bord-de-la-faillite/"
+  ],
+  "published": [
+   "2026-10-15",
+   "2026-09-23",
+   "2026-09-16"
+  ],
+  "why": "The head of the private clinics' chamber gave this figure on 15 Oct 2026, so it is a concrete, current arrears bill. It is the newest link in the chain of CNAM non-payment (over TND 2.2bn owed to public hospitals) that the PLF 2027 does not resolve. Audit of 12 Nov 2026: the TND 200 million is the clinics' figure; CNAM acknowledges about TND 120 million (La Presse, 30 Sep 2026).",
+  "N_S1": 6.28,
+  "N_S2": 6.42,
+  "sentence_S1": "Recovering these annual losses of TND 1.26 billion would, for instance, have been enough to clear the health-insurance fund CNAM's unpaid bills to private clinics (more than TND 200 million) 6.3 times over.",
+  "evidence_files": [
+   "TUN/letemps_cnam_impayes_cliniques_2026-10-15.html",
+   "TUN/letemps_cnam_dettes_hopitaux_2026-09-23.html",
+   "TUN/businessnews_medicaments_mesures_2026-09-16.html",
+   "TUN/bct_cours_moyens_2026-10-19.html",
+   "TUN/lapresse_cnam_cliniques_2026-09-30.html"
+  ]
+ },
+ {
+  "iso3": "TUN",
+  "country": "Tunisia",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-09-17",
+  "debate": "Medicine shortages: an MP put the Pharmacie Centrale's debt at over TND 1.3bn (plus over TND 1.4bn of debts falling due), with at least 20 vital drugs missing. The minister's September 2026 answer offered TND 15m a year, and the PLF 2027 only extends the existing support to the Pharmacie Centrale.",
+  "comparator": "the Pharmacie Centrale's debt (more than TND 1.3 billion), the root of Tunisia's medicine shortages",
+  "local_value": 1300000000,
+  "currency": "TND",
+  "usd_m": 433.3,
+  "fx_rate": 3.0,
+  "fx_source": "Banque Centrale de Tunisie, average interbank rate (cours moyens), 19 Oct 2026.",
+  "sources": [
+   "https://africanmanager.com/la-petite-reponse-a-une-grosse-question-et-qui-se-trompe-de-maillon/",
+   "https://businessnews.com.tn/2026/09/16/medicaments-le-ministere-de-la-sante-annonce-des-mesures-urgentes-face-aux-penuries/1418691/"
+  ],
+  "published": [
+   "2026-09-17",
+   "2026-09-16"
+  ],
+  "why": "This is the largest single need in the medicine crisis. Caution: N is just below 1 (0.97 and 0.99), so the template 'N times over' does not fit and the sentence is adapted. The figure is the MP's, which the source says matches what Pharmacie Centrale heads have said publicly.",
+  "N_S1": 0.97,
+  "N_S2": 0.99,
+  "sentence_S1": "Recovering these annual losses of TND 1.26 billion would, for instance, have been enough to pay off almost all of the Pharmacie Centrale's debt of more than TND 1.3 billion, the root of Tunisia's medicine shortages.",
+  "evidence_files": [
+   "TUN/africanmanager_pct_dette_2026-09-17.html",
+   "TUN/businessnews_medicaments_mesures_2026-09-16.html",
+   "TUN/bct_cours_moyens_2026-10-19.html"
+  ]
+ },
+ {
+  "iso3": "LBY",
+  "country": "Libya",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-18",
+  "debate": "Bread-price surge (flour at about LYD 400 a qintar): the Government of National Unity decided to subsidise the bread loaf for three months under the Ministry of Industry and Minerals, a move criticised for sidelining the Economy Ministry.",
+  "comparator": "the three-month bread subsidy the Government of National Unity decided in October 2026 (LYD 148.5 million, Decision 585/2026)",
+  "local_value": 148500000,
+  "currency": "LYD",
+  "usd_m": 23.2,
+  "fx_rate": 6.4146,
+  "fx_source": "Central Bank of Libya official average rate, 20 Oct 2026 (sell 6.4306 / buy 6.3985).",
+  "sources": [
+   "https://www.libyaakhbar.com/business-news/2899027.html",
+   "https://alwasat.ly/news/482199"
+  ],
+  "published": [
+   "2026-10-18",
+   "2026-10"
+  ],
+  "why": "This is a clean, national budget decision on a basic need, reported this week from a copy of the decision. It covers three months only, so N compares a full year of losses with a quarter's subsidy. Uses the corrected Libya totals (S1 US$351m, S2 US$271m).",
+  "N_S1": 15.16,
+  "N_S2": 11.71,
+  "sentence_S1": "Recovering these annual losses of LYD 2.25 billion would, for instance, have been enough to fund the three-month bread subsidy just decided by the Government of National Unity (LYD 148.5 million) 15 times over.",
+  "evidence_files": [
+   "LBY/libyaakhbar_bread_subsidy_148m_2026-10-18.html",
+   "LBY/alwasat_bread_subsidy_tv_2026-10.md",
+   "LBY/cbl_currency_exchange_rates_2026-10-20.html"
+  ]
+ },
+ {
+  "iso3": "LBY",
+  "country": "Libya",
+  "preferred": false,
+  "currentness": "usable",
+  "latest_date": "2026-06",
+  "debate": "Underfunded response to Sudanese refugees (about 597,000 in Libya, mostly arriving through Kufra): the regional Sudan refugee plan was only 15% funded in June 2026, and Libya's PM decision 113/2026 banned entry of Sudanese nationals.",
+  "comparator": "the UN's entire 2026 response plan for Sudanese refugees and their host communities in Libya (US$115.5 million, about LYD 741 million)",
+  "local_value": 115549190,
+  "currency": "USD",
+  "usd_m": 115.5,
+  "fx_rate": 6.4146,
+  "fx_source": "Central Bank of Libya official average rate, 20 Oct 2026 (used only to express the loss and the plan in LYD).",
+  "sources": [
+   "https://data.unhcr.org/fr/documents/download/121470",
+   "https://data.unhcr.org/en/documents/download/123533"
+  ],
+  "published": [
+   "2026-02",
+   "2026-06"
+  ],
+  "why": "This UN humanitarian financing need (UNHCR plus 14 partners) is sized well for Libya's losses. It is offered as a fallback in case a UN figure reads better than a domestic subsidy in the letter.",
+  "N_S1": 3.04,
+  "N_S2": 2.35,
+  "sentence_S1": "Recovering these annual losses of LYD 2.25 billion would, for instance, have been enough to fund the UN's entire 2026 response plan for Sudanese refugees and their host communities in Libya (US$115.5 million, about LYD 741 million) three times over.",
+  "evidence_files": [
+   "LBY/unhcr_2026_sudan_refugee_response_plan_libya.pdf",
+   "LBY/unhcr_2026_sudan_refugee_response_plan_libya.txt",
+   "LBY/unhcr_sudan_situation_update_2026-06.pdf",
+   "LBY/cbl_currency_exchange_rates_2026-10-20.html"
+  ]
+ },
+ {
+  "iso3": "SDN",
+  "country": "Sudan",
+  "preferred": true,
+  "currentness": "strong",
+  "latest_date": "2026-10-12",
+  "debate": "Famine risk in Greater Darfur and Kordofan (IPC alert of 12 Oct 2026) and a collapsing health system: 37% of facilities are not functioning, and WHO's appeal is only 23% funded. This is a humanitarian financing gap; no clean national budget item was found.",
+  "comparator": "the World Health Organization's entire 2026 humanitarian health appeal for Sudan (US$97.7 million), which is only 23% funded",
+  "local_value": 97700000,
+  "currency": "USD",
+  "usd_m": 97.7,
+  "fx_rate": 4215.75,
+  "fx_source": "Official (Central Bank of Sudan) rate as reported by Khaligyoun on 20 Oct 2026: 4,200 buy / 4,231.5 sell, mid used. The parallel market is 8,681-9,197, so the SDG loss would be about 2.1x higher at market rates. The CBOS website table is stale (2022).",
+  "sources": [
+   "https://www.who.int/news/item/12-10-2026-ipc-sudan-food-insecurity-and-malnutrition-alert",
+   "https://news.un.org/en/story/2026/10/1168556",
+   "https://www.who.int/publications/m/item/sudan--who-health-emergency-appeal-2026"
+  ],
+  "published": [
+   "2026-10-12",
+   "2026-10-08",
+   "2026"
+  ],
+  "why": "WHO and UN News carried this UN funding gap in October 2026, and it is the right size for Sudan's losses. Underfunding of health aid is central to the current famine and cholera debate.",
+  "N_S1": 2.2,
+  "N_S2": 2.2,
+  "sentence_S1": "Recovering these annual losses of SDG 906 billion would, for instance, have been enough to fund the World Health Organization's entire 2026 humanitarian health appeal for Sudan (US$97.7 million), which is only 23% funded, 2.2 times over.",
+  "evidence_files": [
+   "SDN/who_ipc_sudan_alert_2026-10-12.html",
+   "SDN/unnews_who_darfur_health_2026-10-08.md",
+   "SDN/who_sudan_health_emergency_appeal_2026.html",
+   "SDN/khaligyoun_sdg_usd_rates_2026-10-20.html",
+   "SDN/cbos_daily_rates_page_stale_2026-10-20.html"
+  ]
+ },
+ {
+  "iso3": "SDN",
+  "country": "Sudan",
+  "preferred": false,
+  "currentness": "strong",
+  "latest_date": "2026-09-14",
+  "debate": "UN agencies warned on 14 Sep 2026 that Sudan's humanitarian system 'could collapse': shelter and relief stocks were due to run out by end-September, warehouses may close by December without funds, and WFP is only one-third funded. This is a humanitarian financing gap.",
+  "comparator": "the US$15 million the International Organization for Migration needs to keep the UN's common pipeline of shelter and relief supplies in Sudan running for a year",
+  "local_value": 15000000,
+  "currency": "USD",
+  "usd_m": 15.0,
+  "fx_rate": 4215.75,
+  "fx_source": "Official (Central Bank of Sudan) rate as reported by Khaligyoun on 20 Oct 2026: 4,200 buy / 4,231.5 sell, mid used. The parallel market is 8,681-9,197.",
+  "sources": [
+   "https://www.globalsecurity.org/military/library/news/2026/09/mil-260914-iom02.htm",
+   "https://www.arabnews.com/middle-east/un-warns-key-humanitarian-network-in-sudan-could-collapse-within-weeks-3001692",
+   "https://news.un.org/en/story/2026/09/1168331"
+  ],
+  "published": [
+   "2026-09-14",
+   "2026-09-14",
+   "2026-09-14"
+  ],
+  "why": "This small, concrete and current gap shows how little money stands between aid operations and a pipeline break: US$15m would support 305,000 people. The source is IOM's own 14 Sep 2026 release, confirmed by Arab News and UN News.",
+  "N_S1": 14.33,
+  "N_S2": 14.33,
+  "sentence_S1": "Recovering these annual losses of SDG 906 billion would, for instance, have been enough to fund the US$15 million the International Organization for Migration needs to keep the UN's common pipeline of shelter and relief supplies in Sudan running for a year 14 times over.",
+  "evidence_files": [
+   "SDN/iom_press_release_common_pipeline_globalsecurity_2026-09-14.html",
+   "SDN/arabnews_sudan_pipeline_collapse_2026-09-14.html",
+   "SDN/unnews_sudan_humanitarian_pipeline_2026-09-14.md",
+   "SDN/khaligyoun_sdg_usd_rates_2026-10-20.html"
+  ]
+ }
+]
